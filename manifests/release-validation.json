@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "scenario_strings": 34910,
+  "scenario_map": {
+    "manual_special": 5,
+    "manual_gestalt_residual": 232,
+    "exact": 33070,
+    "fuzzy": 325,
+    "unaligned": 136,
+    "translated": 33629,
+    "keep_raw": 139,
+    "unresolved": 0
+  },
+  "validated_choices_without_controls": 336,
+  "black_styled_choices": 0,
+  "fixed_ui_strings": 2651,
+  "fixed_ui_translated": 1039,
+  "relocated_script_pointer_sites": 37219,
+  "validated_init_pointer_sites": 317,
+  "validated_init_by_kind": {
+    "tips": 269,
+    "chronology": 48
+  },
+  "carrier_glyphs": 1374,
+  "protected_english_glyphs": 188,
+  "executable_ui": {
+    "validated_references": 188,
+    "validated_unique_targets": 140,
+    "native_menu_strings": 7,
+    "native_dialog_strings": 32
+  },
+  "zip": "P:\\AI\\Codex\\projects\\remember11-korean\\release\\Remember11-Korean-Gestalt.zip",
+  "zip_sha256": "035f490198e1203d44125a026ae8b52a7800699f6530d975967f92eeaa80468d",
+  "zip_size": 1306597241
+}

@@ -1,0 +1,269 @@
+{
+  "etc": [
+    {
+      "source": "0007__OPTION\\003__op_title.png",
+      "blocks": 9,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0007__OPTION\\003__op_title.png"
+    },
+    {
+      "source": "0008__INFO\\001__sv_parts2.png",
+      "blocks": 6,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0008__INFO\\001__sv_parts2.png"
+    },
+    {
+      "source": "0008__INFO\\003__op_title.png",
+      "blocks": 9,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0008__INFO\\003__op_title.png"
+    },
+    {
+      "source": "0009__ALBUM\\002__al_title.png",
+      "blocks": 8,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0009__ALBUM\\002__al_title.png"
+    },
+    {
+      "source": "0009__ALBUM\\003__al_menu.png",
+      "blocks": 3,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0009__ALBUM\\003__al_menu.png"
+    },
+    {
+      "source": "0009__ALBUM\\004__al_parts.png",
+      "blocks": 10,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0009__ALBUM\\004__al_parts.png"
+    },
+    {
+      "source": "0010__MUSIC\\001__al_title.png",
+      "blocks": 8,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0010__MUSIC\\001__al_title.png"
+    },
+    {
+      "source": "0010__MUSIC\\002__mu_parts.png",
+      "blocks": 6,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0010__MUSIC\\002__mu_parts.png"
+    },
+    {
+      "source": "0011__RESULT\\001__al_title.png",
+      "blocks": 8,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0011__RESULT\\001__al_title.png"
+    },
+    {
+      "source": "0011__RESULT\\004__mu_parts.png",
+      "blocks": 6,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0011__RESULT\\004__mu_parts.png"
+    },
+    {
+      "source": "0012__TITLE\\000__tt_menu.png",
+      "blocks": 58,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0012__TITLE\\000__tt_menu.png"
+    },
+    {
+      "source": "0016__TEXT\\002__rd_help.png",
+      "blocks": 7,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0016__TEXT\\002__rd_help.png"
+    },
+    {
+      "source": "0016__TEXT\\004__op_title.png",
+      "blocks": 9,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0016__TEXT\\004__op_title.png"
+    },
+    {
+      "source": "0017__MAP\\000__map_comment.png",
+      "blocks": 19,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0017__MAP\\000__map_comment.png"
+    },
+    {
+      "source": "0018__HELP\\001__he_bg.png",
+      "blocks": 23,
+      "output": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\etc-components\\0018__HELP\\001__he_bg.png"
+    }
+  ],
+  "bg": [
+    {
+      "index": 740,
+      "blocks": 5,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0740-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0740__IT19A.BIP"
+    },
+    {
+      "index": 786,
+      "blocks": 2,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0786-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0786__EBG02A.BIP"
+    },
+    {
+      "index": 788,
+      "blocks": 16,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0788-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0788__EBG03A.BIP"
+    },
+    {
+      "index": 790,
+      "blocks": 10,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0790-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0790__EBG03B.BIP"
+    },
+    {
+      "index": 870,
+      "blocks": 1,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0870-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0870__EBG18A.BIP"
+    },
+    {
+      "index": 872,
+      "blocks": 1,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0872-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0872__EBG18B.BIP"
+    },
+    {
+      "index": 874,
+      "blocks": 1,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0874-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0874__EBG19A.BIP"
+    },
+    {
+      "index": 876,
+      "blocks": 3,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0876-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0876__EBG19B.BIP"
+    },
+    {
+      "index": 878,
+      "blocks": 1,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0878-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0878__EBG19C.BIP"
+    },
+    {
+      "index": 880,
+      "blocks": 3,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0880-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0880__EBG19D.BIP"
+    },
+    {
+      "index": 882,
+      "blocks": 2,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0882-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0882__EBG20A.BIP"
+    },
+    {
+      "index": 884,
+      "blocks": 2,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0884-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0884__EBG20B.BIP"
+    },
+    {
+      "index": 886,
+      "blocks": 2,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0886-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0886__EBG20C.BIP"
+    },
+    {
+      "index": 888,
+      "blocks": 2,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0888-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0888__EBG20D.BIP"
+    },
+    {
+      "index": 890,
+      "blocks": 2,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0890-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0890__EBG20E.BIP"
+    },
+    {
+      "index": 892,
+      "blocks": 1,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0892-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0892__EBG20F.BIP"
+    },
+    {
+      "index": 926,
+      "blocks": 3,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0926-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0926__CAL_A01.BIP"
+    },
+    {
+      "index": 928,
+      "blocks": 3,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0928-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0928__CAL_A02.BIP"
+    },
+    {
+      "index": 930,
+      "blocks": 3,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0930-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0930__CAL_A03.BIP"
+    },
+    {
+      "index": 932,
+      "blocks": 3,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0932-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0932__CAL_A04.BIP"
+    },
+    {
+      "index": 934,
+      "blocks": 3,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0934-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0934__CAL_A05.BIP"
+    },
+    {
+      "index": 936,
+      "blocks": 3,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0936-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0936__CAL_A06.BIP"
+    },
+    {
+      "index": 938,
+      "blocks": 3,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0938-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0938__CAL_A07.BIP"
+    },
+    {
+      "index": 942,
+      "blocks": 4,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0942-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0942__CAL_B01.BIP"
+    },
+    {
+      "index": 944,
+      "blocks": 4,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0944-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0944__CAL_B02.BIP"
+    },
+    {
+      "index": 946,
+      "blocks": 4,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0946-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0946__CAL_B03.BIP"
+    },
+    {
+      "index": 948,
+      "blocks": 4,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0948-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0948__CAL_B04.BIP"
+    },
+    {
+      "index": 950,
+      "blocks": 4,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0950-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0950__CAL_B05.BIP"
+    },
+    {
+      "index": 952,
+      "blocks": 4,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0952-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0952__CAL_B06.BIP"
+    },
+    {
+      "index": 954,
+      "blocks": 4,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\bg-0954-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\bg-raw\\0954__CAL_B07.BIP"
+    }
+  ],
+  "ev": [
+    {
+      "index": 292,
+      "blocks": 1,
+      "canvas": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\image-canvases\\ev-0292-ko.png",
+      "raw": "P:\\AI\\Codex\\projects\\remember11-korean\\ui\\rendered\\ev-raw\\0292__EV_MV05.BIP"
+    }
+  ]
+}

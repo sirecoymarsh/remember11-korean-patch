@@ -1,0 +1,1302 @@
+{
+  "schema": "remember11.ko-manual-overrides.v1",
+  "count": 216,
+  "translations": [
+    {
+      "key": "mac.afs::0016::0074",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0016::0075",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0016::0076",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0016::0077",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0016::0078",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0016::0079",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0024::0065",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0024::0066",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0024::0067",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0024::0068",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0024::0069",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0024::0070",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0042::0169",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0042::0170",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0042::0171",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0042::0172",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0042::0173",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0042::0174",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0330",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0331",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0332",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0333",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0334",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0335",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0470",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0471",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0472",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0473",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0474",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0475",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0516",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0517",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0518",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0519",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0520",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0044::0521",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0047::0070",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0047::0071",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0047::0072",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0047::0073",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0047::0074",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0047::0075",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0049::0557",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0049::0558",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0049::0559",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0049::0560",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0049::0561",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0049::0562",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0050::0236",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0050::0237",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0050::0238",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0050::0239",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0050::0240",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0050::0241",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0052::0084",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0052::0085",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0052::0086",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0052::0087",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0052::0088",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0052::0089",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0056::0527",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0056::0528",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0056::0529",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0056::0530",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0056::0531",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0056::0532",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0057::0248",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0057::0249",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0057::0250",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0057::0251",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0057::0252",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0057::0253",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0058::0098",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0058::0099",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0058::0100",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0058::0101",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0058::0102",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0058::0103",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0060::0047",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0060::0048",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0060::0049",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0060::0050",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0060::0051",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0060::0052",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0060::0129",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0060::0130",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0060::0131",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0060::0132",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0060::0133",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0060::0134",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0062::0162",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0062::0163",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0062::0164",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0062::0165",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0062::0166",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0062::0167",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0068::0289",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0068::0290",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0068::0291",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0068::0292",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0068::0293",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0068::0294",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0068::0591",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0068::0592",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0068::0593",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0068::0594",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0068::0595",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0068::0596",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0069::0291",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0069::0292",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0069::0293",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0069::0294",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0069::0295",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0069::0296",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0072::0046",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0072::0047",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0072::0048",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0072::0049",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0072::0050",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0072::0051",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0073::0048",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0073::0049",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0073::0050",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0073::0051",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0073::0052",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0073::0053",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0082::0072",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0082::0073",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0082::0074",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0082::0075",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0082::0076",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0082::0077",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0093::0085",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0093::0086",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0093::0087",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0093::0088",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0093::0089",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0093::0090",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0117::0042",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0117::0043",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0117::0044",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0117::0045",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0117::0046",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0117::0047",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0123::0048",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0123::0049",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0123::0050",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0123::0051",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0123::0052",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0123::0053",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0124::0041",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0124::0042",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0124::0043",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0124::0044",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0124::0045",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0124::0046",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0124::0076",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0124::0077",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0124::0078",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0124::0079",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0124::0080",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0124::0081",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0126::0068",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0126::0069",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0126::0070",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0126::0071",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0126::0072",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0126::0073",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0129::0048",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0129::0049",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0129::0050",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0129::0051",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0129::0052",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0129::0053",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0129::0103",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0129::0104",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0129::0105",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0129::0106",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0129::0107",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0129::0108",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0137::0381",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0137::0382",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0137::0383",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0137::0384",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0137::0385",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0137::0386",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0143::0507",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0143::0508",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0143::0509",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0143::0510",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0143::0511",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0143::0512",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0145::0048",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0145::0049",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0145::0050",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0145::0051",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0145::0052",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0145::0053",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0146::0061",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0146::0062",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0146::0063",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0146::0064",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0146::0065",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0146::0066",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0148::0238",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0148::0239",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0148::0240",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0148::0241",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0148::0242",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0148::0243",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0154::0037",
+      "source": "%CF66A%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%CF66A%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0154::0038",
+      "source": "%C88FC%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%C88FC%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0154::0039",
+      "source": "%FS%LCThis⑳story⑳has⑳not⑳finished⑳yet.%FE%N",
+      "target_ko": "%FS%LC이⑳이야기는⑳아직⑳끝나지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0154::0040",
+      "source": "%FS%LCTruth⑳is⑳not⑳revealed.%FE%N",
+      "target_ko": "%FS%LC진실은⑳아직⑳밝혀지지⑳않았다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0154::0041",
+      "source": "%FS%LCAnd⑳it⑳circulates⑳through⑳an⑳incident.%FE%N",
+      "target_ko": "%FS%LC그리고⑳그것은⑳사건⑳속을⑳순환한다.%FE%N",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    },
+    {
+      "key": "mac.afs::0154::0042",
+      "source": "%FS%LC――⑳It⑳is⑳an⑳infinity⑳loop!%FE",
+      "target_ko": "%FS%LC――⑳그것은⑳무한⑳루프다!%FE",
+      "provenance": "Japanese PC source data stores this presentation line in English; translated via the permitted fallback."
+    }
+  ]
+}

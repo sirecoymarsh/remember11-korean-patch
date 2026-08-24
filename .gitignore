@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.afs
+*.exe
+*.avi
+*.7z
+*.zip
+!release/*.zip.sha256

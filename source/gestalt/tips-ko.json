@@ -1,0 +1,3043 @@
+{
+  "schema": "remember11.gestalt-pc-tips-ko.v1",
+  "source": "Japanese PSP TIPS only",
+  "tips": 110,
+  "japanese_pages": 273,
+  "pc_pages": 269,
+  "mappings": [
+    {
+      "site": 69856,
+      "pointer": 88860,
+      "tip": 0,
+      "target_ko": "소시오로지／sociology%N사회학.%N인간의 사회적 행위와 연관 지어%N사회생활·사회조직·사회문제 등의%N구조를 밝히려는 학문.%N",
+      "source_en": "The  study  of  the  mechanisms  behind  social  life,  social  structures,  and  social  issues  in  relation  to  human  social  behaviors.  "
+    },
+    {
+      "site": 69868,
+      "pointer": 89024,
+      "tip": 1,
+      "target_ko": "인새니티／insanity%N광기, 어리석은 행동, 정신 장애.%N",
+      "source_en": "Madness,  foolish  actions,  mental  illness.  "
+    },
+    {
+      "site": 69880,
+      "pointer": 89088,
+      "tip": 2,
+      "target_ko": "저녁%N오늘날에는 밤 전체를 뜻하기도 하지만,%N본래는 황혼 무렵부터 해가 진 지 얼마 되지 않은%N초저녁을 가리킨다.%N",
+      "source_en": "Even  though  the  term  is  now  used  to  mean  night  in  general,  originally  it  was  used  to  describe  the  period  of  time  between  twilight  and  sunset;  in  other  words,  the  time  when  night  begins.  "
+    },
+    {
+      "site": 69892,
+      "pointer": 89324,
+      "tip": 3,
+      "target_ko": "SPHIA／스피아%NSpecified Psychiatric Hospital for%NIsolation and Aegis%N2007년 형법 개정에 따라 전국 각지에 신설된%N특별 정신병원.%N중대한 범죄를 저지른 정신 장애인에게%N적절한 치료를 시행해 사회로 복귀시키는 것을%N목적으로 한다.",
+      "source_en": "Specified  Psychiatric  Hospital  for  Isolation  and  Aegis%N%NSince  the  revision  of  the  penal  code  in  2007,  special  psychiatric  hospitals  were  constructed  in  various  regions  across  the  country.%N%NThe  purpose  of  these  facilities  is  to  administer  proper  treatments  to  those  who  are  suffering  from  mental  illnesses  and  have  committed  serious  crimes  so  that  they  can  be  reintegrated  into  society."
+    },
+    {
+      "site": 69896,
+      "pointer": 89772,
+      "tip": 3,
+      "target_ko": "시설 구조와 치료 내용은 환자의 사생활을%N존중하여 일절 공개되지 않았다.%N공개된 것은 소재지뿐이다.%N이누부시 게이코가 수용된 스피아는%N홋카이도의 %TS004아오사기섬%TE⑳에 있다.%N정식 명칭:%N격리와 보호를 위한 특정 정신 의료 시설.",
+      "source_en": "The  layout  of  these  facilities  and  the  course  of  treatments  there  are  undisclosed  to  respect  the  privacy  of  the  patients.%N%NAll  that's  known  about  these  facilities  are  their  locations.%N%NThe  SPHIA  in  which  Inubushi  Keiko  is  institutionalized  is  located  on  %TS004Aosagi  Island%TE.  "
+    },
+    {
+      "site": 69908,
+      "pointer": 90124,
+      "tip": 4,
+      "target_ko": "아오사기섬%N레분섬에서 서쪽으로 약 5km 떨어진 바다에%N떠 있는 외딴섬으로, 스피아가 세워지기 전에는%N무인도였다.%N비행장은 없으며, 왓카나이항에서 비정기적으로%N출항하는 배가 유일한 교통수단이다.%N일반적으로 정부 발행 허가증이 없으면%N이 섬에 상륙할 수 없다.%N",
+      "source_en": "Located  approximately  five  kilometers  west  of  Rebun  Island,  Aosagi  Island  was  uninhabited  until  the  construction  of  SPHIA.%N%NIt  possesses  no  airport,  and  the  only  way  to  get  there  is  by  a  boat  which  departs  from  Wakkanai  Harbor  on  an  irregular  basis.%N%NNormally,  entry  to  the  island  without  a  government-%Nissued  permit  is  prohibited.  "
+    },
+    {
+      "site": 69920,
+      "pointer": 90528,
+      "tip": 5,
+      "target_ko": "야외 숙박이나 노숙을 뜻하는 등산 용어.%N산장이나 야영지가 아닌 곳에서%N하룻밤을 보내는 것.%N",
+      "source_en": "A  mountain-climbing  term,  meaning  to  sleep  outdoors.%NTo  pass  the  night  at  a  location  where  there  are  no  cabins  or  campgrounds.  "
+    },
+    {
+      "site": 69932,
+      "pointer": 90696,
+      "tip": 6,
+      "target_ko": "깊은 눈을 헤치며 길을 내어 전진하는 것.%N등산 용어.%N",
+      "source_en": "To  push  through  deep  layers  of  snow,  creating  a  path  while  moving  forward.%N%NA  mountain-climbing  term.  "
+    },
+    {
+      "site": 69944,
+      "pointer": 90824,
+      "tip": 7,
+      "target_ko": "Global Positioning System%N인공위성을 이용해 3차원 공간에 있는 수신자%N(사람, 선박, 항공기, 자동차 등)의 위치를%N구하는 시스템.%N",
+      "source_en": "Global  Positioning  System%N%NA  system  employing  satellites  to  calculate  the  position  of  a  receiver  (a  person,  boat,  plane,  car,  etc.)  in  a  3D  space.  "
+    },
+    {
+      "site": 69956,
+      "pointer": 91028,
+      "tip": 8,
+      "target_ko": "동결 건조법.%N식품을 급속 냉동한 뒤 건조하여%N맛과 영양가를 유지하고 형태도 흐트러뜨리지 않으며,%N물이나 뜨거운 물만 부으면 곧바로 원래 상태로%N되돌릴 수 있게 하는 식품 제조법.%N",
+      "source_en": "A  method  of  rapidly  freezing  and  dehydrating  food,  allowing  it  to  retain  its  flavor  and  nutritional  content  without  losing  its  shape.  Freeze-dried  foodstuffs  can  later  be  reconstituted  with  hot  or  cold  water.  "
+    },
+    {
+      "site": 69968,
+      "pointer": 91304,
+      "tip": 9,
+      "target_ko": "프랑스의 수학자이자 천문학자인%N『피에르 시몽 드 라플라스』가 제창한 개념.%N어느 한순간, 세계에 존재하는 모든 것의 상태를%N정확히 알 수 있는 『악마』라는 존재가 있다고 하자.%N아무리 짧은 순간이라 해도 악마에게는%N미래와 과거의 상태를 꿰뚫어 보기에%N충분하다.%N",
+      "source_en": "A  concept  proposed  by  Pierre-Simon  Laplace,  a  French  mathematician  and  astronomer.%N%NSuppose  there  exists  a  \"demon\";  that  is,  an  entity  that  possesses  the  ability  to  know,  at  a  certain  moment,  the  state  of  all  things  in  the  universe.%NThen,  no  matter  how  brief  this  moment  is,  it  would  always  be  enough  for  the  demon  to  unravel  everything  that  happened  in  the  past  and  will  happen  in  the  future."
+    },
+    {
+      "site": 69972,
+      "pointer": 91768,
+      "tip": 9,
+      "target_ko": "요컨대 라플라스가 말하고자 한 것은%N『세계에서 일어나는 모든 사건은%N처음부터 전부 정해져 있다』는 것이다.%N아무리 작은 사건이든 큰 사건이든%N우연이 아니라 필연적으로 일어난다는 뜻이다.%N철학에서는 이를 『결정론적 세계관』이라%N부른다.%N",
+      "source_en": "What  Laplace  was  trying  to  say  with  this  is  that,  basically,  \"everything  which  occurs  in  the  world  has  been  predetermined  from  the  beginning\".%NThat,  no  matter  how  big  or  how  small  an  event  is,  its  occurrence  is  by  no  means  accidental,  but  in  fact  inevitable.%N%NIn  philosophy,  this  is  called  causal  determinism.  "
+    },
+    {
+      "site": 69984,
+      "pointer": 92156,
+      "tip": 10,
+      "target_ko": "androgynous%N그리스어. 양성구유 또는 그런 사람이라는 뜻.%N남성과 여성의 성을 모두 갖춘 존재.%N",
+      "source_en": "From  the  Greek,  meaning  one  (a  person)  who  possesses  both  sexes.%N%NAn  existence  that  is  a  combination  of  both  the  male  and  female  sex.  "
+    },
+    {
+      "site": 69996,
+      "pointer": 92368,
+      "tip": 11,
+      "target_ko": "Gender Identity Disorder%N형태적으로는 완전히 정상이며 자기 육체가%N어느 성에 속하는지 분명히 인식하면서도,%N인격적으로는 자신이 다른 성에 속한다고%N확신하는 상태.%N",
+      "source_en": "A  state  in  which  a  person's  body  is  morphologically  normal,  but  they  feel  that  their  physical  sex  is  at  odds  with  their  gender,  and  consider  themselves  to  be  in  actuality  a  member  of  the  opposite  sex.  "
+    },
+    {
+      "site": 70008,
+      "pointer": 92664,
+      "tip": 12,
+      "target_ko": "생물의 몸을 만드는 설계도라 할 수 있는 유전자(DNA).%N이 유전 정보를 분석해 다른 유전자와%N재조합하거나 합성하는 기술――%N이런 기술을 통틀어 유전공학이라 한다.%N현재 유전공학 분야에서 가장 주목받는 것이%N클론 기술이다.%N클론은 무성생식으로 증식해 생긴,%N유전적으로 부모와 완전히 같은 세포 집단을 뜻하는%N생물학 용어다.%N",
+      "source_en": "The  bodies  of  all  living  things  are  derived  from  biological  blueprints  called  genes  (DNA).%NThe  methods  used  to  analyze  and  manipulate  the  information  stored  in  genes,  recombination,  synthesis,  and  other  similar  technologies,  are  collectively  classified  under  the  umbrella  term  of  genetic  engineering.%N%NCurrently,  the  technology  enjoying  the  limelight  in  the  field  of  genetic  engineering  is  cloning  technology."
+    },
+    {
+      "site": 70012,
+      "pointer": 93132,
+      "tip": 12,
+      "target_ko": "이 기술로 태어난 인간을 클론 인간이라%N부른다.%N(덧붙이자면 클론이라는 말은%N⑳그리스어 『Klon＝작은 가지』에서 유래했다.)%N1997년 영국에서 세계 최초의 체세포 복제 양%N『돌리』의 탄생이 발표되었다.%N돌리의 성공은 유전자가 지닌 가능성에%N새로운 빛을 던졌다.%N",
+      "source_en": "The  term  \"clone\"  is  from  biology.  It  refers  to  a  life  form  produced  through  asexual  reproduction,  whose  cells  are  perfectly  genetically  identical  to  those  of  its  parent.%NThose  born  from  this  technology  are  called  human  clones.%N%N（As  an  aside,  the  word  clone  is  derived  from  the  Greek  word  \"klon\",  meaning  \"twig\".)"
+    },
+    {
+      "site": 70016,
+      "pointer": 93500,
+      "tip": 12,
+      "target_ko": "돌리는 그때까지 생식세포로 만들던%N『수정란 클론』과 달리,%N성체의 유선 세포(체세포)에서 태어난%N『체세포 핵이식 클론(이하 『클론』)』이었다.%N즉 『체세포 핵이식』 기술을 통해%N『체세포만 있으면 같은 유전 정보를 가진%N⑳동물을 몇 번이고 재생할 수 있다』는 사실을%N증명한 것이다.%N",
+      "source_en": "In  1997,  the  birth  in  England  of  the  world's  first  somatic  cell  clone,  a  sheep  named  Dolly,  was  announced.  The  successful  creation  of  Dolly  shed  new  light  on  the  potentials  of  genetic  engineering.%N%NDolly  was  different  from  the  embryonic  cell  clones  that  had  previously  been  born  from  reproductive  cell  tissue.  She  was  cloned  from  the  mammary  tissue  (somatic  cells)  of  an  adult  sheep,  making  her  the  first  \"somatic  cell  clone  using  nuclear  transfer\"  (hereinafter  simply  \"clone\")  in  the  world."
+    },
+    {
+      "site": 70020,
+      "pointer": 94072,
+      "tip": 12,
+      "target_ko": "그 뒤 다양한 형질전환 클론이 탄생했지만,%N그 탄생(발생) 과정이 통상적인 방식을%N너무나 크게 벗어났기에 인간 복제 연구에는%N금지 또는 엄격한 규제가 부과되었다.",
+      "source_en": "In  other  words,  the  success  of  the  technology  to  create  a  somatic  cell  clone  using  nuclear  transfer  served  to  verify  the  hypothesis  that  if  somatic  cells  were  available,  it  would  be  possible  to  bring  any  animal  back  to  life  as  an  exact  copy,  any  number  of  times.%N%NAfter  that,  various  transgenic  clones  were  created,  but  since  the  process  of  their  birth  (cell  development)  was  viewed  as  diverging  too  far  from  natural  means,  human  cloning  research  was  banned  or  otherwise  strictly  regulated."
+    },
+    {
+      "site": 70024,
+      "pointer": 94644,
+      "tip": 12,
+      "target_ko": "일본에서는 2001년 『인간에 관한 클론 기술 등의%N규제에 관한 법률(클론 규제법)』을 시행했다.%N이 밖에도 영국·프랑스·독일 등의 주요국은%N『인간의 존엄을 침해한다』는 이유로%N클론 인간의 제작을 법으로 금지했다.%N",
+      "source_en": "In  the  year  2001,  the  \"human-related  cloning  regulation  law\"  (cloning  law)  was  enforced  in  Japan.%NAdditionally,  major  countries  such  as  England,  France,  and  Germany  prohibited  the  creation  of  human  clones,  calling  it  \"an  affront  to  human  dignity\".%N%NHowever,  the  combined  power  of  forces  such  as  sheer  human  curiosity,  infertility  problems,  and  possibly  the  wish  to  meet  with  lost  loved  ones  again  would  not  let  it  be  stopped  altogether.  Thus,  illegal  research  continued  behind  the  scenes,  and  before  long,  the  birth  cries  of"
+    },
+    {
+      "site": 70028,
+      "pointer": 95252,
+      "tip": 12,
+      "target_ko": "하지만 인간의 『지적 호기심』과 『불임 문제』,%N또는 『잃어버린 존재에 대한 슬픔과 재회를 바라는 마음』을%N억누를 수는 없었다.%N비밀리에 불법 연구가 진행되었고,%N마침내 몇 명의 클론 인간이 세상에%N첫 울음을 터뜨렸다.%N그로 인해 여러 소동이 벌어졌고,%N각국에서는 윤리 문제를 둘러싼 격렬한 논쟁이%N이어졌다.%N",
+      "source_en": "the  very  first  human  clones  were  heard  in  the  world.%N%NAs  a  result,  various  protests  and  controversies  took  root,  and  in  many  countries,  the  question  of  ethics  was  back  on  the  table  for  the  furious  debate  about  to  unfold.%N%NIn  the  midst  of  this,  a  trial  concerning  the  issue  of  the  birth  of  clones  was  held."
+    },
+    {
+      "site": 70032,
+      "pointer": 95616,
+      "tip": 12,
+      "target_ko": "그런 가운데 클론의 탄생을 둘러싼%N한 재판이 일본에서 열렸다.%N――2010년의 일이다.%N피고인은 어느 과학자 한 명.%N그는 자기 아들의 클론을 만들었다.%N『사고로 죽은 아들을 어떻게든 다시 한번%N⑳만나고 싶었다』는 것이 이유였다.%N이윽고 비밀이 새어 나가 재판에 회부되었다.%N",
+      "source_en": "−−The  year  was  2010.%NThe  accused,  a  certain  lone  scientist.%NHe  had  created  a  clone  of  his  own  son.%NAnd  the  reason  for  that,  he  said,  was  simply  \"I  just  wanted  to  see  my  son,  who  was  killed  in  an  accident,  one  more  time,  no  matter  the  cost.\"%NBut  before  long,  his  secret  had  been  revealed,  and  thus  judgment  was  pronounced  upon  him.%N%NAnd  the  result  of  the  judges'  decision  was...  life  imprisonment."
+    },
+    {
+      "site": 70036,
+      "pointer": 96088,
+      "tip": 12,
+      "target_ko": "판결 결과는…… 무기징역이었다.%N그러나 클론 소년의 증언이 보도되자%N여론은 단숨에 뒤집혔고,%N마침내 법률까지 개정할 힘이 되었다.%N소년은 눈물을 흘리며 세상에 이렇게 호소했다――%N『아빠는 아무 잘못도 하지 않았어요.%N⑳나는 아빠에게 감사해요. 내 생명은 아빠가%N⑳준 것이니까요……』%N",
+      "source_en": "However,  when  the  content  of  the  cloned  boy's  testimony  was  reported,  it  caused  a  complete  turnover  of  public  opinion,  which  grew  powerful  enough  to  lead  to  amendment  of  the  law  in  the  end.%N%NSo  what  was  it  that  the  boy  said  so  plaintively  through  his  tears?%N%N\"Papa  didn't  do  anything  wrong.  I'm  so  grateful  to  Papa.  Because  Papa  is  the  one  who  gave  me  this  life...\""
+    },
+    {
+      "site": 70040,
+      "pointer": 96524,
+      "tip": 12,
+      "target_ko": "그리하여 그해부터 인간의 클론 수정이%N허용되었다.%N관계 부처의 허가만 받으면 누구나%N클론 수정을 이용한 불임 치료를 받을 수 있게 되었다.%N이후 클론 인간은 합법적으로 태어나기 시작했고,%N2019년 무렵에는 초등학생 1,000명 중%N한두 명 정도가 클론 인간이라는 사실이%N상식이 되었다.%N",
+      "source_en": "And  so,  that  same  year  saw  the  lifting  of  the  ban  of  the  birth  of  human  clones.%N%NAnyone  was  free  to  use  cloning  technologies  as  a  form  of  infertility  treatment,  as  long  as  permission  from  the  proper  authorities  has  been  granted.%N%NSince  then,  human  clones  have  continued  to  be  born  legally;  by  the  year  2019,  it  became  common  knowledge  that  one  to  two  of  every  1,000  primary  school  students  were  clones."
+    },
+    {
+      "site": 70044,
+      "pointer": 97000,
+      "tip": 12,
+      "target_ko": "개정된 클론법……%N그것은 단 한 소년의 작은 행복을 위해%N여론이 만든, 인류의 다정함이 담긴 법일지도 모른다.%N하지만 법 개정 뒤에도 더 큰 문제가%N남아 있었다.%N클론 인간에 대한 차별이다.%N앞서 말했듯 탄생 과정이 기이하다는 이유로%N클론들은 기피의 대상이 되었다.%N",
+      "source_en": "As  for  the  revised  cloning  law...%NFor  it  to  have  been  struck  down  by  public  opinion  rallied  simply  for  the  sake  of  the  happiness  of  one  small  boy,  perhaps  it  truly  was  a  law  that  stood  in  opposition  to  human  kindness.%N%NHowever,  even  after  the  amendment  of  the  law,  a  large  problem  still  remained.%NCloned  people  faced  opposition  and  discrimination.%NAs  previously  stated,  the  unnatural  nature  of  their  birth  and  existence  led  many  to  be  shunned."
+    },
+    {
+      "site": 70048,
+      "pointer": 97520,
+      "tip": 12,
+      "target_ko": "클론은 핵세포 제공자(『게놈 마더』 또는%N『오리지널』)와 완전히 같은 유전 정보를%N지니므로 『오리지널의 복제품』 같은%N차별적 표현으로 불리며 조롱받았다.",
+      "source_en": "Since  the  clones'  genetic  information  was  perfectly  identical  to  that  of  their  nucleoplasm  provider  (\"genome  mother\"  or  \"original\"),  they  were  mockingly  referred  to  as  \"copies  of  the  original\".%N%N(However,  strictly  speaking,  this  belief  is  mistaken.  At  the  time  of  a  clone's  creation,  he  or  she  inherits  the  mitochondria  of  the  woman  who  provided  the  unfertilized  egg  (\"host  mother\").  Since  the  genome  mother  and  host  mother  are  two  different  people,  the  clone  cannot  be  said  to  be  an  exact  replica  of  the  original.)"
+    },
+    {
+      "site": 70052,
+      "pointer": 98120,
+      "tip": 12,
+      "target_ko": "(그러나 엄밀히 말하면 이러한 인식은 잘못되었다.%N⑳클론을 생성할 때 미수정란을 제공하는 여성%N⑳(『호스트 마더』)의 유전 정보가 클론의%N⑳미토콘드리아에 이어지기 때문이다.%N⑳게놈 마더와 호스트 마더가 같은 사람이 아닌 한,%N⑳오리지널과 클론을 완전히 동일한 존재라고%N⑳할 수는 없다.)%N",
+      "source_en": "In  order  to  solve  these  problems  moving  forward,  perhaps  humanity  will  need  to  deepen  their  understanding  of  genetic  engineering  with  time.%N%NUntil  then,  clones  and  their  supporters  can  only  keep  on  hoping,  believing  that  the  day  will  surely  come  when  clones  can  live  without  fear..."
+    },
+    {
+      "site": 70056,
+      "pointer": 98448,
+      "tip": 12,
+      "target_ko": "이런 문제를 해결하려면 시간과 함께 사람들이%N유전공학이라는 분야를 더 깊이 이해해야%N한다고밖에는 말할 수 없을 것이다.%N클론들이 두려움 없이 살아갈 수 있는 세상……%N그런 시대가 언젠가 오리라 믿으며――.%N",
+      "source_en": "Finally,  we  shall  introduce  a  certain  person  who  had  a  global  influence  in  the  field  of  genetic  engineering.%N%NHe  is  Japan's  Doctor  Morino  Shigezou.%N%NSince  the  latter  part  of  the  20th  Century,  Doctor  Morino  has  taken  part  in  the  international  Human  Genome  Project,  where  he  had  been  credited  with  the  discovery  of  a  groundbreaking  method  for  analyzing  the  sequence  of  DNA.  Furthermore,  the  doctor  himself  is  known  to  have  created  human  clones."
+    },
+    {
+      "site": 70060,
+      "pointer": 98964,
+      "tip": 12,
+      "target_ko": "마지막으로 유전공학 분야에서%N세계적인 권위를 지닌 인물을 소개하자.%N일본의 『모리노 시게조』 박사다.%N모리노 박사는 20세기 후반부터 세계적 규모로%N시작된 『인간 게놈 계획』에 참여해%NDNA 염기서열의 획기적인 분석법을 발견했다고 한다.%N또한 박사 자신도 클론 인간을%N탄생시킨 경력이 있다.%N다만 성공 사례가 한 명인지 십수 명인지,%N아니면 전혀 없는지는 확실하지 않다.%N",
+      "source_en": "However,  there  are  opinions  as  to  exactly  what  number  of  successfully  produced  clones  his  achievements  amount  to  (if  any  at  all),  and  the  truth  remains  uncertain.  "
+    },
+    {
+      "site": 70072,
+      "pointer": 99164,
+      "tip": 13,
+      "target_ko": "Local Area Network%N같은 건물 안 등에 구축한%N컴퓨터 네트워크.%N여러 정보를 한꺼번에 송수신하고 처리할 수 있다.%N",
+      "source_en": "Local  Area  Network%N%NA  network  of  interconnected  computers  installed  in  the  same  area,  such  as  the  inside  of  a  building.%NAllows  for  the  sending,  receiving,  and  processing  of  various  types  of  data  in  bulk.  "
+    },
+    {
+      "site": 70084,
+      "pointer": 99420,
+      "tip": 14,
+      "target_ko": "인터넷 홈페이지의 정보를%N표시하기 위한 열람 소프트웨어.%N",
+      "source_en": "A  software  application  that  retrieves,  traverses,  and  displays  the  information  resources  from  various  sources  such  as  web  servers  or  the  Internet  on  web  pages.  "
+    },
+    {
+      "site": 70096,
+      "pointer": 99684,
+      "tip": 15,
+      "target_ko": "이른바 다중인격에서 가장 오랫동안%N신체를 지배하는 인격을 주인격이라 한다.%N(태어나서 처음 지닌 인격＝오리지널 인격이%N⑳주인격이 되는 경우가 많다.)%N주인격과 별개로 짧은 기간 신체를 지배하는%N인격은 부인격이라 부른다.%N",
+      "source_en": "In  a  person  exhibiting  so-called  multiple  personality  disorder,  the  personality  which  is  in  control  of  the  body  for  the  longest  periods  of  time  is  called  the  dominant  personality  (this  is  most  often  the  \"original\"  baseline  personality  which  the  person  has  had  since  birth).%N%NOther  personalities  which  sometimes  assume  control  of  the  body  for  shorter  periods  are  called  alternate  personalities.  "
+    },
+    {
+      "site": 70108,
+      "pointer": 100160,
+      "tip": 16,
+      "target_ko": "신체에는 이물질을 배제하기 위한 방어 체계,%N즉 면역이 갖춰져 있다.%N이식 수술 등으로 다른 사람의 장기를 이식하면%N신체에는 이물질인 이식 장기를 배제하려고%N면역 체계가 작동한다.%N그 면역 공격을 거부 반응이라 한다.%N",
+      "source_en": "The  refusal  of  the  body  to  accept  foreign  substances;  a  defensive  reaction  meant  to  protect  it  against  infection.%N%NWhen  an  organ  or  similar  tissue  from  another  person  is  transplanted,  it  is  viewed  as  a  foreign  substance  by  the  immune  system,  which  will  attempt  to  destroy  the  tissue  and  expel  it  from  the  body.%N%NThis  type  of  immune  system  attack  is  called  rejection.  "
+    },
+    {
+      "site": 70120,
+      "pointer": 100608,
+      "tip": 17,
+      "target_ko": "하나의 신경세포 단위.%N신경세포체·수상돌기·축삭으로 이루어진다.%N자극을 받아들이고 전달하는 기능을 한다.%N",
+      "source_en": "A  nerve  cell.%NComposed  of  a  cell  body,  an  axon,  and  dendrites.%NReceives  and  transmits  stimuli.  "
+    },
+    {
+      "site": 70132,
+      "pointer": 100736,
+      "tip": 18,
+      "target_ko": "뉴런과 뉴런을 잇는 역할을 한다.%N신경세포는 이 시냅스를 통해%N신호를 주고받는다.%N",
+      "source_en": "A  bridge  between  neurons.%NNeurons  send  signals  to  each  other  via  synapses.  "
+    },
+    {
+      "site": 70144,
+      "pointer": 100852,
+      "tip": 19,
+      "target_ko": "서로 연결된 두 대 이상의 컴퓨터 중%N대용량을 지니고 주요 연산과 제어를 담당하는%N상위 컴퓨터.%N",
+      "source_en": "In  a  network  of  two  or  more  interconnected  computers,  the  client  is  a  terminal  that  receives  commands  from  the  host  computer.  "
+    },
+    {
+      "site": 70156,
+      "pointer": 101016,
+      "tip": 20,
+      "target_ko": "서로 연결된 두 대 이상의 컴퓨터 중%N호스트 컴퓨터의 지시를 받는 쪽의%N단말기를 가리킨다.%N",
+      "source_en": "In  a  network  of  two  or  more  interconnected  computers,  the  client  is  a  terminal  that  receives  commands  from  the  host  computer.  "
+    },
+    {
+      "site": 70168,
+      "pointer": 101192,
+      "tip": 21,
+      "target_ko": "2008년에 가결된 법안으로%N결혼한 부부는 어느 쪽 성을 따를지%N스스로 정할 수 있게 되었다.%N",
+      "source_en": "With  the  approval  of  a  bill  in  2008,  married  couples  may  decide  to  use  either  partner's  surname  or  retain  separate  family  names.  "
+    },
+    {
+      "site": 70180,
+      "pointer": 101372,
+      "tip": 22,
+      "target_ko": "초능력 등을 이용해 물체나 사람이 멀리 떨어진 곳으로%N순식간에 이동하는 것. 순간이동.%N",
+      "source_en": "The  act  by  which  an  object  or  person,  by  use  of  powers  such  as  ESP,  moves  instantaneously  to  another  place.%NAlso  referred  to  as  instantaneous  movement.  "
+    },
+    {
+      "site": 70192,
+      "pointer": 101600,
+      "tip": 23,
+      "target_ko": "프랑스 정규군으로 프랑스 육군에 속한다.%N1831년 프랑스 국왕 루이 필리프가%N창설했다.%N전쟁 때 자국 병사 대신 다른 나라의 용병을 쓰면%N자국민이 다치지 않는다는 발상에서%N만들어졌다고 한다.%N외인부대에는 항복이라는 말이 없으며,%N포로가 되었을 때를 대비한 교육도 없다.%N죽을 때까지 싸우도록 훈련받는다.%N",
+      "source_en": "(a.k.a.  French  Foreign  Legion)%NA  unit  in  the  French  Army.  Created  in  1831  by  Louis  Philippe,  the  then  King  of  the  French.%NThe  purpose  of  its  creation  was  to  reduce  wartime  casualties  amongst  native  French  soldiers  by  using  mercenaries  from  other  countries  and  foreign  nationals  instead.%N%NThe  Mercenary  Legion  troops  know  not  of  the  word  \"surrender\",  nor  are  they  taught  how  to  act  when  captured;  they  are  trained  to  fight  to  the  death."
+    },
+    {
+      "site": 70196,
+      "pointer": 102112,
+      "tip": 23,
+      "target_ko": "알제리 정복, 인도차이나 전쟁,%N알제리 내전 등에 외인부대가 투입되어%N많은 외국인 병사가 목숨을 잃었다.%N현재도 프랑스가 해외에 파병할 때는%N거의 반드시 외인부대를 보낸다.%N최근에는 아프가니스탄과 코소보 등에%N파병된 것으로 보인다.%N",
+      "source_en": "The  Mercenary  Legion  has  fought  in  many  conflicts,  such  as  the  French  conquest  of  Algeria,  the  Indochina  War,  and  the  Algerian  Civil  War;  many  foreign  soldiers  lost  their  lives  in  these  conflicts.%N%NEven  now,  any  French  troops  dispatched  overseas  are  almost  always  from  the  Mercenary  Legion.%NThey  were  recently  deployed  in  areas  such  as  Afghanistan  and  Kosovo.  "
+    },
+    {
+      "site": 70208,
+      "pointer": 102568,
+      "tip": 24,
+      "target_ko": "나이프는 사용할수록 점점 잘 들지 않게 된다.%N날의 예리함을 유지하려면 평소 손질이 중요하다.%N기본적인 일상 관리는 사용한 뒤%N칼날을 닦아 두는 것이다.%N%N나이프는 물에 약하다! 요즘 나이프는%N스테인리스 제품이 주류다.%N스테인리스는 녹이 잘 슬지 않는 소재이지만%N전혀 녹슬지 않는 것은 아니다.%N따라서 물에 젖은 뒤에는 반드시 손질해야 한다.%N",
+      "source_en": "As  a  knife  is  used,  it  will  gradually  grow  dull  over  time.%NTo  maintain  an  optimum  level  of  sharpness,  daily  care  is  essential.%N%NThe  most  basic  form  of  daily  maintenance  is  to  polish  the  blade  after  each  use.  Water  is  very  bad  for  knives!%NMost  modern  knives  are  made  from  stainless  steel,  which  is  resistant  to  rust;  however,  this  doesn't  mean  that  they  are  rustproof.%NTherefore,  they  should  be  dried  off  quickly  after  coming  into  contact  with  water."
+    },
+    {
+      "site": 70212,
+      "pointer": 103096,
+      "tip": 24,
+      "target_ko": "%N%N예리함을 되찾는 방법에는%N호닝과 터치업이 있다.%N호닝은 나이프를 연마하는 것.%N터치업은 칼날이 더 잘 들도록 손보는 작업이다.%N예리함이 떨어졌을 때 하는 응급처치라고%N생각하면 된다.%N",
+      "source_en": "To  return  a  dull  knife  to  its  sharpened  state,  different  methods  such  as  honing  and  touch-up  exist.%N%NHoning  refers  to  sharpening  a  knife.%NTo  touch  up  a  knife  means  to  improve  its  ability  to  cut.%NWhen  a  knife  becomes  dull,  it's  best  to  think  about  seeing  to  it  right  away.  "
+    },
+    {
+      "site": 70224,
+      "pointer": 103452,
+      "tip": 25,
+      "target_ko": "홋카이도 남서부, 오시마반도 서쪽 바다에 있는 섬.%N1993년(헤이세이 5년) 7월에 발생한%N홋카이도 남서쪽 해역 지진으로 큰 피해를 입었다.%N",
+      "source_en": "An  island  to  the  southwest  of  Hokkaido,  off  the  western  edge  of  the  Oshima  Peninsula.%NIt  was  severely  damaged  in  the  Southwestern  Hokkaido  Earthquake  that  struck  in  July  of  1993  (Heisei  5).  "
+    },
+    {
+      "site": 70236,
+      "pointer": 103696,
+      "tip": 26,
+      "target_ko": "캄브리아기에 살았던 절지동물.%N몸길이는 2~4cm 정도인 것이 많다.%N",
+      "source_en": "Arthropods  that  lived  in  the  Cambrian  period.%NMost  had  a  body  length  of  about  2-4  centimeters.  "
+    },
+    {
+      "site": 70248,
+      "pointer": 103840,
+      "tip": 27,
+      "target_ko": "비행 고도 등 비행 관련 자료를 시간과 함께%N자동으로 기록하는 장치.%N내열성과 내진성이 높은 견고한 상자에 담겨 있다.%N",
+      "source_en": "(a.k.a.  Black  Box)%N%NAn  aviation  device  that  automatically  records  speed,  altitude,  and  other  information  about  the  flight  in  real  time.%N%NHoused  in  a  very  sturdy  casing  which  makes  it  highly  resistant  to  damage  by  fire  or  force  trauma.  "
+    },
+    {
+      "site": 70260,
+      "pointer": 104140,
+      "tip": 28,
+      "target_ko": "태양에서 태양계 공간으로 방출되는%N플라스마의 흐름.%N주로 전자와 양성자로 이루어지며%N속도는 초속 약 350~700km다.%N혜성의 꼬리가 태양 반대쪽으로 뻗는 것은%N태양풍에 밀려나기 때문이다.%N지구 자기장 때문에 지상에는 닿지 않지만,%N자기 폭풍·오로라·전리층 교란 등은%N태양풍을 원인으로 일어난다.%N",
+      "source_en": "A  stream  of  plasma  which  emanates  from  the  upper  atmosphere  of  the  sun.  It  is  composed  mainly  of  electrons  and  protons,  and  moves  at  speeds  of  350-700  kilometers  per  second.%NComets  which  leave  trails  tracing  to  the  far  side  of  the  sun  are  blown  there  by  the  solar  wind.%N%NIt  does  not  reach  as  far  as  the  surface  of  the  Earth  due  to  the  Earth's  magnetic  field;  however,  magnetic  storms,  the  aurora  borealis,  and  disruptions  in  the  ionosphere  are  all  attributed  to  this  solar  wind.  "
+    },
+    {
+      "site": 70272,
+      "pointer": 104740,
+      "tip": 29,
+      "target_ko": "통신위성을 거쳐 통화하는 휴대전화.%N『세계 어디서든 연결된다』가 홍보 문구다.%N실제로는 각 회사의 시스템과 사용하는%N위성의 종류에 따라%N통화 가능 지역이 제한되기도 한다.%N",
+      "source_en": "A  cellular  telephone  which  works  by  way  of  communication  satellites.%N%N\"Connecting  you  from  anywhere  in  the  world\"  was  the  catchphrase.%N%NHowever,  in  practice,  due  to  different  company  systems,  types  of  available  satellites,  and  so  on,  there  are  cases  in  which  signal  availability  is  limited  to  certain  areas.  "
+    },
+    {
+      "site": 70284,
+      "pointer": 105132,
+      "tip": 30,
+      "target_ko": "해 뜰 무렵이나 해 질 무렵의 높은 산에서%N앞쪽에 안개가 자욱할 때,%N태양을 등지고 서면 자신의 그림자가%N안개에 비치고 무지개 고리가 나타난다.%N이를 브로켄 현상이라 한다.%N괴물처럼 거대한 그림자를%N브로켄의 요괴라고 부르기도 한다.%N독일 바바리아 지방의 브로켄산에서%N자주 관측되어 이런 이름이 붙었다.%N",
+      "source_en": "On  a  high  mountain  at  sunrise  or  sunset,  when  one  is  standing  in  front  of  a  bank  of  fog,  the  sunlight  shining  from  behind  them  may  project  their  shadow  onto  the  fog,  surrounded  by  a  ring  of  rainbow  light.  This  is  called  a  Brocken  specter.%N%NThe  resulting  gigantic  shadows,  like  those  of  a  monster,  have  been  called  the  phantoms  of  the  Brocken.%NThe  name  of  the  phenomenon  comes  from  the  Brocken,  a  mountain  in  Bavaria,  Germany,  where  it  has  often  been  observed.  "
+    },
+    {
+      "site": 70296,
+      "pointer": 105692,
+      "tip": 31,
+      "target_ko": "통계에서 어떤 집단(모집단) 전체가 아니라%N일부를 뽑아 조사할 때,%N그렇게 추출한 각각의 자료. 샘플.%N",
+      "source_en": "A  statistics  term,  meaning  a  collection  of  data  not  representative  of  the  whole  population,  but  a  subsection  of  it.  "
+    },
+    {
+      "site": 70308,
+      "pointer": 105844,
+      "tip": 32,
+      "target_ko": "등산 장비.%N균형 유지, 발 디딜 곳 만들기, 추락 제동,%N확보 등에 사용한다.%N머리 부분은 블레이드와 피크로 이루어지고%N여기에 샤프트와 촉이 붙는다.%N",
+      "source_en": "A  mountaineering  tool.%N%NUsed  for  aid  in  balance,  to  create  footholds,  security,  to  prevent  the  climber  from  slipping,  etc.%N%NThe  head  is  comprised  of  a  blade  and  pick,  to  which  a  shaft  with  a  spike  at  the  base  is  fastened.  "
+    },
+    {
+      "site": 70320,
+      "pointer": 106132,
+      "tip": 33,
+      "target_ko": "이탈리아의 해부학자.%N범죄자에게는 범행 형태에 따라 특정한%N신체적 특징이 있다고 보는 범죄인류학을 세우고,%N이를 바탕으로 『범죄인론』을 썼다.%N그러나 오늘날에는 그의 생각이 잘못된 것으로%N여겨진다.%N",
+      "source_en": "Italian  anatomist.%N%NBelieved  that  the  different  types  of  crimes  committed  by  each  criminal  corresponded  to  specific  physical  traits;  also  had  an  interest  in  the  different  types  of  criminals,  which  is  now  remembered  as  the  source  of  modern  criminology.%N%NHowever,  his  theories  are  now  thought  to  be  incorrect.  "
+    },
+    {
+      "site": 70332,
+      "pointer": 106516,
+      "tip": 34,
+      "target_ko": "머리뼈의 생김새와 이목구비를 살펴%N그 사람의 성격과 운명을 판단하는 점술.%N",
+      "source_en": "A  divination  method,  supposed  to  be  able  to  foretell  a  person's  character  and  destiny  based  on  examination  of  their  cranial  structure  and  facial  features.  "
+    },
+    {
+      "site": 70344,
+      "pointer": 106716,
+      "tip": 35,
+      "target_ko": "astrology%N여기서는 서양 점성술을 가리킨다.%N특정 시각과 장소에서의 천체 배치도인%N호로스코프(행성, 황도 십이궁, 십이실,%N각도의 요소로 구성)를 해독해%N지상의 사건과 연관 지어 해석하고,%N개인과 사회의 운명을 읽으려는%N학문 또는 기술.%N",
+      "source_en": "Astrology  here  refers  to  Western  astrology.%N%NA  study,  or  skill,  based  on  the  belief  that  through  the  movement  of  heavenly  bodies  and  their  positions  at  certain  times  and  places,  an  individual  person's  horoscope  (drawn  from  the  positions  of  the  planets,  the  twelve  signs  of  the  zodiac,  and  the  twelve  astrological  houses)  can  be  interpreted  and  used  to  foretell  their  future.  "
+    },
+    {
+      "site": 70356,
+      "pointer": 107164,
+      "tip": 36,
+      "target_ko": "Diagnostic and Statistical Manual of%NMental Disorders%N미국정신의학회가 발행하는%N『정신질환 진단 및 통계 편람』.%N뒤에 붙는 숫자는 판수를 나타낸다.%NDSM-I(1952), DSM-II(1968),%N",
+      "source_en": "The  Diagnostic  and  Statistical  Manual  of  Mental  Disorders%N%NA  handbook  of  diagnostic  criteria  for  mental  disorders  published  by  the  American  Psychiatric  Association.%NThe  title  is  followed  by  its  revision  number.%N%NPublished  editions  so  far  include  the%NDSM-I  (1952),  DSM-II  (1968),%NDSM-III  (1980),  DSM-III-R  (1987),  and%NDSM-IV  (1994)."
+    },
+    {
+      "site": 70360,
+      "pointer": 107544,
+      "tip": 36,
+      "target_ko": "DSM-III(1980), DSM-III-R(1987),%NDSM-IV(1994)까지 발행되었다.%N이 편람은 말하자면 『정신질환 진단 조견표』다.%N%N%N정신질환은 사람마다 여러 형태로 나타나%N병명을 진단하기 어렵다.%N진료하는 의사에 따라 판단이 달라지기도 한다.%N이런 문제를 없애기 위해%N",
+      "source_en": "This  manual  is,  so  to  speak,  a  simplified  guide  to  the  diagnosis  of  mental  illnesses.%N%NMental  illnesses  may  affect  a  person  in  many  forms,  and  are  notoriously  difficult  to  diagnose.  It  is  also  not  uncommon  for  separate  examining  doctors  to  differ  in  their  diagnoses.  To  help  eliminate  such  errors,  the  DSM  is  used  as  a  guide  for  doctors  to  determine  the  name  of  the  illness  based  on  observed  symptoms."
+    },
+    {
+      "site": 70364,
+      "pointer": 108016,
+      "tip": 36,
+      "target_ko": "겉으로 드러난 증상만으로 병명을 판단하는%N지침으로 DSM을 사용한다.%N환자에게 증상을 듣고 DSM과 대조하면%N경험이 적은 의사도 진단을 내리고%N적절한 치료를 시행할 수 있다.%N",
+      "source_en": "By  asking  the  patient  certain  questions,  such  as  about  said  patient's  condition,  and  checking  their  responses  against  the  data  in  the  DSM,  even  an  inexperienced  doctor  can  establish  a  diagnosis  and  begin  appropriate  treatment.  "
+    },
+    {
+      "site": 70376,
+      "pointer": 108296,
+      "tip": 37,
+      "target_ko": "1994년에 발행된 DSM 제4판.%NDSM-IV에서는 그때까지 다중인격증이라%N부르던 증례의 명칭을 해리성 정체감 장애로 바꾸었다.%N이로써 DID라는 질환이 『탄생』했다.%N참고로 일본어 원문에서는 『괴리성 동일성 장애』라고도%N표기하지만, 정식 명칭은 『해리성 정체감 장애』다.%NDSM 일본어판에서 정식 용어가 채택되었기 때문이다.%N",
+      "source_en": "The  fourth  revision  of  the  DSM,  published  in  1994.  In  this  edition,  the  name  of  the  illness  formerly  called  multiple  personality  disorder  was  changed  to  dissociative  identity  disorder.%NIt  was  there  that  the  illness  called  DID  was  \"born\".%N%NIncidentally,  dissociative  personality  disorder  is  still  referred  to  as  multiple  personality  disorder  in  other  official  writings,  such  as  the  ICD-10.  "
+    },
+    {
+      "site": 70388,
+      "pointer": 108812,
+      "tip": 38,
+      "target_ko": "별명: 경계례·경계성 인격 장애·보더라인%N다음 가운데 다섯 가지 이상에 해당하면%N경계성 인격 장애라 부른다.%N⑳1) 현실 또는 상상 속에서 버림받는다는 느낌.%N⑳2) 불안정하고 격렬한 대인관계.%N⑳3) 현저하고 지속적으로 불안정한 자아상과 자기 인식.%N⑳4) 현실 상실감.%N⑳5) 자살·자해 같은 자기 파괴적 사고.%N",
+      "source_en": "(a.k.a.  ambulatory  schizophrenia,  preschizophrenia,  schizotypal  disorder)%NFor  a  patient  to  be  diagnosed  with  borderline  personality  disorder,  they  must  display  symptoms  matching  five  or  more  of  the  following  criteria.%N%N  1)%X035A  feeling  of  abandonment  in  reality  or  delusion.%N  2)%X035A  pattern  of  unstable  and  intense  interpersonal%N%X035relationships.%N  3)%X035Identity  disturbance:  markedly  and  persistently%N%X035unstable  self-image  or  sense  of  self."
+    },
+    {
+      "site": 70392,
+      "pointer": 109324,
+      "tip": 38,
+      "target_ko": "⑳6) 허무감과 공허감.%N⑳7) 두드러진 기분 반응성에 따른 정서 불안정.%N⑳8) 부적절하고 격렬한 분노,%N⑳　또는 분노 조절의 어려움.%N⑳9) 일시적인 스트레스성 망상 관념,%N⑳　또는 심각한 해리 증상.%N10) 자포자기식 행동과 그에 대한 자기혐오.%N",
+      "source_en": "  4)%X035Feelings  of  disconnection  from  reality.%N  5)%X035Self-abusive  thoughts  of  suicide,  self-injury,  and  so%N%X035on.%N  6)%X035Chronic  feelings  of  emptiness.%N  7)%X035Marked  affective  instability  due  to  a  marked%N%X035reactivity  of  mood.%N  8)%X035Inappropriate  anger  or  difficulty  controlling  anger.%N  9)%X035Transient,  stress-related  paranoid  ideation,%N%X035delusions  or  severe  dissociative  symptoms.%N10)%X035Desperate  behavior  and  self-loathing  at  that%N%X035behavior."
+    },
+    {
+      "site": 70396,
+      "pointer": 109844,
+      "tip": 38,
+      "target_ko": "그 밖의 충동적 행동으로는%N⑳1) 낭비.%N⑳2) 성행위.%N⑳3) 약물 남용.%N⑳4) 무모한 운전.%N⑳5) 폭식.%N등이 있다.%N",
+      "source_en": "Additional  impulsive  behaviors  include:%N%N  1)  impulsive  spending%N  2)  promiscuous  sex%N  3)  substance  abuse%N  4)  reckless  driving%N  5)  binge  eating%N"
+    },
+    {
+      "site": 70400,
+      "pointer": 110012,
+      "tip": 38,
+      "target_ko": "경계성 인격 장애는 대인관계·자아상·감정의%N불안정과 현저한 충동성이 광범위하게 나타나는 양상으로,%N성인기 초기에 시작되어 여러 상황에서 드러난다.%N장애라는 이름이 붙었지만 비교적 누구에게나%N나타날 수 있는 증상도 많다.%N특징으로는 감정의 파동과 기복이%N비정상적으로 심하다는 점이 있다.%N그 속에서 어쩔 수 없이 버려졌다는 느낌과%N이를 막기 위한 필사적인 노력을%N보이기도 한다.",
+      "source_en": "A  borderline  personality  disorder  sufferer's  personal  relationships,  self-image,  emotional  stability,  and  particularly  indulgence  in  impulsive  acts  are  heavily  influenced  and  impaired  by  the  disorder,  with  the  onset  of  symptoms  typically  occurring  during  adolescence  or  young  adulthood.%N%NThough  said  to  be  a  severe  impairment  to  normal  life,  relatively  few  of  the  symptoms  are  detected  by  most  people.  It  is  characterized  by  fluctuating  emotional  states  and  abnormal  outbursts  of  anger  or  violence."
+    },
+    {
+      "site": 70404,
+      "pointer": 110584,
+      "tip": 38,
+      "target_ko": "자해 행동도 많이 나타나는 듯하다.%N자신이 안개 속에 있는 듯해 모든 것이%N선명하지 않거나, 이대로 산산이%N흩어질 것 같은 감정을 느낀다.%N또 자신이 대체 누구인지라는 생각에%N시달리기도 한다.%N그러다 통제가 되지 않아%N자해 행동으로 이어지는 것이다.%N",
+      "source_en": "Furthermore,  many  sufferers  show  frantic  attempts  to  avoid  abandonment.  This  feeling  often  manifests  itself  in  the  form  of  self-harm  behaviors.%N%NSufferers  often  report  having  a  foggy  mental  state,  being  unable  to  perceive  things  clearly,  feeling  lost,  or  feeling  as  if  they  will  fall  to  pieces.  Many  are  tortured  with  doubts  about  their  own  identities  as  well.  This  lost  sense  of  self-control  often  causes  them  to  resort  to  self-harm."
+    },
+    {
+      "site": 70408,
+      "pointer": 111088,
+      "tip": 38,
+      "target_ko": "경계성 인격 장애가 있으면 주변 사람을%N머릿속에서 적과 아군으로 나누고,%N아군이라 여긴 사람이 자신에게서 멀어지려 하면%N불안해져 일부러 문제를 일으키기도 한다.%N하지만 결코 원해서 그러는 것이 아니며,%N여러 마음의 병에도 해당하는 이야기지만%N그것이 그 사람 본래의 성격은 아니다.%N",
+      "source_en": "Individuals  with  borderline  personality  disorder  tend  to  view  the  world  in  black  and  white,  with  all  people  viewed  strictly  as  either  enemy  or  ally;  if  they  think  an  ally  is  in  danger  of  leaving  them,  many  individuals  will  become  anxious  and  deliberately  harm  themselves  or  otherwise  cause  trouble  in  an  effort  to  get  the  ally  to  stay.%N%NHowever,  it  is  important  to  remember  that  the  individual  is  not  doing  these  things  because  they  want  to,  and  as  with  many  other  similar  illnesses  of  \"the  heart\",  their  behavior  does  not  reflect  their  true  personality.  "
+    },
+    {
+      "site": 70420,
+      "pointer": 111760,
+      "tip": 39,
+      "target_ko": "스위스 베르너 알프스산맥에 속한 봉우리 중 하나.%N해발 4,158m. 이름은 『처녀봉』이라는 뜻이다.%N2001년에 세계유산으로 등재되었다.%N",
+      "source_en": "A  summit  in  the  Swiss  Bernese  Alps.%NIts  peak  stands  4,158  meters  above  sea  level.%NThe  name  means  \"virgin  peak\".%NIt  was  designated  a  World  Heritage  Site  in  2001.  "
+    },
+    {
+      "site": 70432,
+      "pointer": 112004,
+      "tip": 40,
+      "target_ko": "형사소송법은 헌법에 따라 피의자 또는%N피고인이 언제든 변호인을 선임할 수 있다고 규정한다.%N하지만 변호인을 선임할 수 있더라도%N변호사 비용을 낼 수 없는 가난한 사람은 사실상%N변호사에게 변호를 맡길 수 없다.",
+      "source_en": "In  accordance  with  both  the  Criminal  Procedure  Code  and  the  Japanese  Constitution,  the  suspect  or  defendant  in  any  case  is  entitled  to  legal  counsel.  However,  though  everyone  has  the  right  to  counsel,  in  reality,  there  are  many  people  who  are  too  poor  to  hire  an  attorney  to  defend  themselves.%N%NTherefore,  as  written  in  the  Constitution,  \"When  a  defendant  is  not  able  to  appoint  an  attorney,  that  duty  falls  upon  the  state\"  (Article  37,  Paragraph  3)."
+    },
+    {
+      "site": 70436,
+      "pointer": 112532,
+      "tip": 40,
+      "target_ko": "이에 헌법은 『피고인이 스스로 변호인을 구할 수%N없을 때에는 국가가 변호인을 붙인다』고 규정했다%N(제37조 제3항).%N이처럼 빈곤 등의 이유로 변호인을 구하지 못할 때%N국가 비용으로 법원이 선임하는 변호인이%N국선 변호인이다.%N",
+      "source_en": "Thus,  in  cases  where  the  defendant's  poverty  prevents  them  from  being  able  to  seek  the  services  of  an  attorney,  the  court  will  appoint  a  public  defender  to  assist  them,  with  the  cost  being  borne  by  the  state.  "
+    },
+    {
+      "site": 70448,
+      "pointer": 112800,
+      "tip": 41,
+      "target_ko": "지구에서 230만 광년 떨어진 곳에 있는 은하.%N타원형으로 소용돌이치는 모양이다.%N그리스 신화에서 안드로메다는%N에티오피아의 공주다.%N어머니 카시오페이아는 바다의 님프 네레이드들보다%N안드로메다가 아름답다고 자랑했다.%N네레이드들을 아끼던 바다의 신 포세이돈은%N이에 분노해 바다 괴물을 보내 해안을%N황폐하게 만들었다.%N",
+      "source_en": "A  galaxy  approximately  2,300,000  lightyears  from  Earth.%NA  spiral  galaxy,  its  shape  is  that  of  an  elliptical  coil.%N%NIn  Greek  mythology,  Andromeda  was  the  name  of  an  Ethiopian  princess.  Her  mother,  Cassiopeia,  bragged  that  she  was  more  beautiful  than  the  sea  nymphs  known  as  the  Nereids.  The  sea  god  Poseidon,  who  was  fond  of  the  Nereids,  was  angered  by  her  words  and  sent  a  sea  monster  to  lay  waste  to  the  coast  of  her  kingdom."
+    },
+    {
+      "site": 70452,
+      "pointer": 113304,
+      "tip": 41,
+      "target_ko": "왕은 신탁을 구했다.%N신탁은 안드로메다를 제물로 바치지 않으면%N분노가 가라앉지 않을 것이라고 했다.%N안드로메다는 괴물의 제물이 되어%N바위에 사슬로 묶였다.%N그때 페르세우스가 지나가다%N가지고 있던 메두사의 머리를 괴물에게 보여%N괴물을 돌로 만들었다.%N페르세우스는 안드로메다를 아내로 맞았다.%N",
+      "source_en": "The  king  went  to  consult  an  oracle  for  help.%NThis  oracle  told  him  that  only  sacrificing  Andromeda  would  return  peace  to  the  kingdom.%N%NAndromeda  was  chained  to  a  rock  and  left  as  a  sacrifice  to  the  monster.%N%NAt  that  time,  Perseus,  carrying  the  freshly-severed  head  of  Medusa  in  a  sack,  happened  to  come  along."
+    },
+    {
+      "site": 70456,
+      "pointer": 113668,
+      "tip": 41,
+      "target_ko": "안드로메다는 죽은 뒤 하늘의 별이 되었다.%N남편 페르세우스, 아버지 케페우스, 어머니 카시오페이아,%N바다뱀과 함께 별자리가 되었다.%N하지만 어머니 카시오페이아는 오만의 죄로%N의자에 앉은 채 하늘에 거꾸로%N매달려 있다.%N",
+      "source_en": "Uncovering  the  head  before  the  monster's  eyes,  Perseus  turned  it  to  stone.%NPerseus  then  took  Andromeda  as  his  wife.%N%NWhen  Andromeda  died,  she  was  placed  among  the  stars  and  became  a  constellation  alongside  her  husband  Perseus,  her  father  Cepheus,  her  mother  Cassiopeia,  and  the  great  sea  serpent.%NHowever,  because  of  Cassiopeia's  pride,  she  was  placed  in  the  heavens  such  that  the  chair  in  which  she  sits  appears  upside-down.  "
+    },
+    {
+      "site": 70468,
+      "pointer": 114188,
+      "tip": 42,
+      "target_ko": "몸통 내부의 체온(심부 체온)이%N비정상적으로 낮아지면서 생기는%N신체 이상.%N사망에 이를 수 있다.%N",
+      "source_en": "A  physical  condition  caused  by  an  abnormal  drop  in  core  body  temperature.%N%NMay  result  in  death.  "
+    },
+    {
+      "site": 70480,
+      "pointer": 114324,
+      "tip": 43,
+      "target_ko": "눈보라에 날린 눈 때문에%N시야가 하얗게 막히는 현상.%N높낮이와 방향·거리를 알 수 없어%N말 그대로 『하얀 어둠』이 된다.%N설면이나 구름의 난반사로 생기기도 하며,%N이 경우 공간 전체가 백색광으로 가득 차%N어떠한 정보도 파악할 수 없고%N꼼짝할 수 없게 된다.%N",
+      "source_en": "A  weather  condition  in  which  the  field  of  vision  is  obscured  by  white  due  to  windblown  snow  in  the  air,  greatly  diminishing  one's  ability  to  discern  vertical/horizontal  directions  and  distance.  It  can  be  described  as  a  \"white  darkness\"  of  sorts.%N%NThere  is  also  another  form  of  a  whiteout  which  is  caused  by  diffuse  reflections  from  snowy  surfaces,  clouds,  and  the  like.  In  this  case,  the  air  becomes  saturated  with  white  light,  rendering  movement  and  the  gathering  of  visual  information  virtually  impossible.  "
+    },
+    {
+      "site": 70492,
+      "pointer": 114944,
+      "tip": 44,
+      "target_ko": "능선의 바람이 불어가는 쪽에 생기는%N커다란 눈 처마.%N큰 것은 10m를 넘기도 한다.%N내부가 눈뿐이라 약해서 사람이 올라서면 무너진다.%N원래 능선이 어디까지인지 구별하기도 어렵다.%N",
+      "source_en": "A  large  overhanging  edge  of  snow  on  the  leeward  side  of  a  mountain  ridge.%NLarger  ones  can  be  in  excess  of  ten  meters.%NSince  the  inside  of  a  cornice  is  composed  entirely  of  snow,  it  will  collapse  if  trodden  on  by  a  human.%NThe  presence  of  snow  cornices  make  it  very  difficult  to  tell  where  the  actual  ridge  ends.  "
+    },
+    {
+      "site": 70504,
+      "pointer": 115348,
+      "tip": 45,
+      "target_ko": "[deus ex machina]%N라틴어로 『기계 장치의 신』이라는 뜻.%N연극이나 문학에서 막힌 상황이나 어려운 결말을%N필연성 없이 등장해 해결하는 편의적인 역할.%N또는 그런 기법 자체를 가리킨다.%N그리스 비극에서 에우리피데스가 자주 사용했으며,%N크레인 같은 장치로 신 역할을 등장시킨 데서%N유래했다.",
+      "source_en": "From  the  Latin,  literally  meaning  \"god  from  the  machine\".%NA  frequently-used  plot  device  in  old  plays  and  literature,  where,  in  the  midst  of  a  seemingly  hopeless  situation,  a  previously  unseen  character  or  object  will  suddenly  appear  and  provide  a  convenient  resolution  to  the  story.%N%NUse  of  this  type  of  device  in  a  story  later  came  to  be  called  by  this  name.%N%NFrequently  seen  in  the  Greek  tragedies  of  Euripides,  whose  conclusions  were  often  marked  by  a  god"
+    },
+    {
+      "site": 70508,
+      "pointer": 115888,
+      "tip": 45,
+      "target_ko": "아리스토텔레스의 미학에서는%N이야기의 모든 요소가 엄밀한 인과관계(필연성)에%N놓여 있어야 한다.%N무에서 생기는 일(우연성)은 이야기의 시작에서만%N허용되므로, 중간에 갑자기 나타나는%N데우스 엑스 마키나는 이야기의 논리를 벗어난%N불순물로 배제된다.%N",
+      "source_en": "appearing  from  above  and  being  lowered  onto  the  stage  via  a  mechanism  similar  to  a  crane.%N%NAristotle,  in  his  writings  on  aesthetics,  argued  that  all  the  elements  of  a  story  should  arise  internally  (naturally  and  necessarily),  following  up  the  previous  actions  in  the  play,  and  opposed  the  use  of  this  device,  saying  that  the  sudden  deus  ex  machina  appearance  of  a  previously  unseen  character  in  the  middle  of  the  play  (contingent  on  the  needs  of  the  plot)  was  poor  storytelling.  "
+    },
+    {
+      "site": 70520,
+      "pointer": 116476,
+      "tip": 46,
+      "target_ko": "용액 속에서 친수성 콜로이드 입자가 모여%N용액과 일정한 평형 상태를 유지하는%N작은 액방울이 된 것.%N지구 생명 기원의 첫 단계라고 보는%N학설도 있다.%N",
+      "source_en": "A  small  spherical  droplet  of  hydrophilic  colloids  suspended  in  a  liquid,  which  forms  when  solutions  of  colloids  are  mixed  under  suitable  conditions  to  achieve  and  maintain  a  stable  state.%N%NThere  is  a  theory  that  considers  them  to  be  the  first  stage  in  the  origin  of  life  on  Earth.  "
+    },
+    {
+      "site": 70532,
+      "pointer": 116824,
+      "tip": 47,
+      "target_ko": "분자보다는 크지만 일반 현미경으로는%N보이지 않을 만큼 미세한 입자가 분산된 상태.%N아교·전분·한천·달걀흰자·마요네즈·연기 등이%N이에 속한다.%N",
+      "source_en": "A  chemical  mixture  in  which  particles  of  one  substance  are  dispersed  evenly  throughout  another  substance  such  that,  though  they  are  larger  than  most  molecules,  they  cannot  be  seen  with  ordinary  optical  microscopes.%N%NExamples  include  glue,  starch,  agar,  egg  white,  mayonnaise,  and  smoke.  "
+    },
+    {
+      "site": 70544,
+      "pointer": 117188,
+      "tip": 48,
+      "target_ko": "칸트 철학의 중심 개념.%N경험적 인식의 대상인 현상으로서의 사물이 아니라,%N현상의 근원으로서 주관과 독립해 존재하는%N사물 그 자체.%N물자체는 인식할 수 없고 오직 사유할 수 있을 뿐이나,%N초월론적 자유는 바로 그 안에서%N성립한다.%N",
+      "source_en": "The  central  concept  of  Kant's  philosophy.%N%NThe  thing-in-itself  is  not  a  thing  as  a  phenomenon  which  is  an  object  of  empirical  cognition,  but  the  thing  itself  that  exists  as  the  origin  of  the  phenomenon,  independently  of  a  subject.%N%NIt  is  something  which  cannot  be  known,  only  thought  about.  However,  transcendental  freedom  becomes  possible  precisely  due  to  that.  "
+    },
+    {
+      "site": 70556,
+      "pointer": 117648,
+      "tip": 49,
+      "target_ko": "기억상실과 기억 이식――.%N둘의 차이는 이렇다.%N가령 어떤 매체 X에 ABCDEF로 이루어진%N연속된 기억(기록이라 해도 좋다)이%N새겨져 있다고 하자.%N기억상실은 간단히 말해 A~F의 기억 중%NBDF가 빠져 ACE만 떠올릴 수 있는 상태다.%N",
+      "source_en": "Memory  loss  and  memory  transplantation−−%NThe  difference  between  the  two  is  as  follows.%N%NSuppose  that  a  given  entity,  X,  has  a  contiguous  memory  (we  may  also  call  it  a  record)  composed  of  ABCDEF.%N%NMemory  loss,  to  put  it  simply,  is  a  state  wherein,  for  example,  parts  B,  D,  and  F  in  the  A〜F  sequence  are  lost,  and  the  only  memories  which  can  be  recalled  are  ACE."
+    },
+    {
+      "site": 70560,
+      "pointer": 118080,
+      "tip": 49,
+      "target_ko": "반대로 여기서 말하는 기억 이식은 먼저%N아무것도 없는 기억 『제로』가 있고,%N거기에 ACE라는 기억을 심은 상태다.%N둘 다 ACE만 떠올릴 수 있다는 점은 같지만,%N치명적인 차이는 『구원이 있는가』에 있다.%N기억상실이라면 X 안에 BDF가 남아 있을%N가능성이 있다.%N그러니 어쩌면 그것을 되살릴 수도 있다.%N",
+      "source_en": "On  the  other  hand,  the  memory  transplant  mentioned  herein  refers  to  a  state  where,  for  example,  the  memory  parts  A,  C,  and  E  are  embedded  into  an  initially  empty,  \"zero\"  state  memory.%N%NBoth  cases  are  similar  in  that  X  does  not  remember  anything  besides  ACE;  the  crucial  difference,  however,  lies  in  the  question  of  whether  the  rest  is  recoverable  or  not."
+    },
+    {
+      "site": 70564,
+      "pointer": 118496,
+      "tip": 49,
+      "target_ko": "하지만 기억을 이식받은 X에게는%N처음부터 BDF라는 것 자체가 존재하지 않는다.%N이 경우에는 새로운 기억을 그때그때%N추가해 나가야 한다.%N그렇다면 만약 내 기억의 내용이%N이식된 것이라면…….%N",
+      "source_en": "In  the  case  of  memory  loss,  it  is  possible  that  X  would  still  have  parts  B,  D,  and  F  residing  somewhere  in  the  mind.  Thus,  X  might  perhaps  be  able  to  recover  these  lost  memories.%N%NHowever,  if  X  had  had  these  memories  transplanted,  then  it  would  mean  that  BDF  had  never  existed  in  the  first  place.%N%NIn  this  case,  X  is  left  with  no  other  alternative  but  to  accumulate  new  memories  over  time."
+    },
+    {
+      "site": 70568,
+      "pointer": 118960,
+      "tip": 49,
+      "target_ko": "그 기억 ACE는 원래 누구의 것이었을까?%N『내 의식』이 내 것임은 틀림없지만,%N『내 기억』만은 내가 아닌 누군가의%N소유물일지도 모른다.%N그 누군가는 어떤 사정이 있었는지는 몰라도%N어쨌든 내 안에 ACE라는%N한정된 기억을 심어 놓았다.%N",
+      "source_en": "So  then,  if  by  any  chance,  this  memory  content  of  mine  was  transplanted...%NJust  whose  ACE  memories  are  these,  I  wonder?%N%NThere's  no  doubt  that  \"my  consciousness\"  belongs  to  me,  but  it  is  in  fact  possible  that  \"my  memory\"  is  one  that  was  originally  someone  else's  and  not  mine.%N%NAnd  that  this  someone  had  planted  the  memories  limited  to  ACE  inside  me,  so  that  even  I  myself  am  not  aware  of  how  and  why  that  happened  exactly."
+    },
+    {
+      "site": 70572,
+      "pointer": 119464,
+      "tip": 49,
+      "target_ko": "왜 A~F가 아니라 ACE인가……?%N어째서 BDF는 이식하지 않았는가……?%N어쩌면…….%N이식하지 않은 것이 아니라%N할 수 없었던 건가……?%N그 사람도 나처럼 BDF를%N모르는 것은 아닐까……?%N",
+      "source_en": "Why  not  A〜F,  but  ACE...?%NWhy  didn't  they  transplant  BDF  as  well...?%N%NCould  it  be  that...%NIt's  not  that  they  didn't  transplant  them,%Nbut...  that  they  couldn't?%N%NCould  it  be  that,  just  like  me,  this  other  person  lacks  BDF?"
+    },
+    {
+      "site": 70576,
+      "pointer": 119728,
+      "tip": 49,
+      "target_ko": "ACE라는 한정된 지식밖에%N갖고 있지 않은 것은 아닐까……?%N그래서 그것만 내 안에 새길 수 있었다.%N나는 그가 알 수 있는 정보만 알 수 있고,%N그가 알 수 없는 정보는%N나도 알 수 없는 것인지 모른다.%N내 기억과 그의 기억은 같다.%N……그런 느낌이 들었다.%N",
+      "source_en": "Can  I  assume  that  this  limited  knowledge  composed  only  of  ACE  was  all  that  was  available  to  this  person...?%NAnd  that  it  was  for  this  reason  that  this  person  couldn't  put  any  other  memories  inside  me?%N%NIt  might  be  that  I'm  only  able  to  know  what  this  person  knows,  and  if  this  person  doesn't  know  something,  neither  can  I.%NMy  memory  and  this  person's  memory  are  the  same.%N%N......That's  how  it  feels.  "
+    },
+    {
+      "site": 70588,
+      "pointer": 120212,
+      "tip": 50,
+      "target_ko": "이 대피소는 2011년, 스피아는 2012년.%N그녀는 1년 뒤 미래에 있으니 『지금』이라는%N표현은 부적절할지도 모른다.%N하지만 이는 어쩔 수 없다.%N나와 후유카와 코코로에게는 틀림없이 『지금』이다.%N우리는 역사의 흐름에서 벗어나%N각자의 『시간』을 걷고 있다.%N나와 그녀에게 흐르는 시간과%N바깥 세계의 시간은 서로 다르다.%N",
+      "source_en": "It  is  2011  here  in  the  cabin  shelter;  in  SPHIA,  it  is  2012.%NShe  exists  a  year  in  the  future  for  me,  so  maybe  \"now\"  is  not  an  appropriate  name  for  it.%NBut  there's  no  way  around  that  anymore.%N%NNo  matter  how  you  look  at  it,  the  fact  remains  that  it  is  still  \"now\"  to  me  and  Fuyukawa  Kokoro.%NHaving  deviated  from  the  normal  flow  of  history,  we  are  living  within  our  own  designated  \"time\"  now.%NThe  flow  of  time  that  she  and  I  experience  and  the  flow  of  time  in  the  rest  of  the  world  are  different."
+    },
+    {
+      "site": 70592,
+      "pointer": 120804,
+      "tip": 50,
+      "target_ko": "가령 바깥 세계의 시간 흐름을%N『A→B→C→D→E→F→……U→V→W→X→Y→Z』라 하면,%N나에게 흐르는 시간은%N『A→V→C→X→E→Z』가 되고,%N후유카와 코코로에게 흐르는 시간은%N『U→B→W→D→Y→F』가 된다.%N",
+      "source_en": "If,  for  example,  the  latter  is  represented  as%N\"A→B→C→D→E→F→......U→V→W→X→Y→Z\"%Nthen  the  time  flow  that  I'm  experiencing  becomes%N\"A→V→C→X→E→Z,\"%Nand  that  which  Fuyukawa  Kokoro  experiences  becomes%N\"U→B→W→D→Y→F.\"%NTherefore,  whenever  I  bring  up  time-related  concepts  such  as  \"now\",  \"just  now\",  \"today\",  \"tomorrow\",  and  so  on,  these  are  supposed  to  be  understood  and  hold  meaning  in  accordance  with  my  individual  timeline  of%N\"A→V→C→X→E→Z\"."
+    },
+    {
+      "site": 70596,
+      "pointer": 121324,
+      "tip": 50,
+      "target_ko": "따라서 내가 『지금』, 『아까』, 『오늘』,%N『내일』 같은 시간 개념을 떠올릴 때는%N기본적으로 『A→V→C→X→E→Z』라는%N나만의 시간 직선을 따른 의미가 된다.%N덧붙여 이 인격 교환 현상에 휘말린 나에게는%N『내년』이나 『작년』이라는 개념이 없다.%N지금 아카쿠라산 대피소에 있는 내게는%N2011년도 2012년도 어떤 의미에서는 『올해』이기 때문이다.%N",
+      "source_en": "On  a  side  note,  ever  since  I've  been  experiencing  this  personality  exchange  phenomenon,  the  concepts  of  \"next  year\"  and  \"last  year\"  no  longer  apply  to  me  either.%N%NNow  that  I'm  in  the  Mount  Akakura  shelter,  both  2011  and  2012  are,  in  a  certain  sense,  \"this  year\"  to  me.  "
+    },
+    {
+      "site": 70608,
+      "pointer": 121676,
+      "tip": 51,
+      "target_ko": "투영법을 이용한 성격검사 중 하나.%N잉크 얼룩으로 만든 좌우 대칭의%N모호한 도형을 보여 주고,%N무엇처럼 보이는지 말하게 해 성격의 특징을%N진단한다.%N스위스 정신의학자%N헤르만 로르샤흐(1884~1922)가 고안했다.%N",
+      "source_en": "A  type  of  projective  personality  test.%N%NThe  subject  of  the  test  is  first  asked  to  interpret  a  series  of  cards  with  ambiguous,  bilaterally  symmetrical  inkblot  designs.  The  answers  are  then  analyzed  so  as  to  try  and  determine  that  person's  personality  characteristics.%N%NInvented  by  Rorschach  (Hermann  R.,  1884-1922),  a  Swiss  psychiatrist.  "
+    },
+    {
+      "site": 70620,
+      "pointer": 122096,
+      "tip": 52,
+      "target_ko": "1950년대 미국에서 시작해 전 세계에 유행한%N대중음악.%N흑인의 리듬 앤 블루스를 바탕으로 백인의%N컨트리 음악 요소를 더한 것.%N록.%N",
+      "source_en": "A  genre  of  popular  music  which  originated  in  the  1950s  in  America  and  spread  to  the  rest  of  the  world.%NBased  on  black  musicians'  rhythm  and  blues,  with  additional  influences  from  white  country  music.%N%NAlso  known  as  rock.  "
+    },
+    {
+      "site": 70632,
+      "pointer": 122380,
+      "tip": 53,
+      "target_ko": "브라질 격투기 중 하나.%N타악기 중심의 리듬 연주에 맞춰%N두 사람이 한 조가 되어 춤추듯 발기술을 펼친다.%N본래 흑인 노예가 아프리카 격투기를%N발전시킨 것이다.%N지배자에게 훈련을 숨기기 위해%N민속무용처럼 위장했다는 역사가 있다.%N",
+      "source_en": "A  Brazilian  martial  art.%N%NMoving  to  a  rhythmic,  percussion-centric  musical  performance,  a  pair  of  two  perform  dance-like  foot  techniques.%N%NIt  was  originally  developed  by  black  slaves  from  African  martial  arts.%N%NHistorically,  practitioners  disguised  their  training  as  an  ethnic  dance  to  camouflage  it  from  their  rulers.  "
+    },
+    {
+      "site": 70644,
+      "pointer": 122772,
+      "tip": 54,
+      "target_ko": "인간의 인식은 주관적이고 상대적이라고 보아%N절대적 진리를 인식할 가능성을 의심하고%N궁극적인 판단을 유보하는 사상적 태도.%N회의주의.%N",
+      "source_en": "An  ideological  attitude  which  suspends  ultimate  judgment  and  doubts  the  possibility  of  recognition  of  absolute  truth,  given  human  recognition  is  subjective  and  relative.  "
+    },
+    {
+      "site": 70656,
+      "pointer": 122996,
+      "tip": 55,
+      "target_ko": "코코로는 『나는 갈매기』라는 말을%N『멋진 표현』이라고 했다.%N하지만 실제로는 그리 감동적인%N말이 아니다.%N",
+      "source_en": "Kokoro  had  said  that  these  are  \"beautiful  words\".%NHowever,  in  reality,  this  phrase  is  not  exactly  something  one  should  be  very  moved  by.%N%N\"Seagull\"  in  Russian  would  be  \"chayka\".%NAnd  incidentally,  \"Chayka\"  was  also  the  call  sign,  something  akin  to  a  nickname,  of  Vostok  6."
+    },
+    {
+      "site": 70660,
+      "pointer": 123316,
+      "tip": 55,
+      "target_ko": "러시아어로 갈매기를 『차이카』라고 한다.%N그리고 『차이카』는 보스토크 6호의%N콜사인, 즉 별명 같은 것이었다.%N그러니까%N『여기는 아폴로, 여기는 아폴로, 휴스턴,%N⑳응답하라』와 같은 뜻으로,%N테레시코바는 『여기는 갈매기, 여기는 갈매기』라고%N관제소를 향해 송신했을 뿐이다.%N",
+      "source_en": "In  other  words,  just  as  an  astronaut  on  one  of  the  Apollo  spacecraft  missions  would  contact  the  command  center:%N\"This  is  Apollo,  this  is  Apollo,  Houston,  do  you  copy?\"%N%NTereshkova  had  contacted  the  respective  command  center  for  the  Vostok  6  with%N\"This  is  Seagull,  this  is  Seagull.\""
+    },
+    {
+      "site": 70664,
+      "pointer": 123648,
+      "tip": 55,
+      "target_ko": "이 말이 일본어로 번역될 때 잘못해서%N『나는 갈매기』가 되었고,%N일본에서는 마치 테레시코바가 우주를 떠도는%N자신을 시적으로 표현한 것처럼%N널리 알려졌다.%N참고로 가가린이 탄 보스토크 1호는%N『케드르＝삼나무』라고 불렸다.%N만약 이것이 6호의 콜사인이었다면%N오역은 생기지 않았을지도 모른다.%N",
+      "source_en": "When  this  phrase  was  translated  into  Japanese,%Nit  was  mistakenly  translated  as  『私はカモメ』,  i.e.  \"I  am  a  seagull.\"  As  a  result,  it  became  widely  known  in  Japan  as  Tereshkova's  poetic  description  of  herself  floating  in  the  void  of  space.%N%NAn  interesting  fact  to  note:  the  Vostok  1  that  Gagarin  piloted  was  called  \"Kedr\",  meaning  \"Cedar\".%N%NIf  that  name  was  used  as  the  call  sign  of  Vostok  6,  perhaps  such  a  mistranslation  would  not  have  occurred.  "
+    },
+    {
+      "site": 70676,
+      "pointer": 124228,
+      "tip": 56,
+      "target_ko": "슈뢰딩거의 고양이를 말한다.%N보어와 하이젠베르크 등 코펜하겐학파의%N확률론적 세계관을 비판한 사고실험.%N방사성 물질이 붕괴하면 맹독성 가스가 나오는%N상자 안에 고양이를 넣는다고 하자.%N코펜하겐학파에 따르면%N방사선 방출이라는 미시 세계의 현상은%N확률적이다.%N",
+      "source_en": "Refers  to  \"Schrdinger's  Cat\",  a  thought  experiment  intended  as  a  critique  of  worldviews  based  on  probabilistic  theories  (the  so-called  Copenhagen  interpretation)  which  was  proposed  by  Bohr  and  Heisenberg.%N%NSuppose  that  a  cat  is  put  in  a  box  equipped  with  a  mechanism  that  would  emit  poisonous  gas  if  a  certain  radioactive  material  decays."
+    },
+    {
+      "site": 70680,
+      "pointer": 124624,
+      "tip": 56,
+      "target_ko": "그렇다면 그로 인해 일어나는 고양이의 죽음까지%N확률적인 것이 된다.%N고양이가 멀쩡히 살아 있어도%N가령 30% 죽은 고양이가 되는 셈이다.%N귀여운 고양이의 역설로서%N양자역학 입문에 꼭 맞는 대표적인 화두가 되었다.%N",
+      "source_en": "According  to  the  Copenhagen  interpretation,  this  micro-world  radiation  emission  is  probabilistic  by  nature.%NThen  even  the  cat's  death  caused  by  it  becomes  stochastic.%N%NEven  if  the  cat  is  as  lively  as  ever,  it  will  be,  for  example,  a  30％  dead  cat.  As  a  paradox  about  a  cute  cat,  the  phrase  became  a  suitable  introduction  to  quantum  mechanics.  "
+    },
+    {
+      "site": 70692,
+      "pointer": 125044,
+      "tip": 57,
+      "target_ko": "벤조디아제핀계 항불안제.%NBZD 수용체 및 그와 결합하는 GABA-A 수용체에 작용해%N억제성 신경을 자극하고 이완 상태를 만든다.%N주요 효과로 항불안, 진정·수면,%N근육 긴장 완화, 항경련 작용 등이 있다.%N항불안(진정) 작용이 강력해%N평균적인 항불안제의 약 5배라고 한다.%N",
+      "source_en": "A  benzodiazepine,  an  anti-anxiety  agent.%NBinds  to  BZD  receptors,  as  well  as  GABA-A  receptors,  suppresses  nerve  stimulation,  and  puts  the  body  in  a  relaxed  state.%N%NResults  in  anxiolytic  (anti-anxiety)  action,  sedative-hypnotic  action,  muscle  relaxation,  and  anticonvulsant  action.%N%NIts  anxiolytic  effect  is  so  powerful,  it  is  said  that  it  is  five  times  more  potent  than  average  anti-anxiety  drugs."
+    },
+    {
+      "site": 70696,
+      "pointer": 125500,
+      "tip": 57,
+      "target_ko": "복용 뒤 최고 혈중 농도에 이르는 시간은 1시간.%N효과가 나타나는 속도는 조금 빠른 편이다.%N혈중 반감기는 6~20시간이며,%N작용 시간은 단기~중간형으로 분류된다.%N복용 뒤 졸림이 마이너 트랭퀼라이저 중에서는%N약한 편이라 유용하게 쓰인다.%N",
+      "source_en": "After  taking  the  drug,  the  highest  concentration  in  the  bloodstream  will  be  achieved  after  an  hour.%NThe  manifestation  of  its  effects  is  somewhat  faster.%NIts  half-life  within  the  bloodstream  is  6〜20  hours.%NThe  drug  is  classified  as  having  short  to  medium-term  effects.%N%NIt  is  a  very  useful  drug,  because  its  drowsiness  side  effect  for  a  minor  tranquilizer  is  relatively  weak.  "
+    },
+    {
+      "site": 70708,
+      "pointer": 125964,
+      "tip": 58,
+      "target_ko": "왼쪽은 『호토리·우츠미 팀』의 점수,%N오른쪽은 『나·유니 팀』의 점수를 나타낸다.%N",
+      "source_en": "The  number  on  the  left  represents  Hotori's  and  Utsumi's  team  score,  and  the  number  on  the  right  represents  my  and  Yuni's  team  score.  "
+    },
+    {
+      "site": 70720,
+      "pointer": 126152,
+      "tip": 59,
+      "target_ko": "슈퍼컴퓨터의 준말.%N병렬 처리 기능 등을 채택해 대량의%N데이터를 초고속으로 처리하는 컴퓨터.%N1초에 약 10의 12제곱 번을 계산할 수 있는%N성능(2003년 기준)을 지닌다.%N가까운 예로는 일본 각지의%N기온·기압·구름 움직임을 슈퍼컴퓨터로 계산해%N미래의 날씨를 예측하는 데 쓰인다.%N",
+      "source_en": "A  computer  capable  of  processing  very  large  amounts  of  data  at  ultra  high  speeds  through  the  employment  of  technologies  such  as  parallelism.%N%NThe  processing  speed  can  be  as  high  as  10^12  operations/second  (as  of  2003).%N%NIn  recent  years,  supercomputers  have  come  to  be  used  for  weather  forecasting  across  Japan,  calculating  things  like  temperature,  pressure,  and  the  movement  of  clouds.  "
+    },
+    {
+      "site": 70732,
+      "pointer": 126624,
+      "tip": 60,
+      "target_ko": "해마／hippocampus%N대뇌의 고피질에 속하는 부위로,%N욕구·본능·자율신경 등의 작용과%N그 조절을 담당한다.%N또 정보의 필요성을 판단해 뇌의 다른 부분에%N기억을 저장하는 『기억의 생산 공장』이라고 한다.%N해마가 없으면 5분 전 일도%N기억할 수 없다고 한다.%N",
+      "source_en": "A  part  of  the  cerebrum's  paleocortex,  the  hippocampus  controls  the  functions  of  desire,  instinct,  the  autonomic  nerves,  and  so  on.%N%NDue  to  its  responsibility  for  deciding  the  level  of  urgency  of  received  information  and  storing  memory  in  other  parts  of  the  brain,  it  is  referred  to  as  the  \"memory  factory\"."
+    },
+    {
+      "site": 70736,
+      "pointer": 126984,
+      "tip": 60,
+      "target_ko": "또 『나이를 먹어서 잘 잊는다』기보다는%N아이와 달리 많은 기억을 가진 어른은%N필요한 정보를 골라내는 데%N시간이 걸린다는 뜻이다.%N",
+      "source_en": "It  is  said  that  without  the  hippocampus,  a  person  would  be  unable  to  remember  what  had  happened  even  five  minutes  ago.%N%NAdditionally,  it  is  not  simply  the  case  that  one  becomes  forgetful  with  age.  Rather,  adults,  because  of  having  a  much  greater  store  of  memories  than  children,  take  much  longer  to  remember  a  single  essential  piece  of  information.  "
+    },
+    {
+      "site": 70748,
+      "pointer": 127412,
+      "tip": 61,
+      "target_ko": "연속적이지 않고 어떤 단위량의 정수배로만 나타나는%N값(띄엄띄엄한 값)으로 표현되는 물리량의 최소 단위.%N1900년 플랑크가 에너지 양자라는 생각%N(양자 가설)을 제창해 양자론의 출발점이 되었다.%N이어서 아인슈타인이 광양자(광자)를,%N보어가 각운동량의 양자를 제시했다.%N",
+      "source_en": "The  smallest  unit  of  a  physical  quantity,  not  continuous,  expressed  as  values  limited  to  a  set  of  integer  multiples  of  a  certain  unit  amount  (quantized  values).%NIn  1900,  Planck  proposed  the  idea  of  a  quantum  energy  (the  quantum  hypothesis)  that  spawned  the  beginning  of  quantum  theory.%N%NSubsequently,  Albert  Einstein  suggested  the  existence  of  a  light  quantum  (photon),  and  Niels  Bohr  demonstrated  the  angular  momentum  quantum.  "
+    },
+    {
+      "site": 70760,
+      "pointer": 127944,
+      "tip": 62,
+      "target_ko": "소립자·원자·분자 같은 미시적 계에%N적용되는 역학.%N『%TS063슈뢰딩거 방정식%TE』을 따르는 상태를 도입하고,%N관측으로 얻는 측정값을 확률적으로 해석해%N입자가 지닌 파동과 입자의 이중성,%N측정에서의 불확정 관계 등을 모순 없이%N설명한다.%N",
+      "source_en": "The  study  of  molecules,  atoms  and  subatomic  particles;  in  short,  the  dynamics  of  matter  and  energy  on  a  microscopic  level.%N%NIt  introduced  the  principles  in  the  %TS063Schrdinger  equation%TE,  conducted  probabilistic  explanations  between  values  that  can  be  obtained  from  observation,  postulated  the  wave-particle  duality  of  matter,  and  explained  the  uncertainty  relationship  in  measurements."
+    },
+    {
+      "site": 70764,
+      "pointer": 128388,
+      "tip": 62,
+      "target_ko": "양자역학은 입자와 입자 집단을 다루는%N현대물리학의 기초 이론으로서,%N한편으로는 원자핵론·물성론으로,%N다른 한편으로는 소립자론·장 이론으로 발전했다.%N",
+      "source_en": "Quantum  mechanics,  as  a  fundamental  theory  of  modern  physics  dealing  with  particles  and  particle  populations,  has  developed  into  nuclear  and  chemically-oriented  condensed  matter  theories  on  one  hand,  and  elementary  particle  and  field  theories  on  the  other.  "
+    },
+    {
+      "site": 70776,
+      "pointer": 128728,
+      "tip": 63,
+      "target_ko": "별명: 파동 방정식.%N양자역학에서 물질파를 나타내는%N파동함수의 시간 변화를 결정하는 미분방정식.%N계의 전체 에너지에 대응하는 연산자인%N해밀토니안에 따른 파동함수의 변화가%N파동함수의 시간 변화에 대응한다는%N형태로 나타낸다.%N",
+      "source_en": "(a.k.a.  Wave  Equation)%N%NIn  quantum  mechanics,  a  differential  equation  that  determines  the  temporal  change  of  wave  functions  signifying  matter  waves.%N%NIt  can  be  shown  formally  that  evolution  of  the  wave  function  is  given  in  the  equation  by  the  Hamiltonian  operator,  which  corresponds  to  the  total  energy  of  the  system.  "
+    },
+    {
+      "site": 70788,
+      "pointer": 129128,
+      "tip": 64,
+      "target_ko": "입자의 상태를 기술하는 공간 좌표와 시간의 함수.%N슈뢰딩거 방정식 또는 디랙 방정식을 만족하며%N양자역학적 입자의 파동성을 보장한다.%N파동함수 절댓값의 제곱으로 입자의 존재 확률을%N구할 수 있어, 이런 의미에서 확률 진폭이라고도 한다.%N",
+      "source_en": "From  the  square  of  its  absolute  value,  it  can  give  the  existence  probability  of  a  particle.%NIn  this  sense,  the  wave  function  is  referred  to  as  the  probability  amplitude.  "
+    },
+    {
+      "site": 70800,
+      "pointer": 129336,
+      "tip": 65,
+      "target_ko": "EPR／이피아르%N세 물리학자%N아인슈타인＝E,%N포돌스키＝P,%N로젠＝R의%N머리글자를 이어 붙인 것.%N이 세 사람은 양자역학의 『%TS066불확정성 원리%TE』에%N이의를 제기하며 『%TS067EPR 논문%TE』을 발표했다.%N",
+      "source_en": "An  abbreviation  composed  of  the  first  letters  of  the  names  of  three  physicists:%N%NEinstein  =  E,%NPodolsky  =  P,%NRosen  =  R.%N%NThese  three  presented  the  \"%TS067EPR  Paper%TE\"  to  argue  against  the  concept  of  the  \"%TS066Uncertainty  Principle%TE\"  of  quantum  mechanics."
+    },
+    {
+      "site": 70804,
+      "pointer": 129636,
+      "tip": 65,
+      "target_ko": "특히 아인슈타인은%N『신은 주사위 놀이를 하지 않는다』는 유명한 말처럼%N양자역학의 유용성을 충분히 인정하면서도,%N자연을 확정적으로 기술하지 못한다는 점을 불쾌하게 여겨%N평생 저항한 것으로 잘 알려져 있다.%N그는 양자역학을 공격하는 여러 사고실험을 고안해%N논적 닐스 보어(양자역학 창시자 중 한 명)를%N곤란하게 했다.%N",
+      "source_en": "This  opposition  was  especially  pronounced  in  the  case  of  Einstein,  summed  up  by  his  famous  remark  \"God  does  not  play  dice.\"%NAlthough  fully  recognizing  its  usefulness,  he  was  known  to  be  uncomfortable  with  and  to  oppose  quantum  mechanics  until  his  death  because  of  its  inability  to  definitively  describe  the  microscopic  aspects  of  physical  reality.%NEinstein  conducted  many  thought  experiments  that  criticized  quantum  mechanics  and  troubled  his  opponent  Niels  Bohr  (one  of  the  founders  of  quantum  mechanics).  "
+    },
+    {
+      "site": 70816,
+      "pointer": 130264,
+      "tip": 66,
+      "target_ko": "양자역학에서 입자의 위치와 운동량,%N에너지와 시간 같은 한 쌍의 물리량을%N동시에 정확히 측정하고 결정할 수 없다는 원리.%N두 측정값의 불확정성의 곱은%N플랑크 상수에 비례하는 일정한 값보다%N작아질 수 없다는 불확정 관계가 성립한다.%N1927년 하이젠베르크가 이끌어 냈다.%N",
+      "source_en": "In  regards  to  quantum  mechanics,  it  refers  to  the  impossibility  of  determining  accurately  and  simultaneously  both  a  particle's  position  and  momentum,  energy  and  time,  or  other  coupled  physical  quantities.%N%NIt  holds  with  the  uncertain  relationships  that  the  product  of  the  two  values  of  these  uncertainties  cannot  be  smaller  than  a  fixed  value  proportional  to  Planck's  Constant.%N%NDeduced  by  Heisenberg  in  1927.  "
+    },
+    {
+      "site": 70828,
+      "pointer": 130760,
+      "tip": 67,
+      "target_ko": "아인슈타인·포돌스키·로젠이%N발표한 논문.%N별명: EPR 역설.%N양자역학을 비판하는 사고실험 가운데 가장 뛰어난 것으로,%N세 사람은 본래 양자역학을 공격하려고 고안했지만%N아이러니하게도 양자역학을 더 깊이 이해하게 하는%N최고의 소재가 되었다.%N",
+      "source_en": "A  paper  published  by  Einstein,  Podolsky,  and  Rosen.  Also  known  as  the  EPR  Paradox.%N%NIt  presents  a  thought  experiment  that  is  extremely  critical  of  quantum  mechanics,  and  was  originally  published  by  Einstein  and  his  coauthors  as  an  attack  on  it.  Ironically,  it  ended  up  having  the  opposite  effect,  and  became  the  best  material  for  deepening  one's  understanding  of  the  field."
+    },
+    {
+      "site": 70832,
+      "pointer": 131196,
+      "tip": 67,
+      "target_ko": "요지는 다음과 같다.%N양자론에 따르면 한 장소에서 하나의 계기로%N두 소립자를 발생시키면,%N두 소립자는 어떤 상태를 공유하게 된다.%N가령 정지한 ⑳π⑳중간자는 서로 반대 방향의%N광자 두 개로 붕괴하는데,%N이 광자 쌍은 하나의%N슈뢰딩거 방정식으로 표현된다.%N",
+      "source_en": "The  details  of  the  experiment  are  as  follows:%N%NAccording  to  quantum  theory,  when  two  particles  are  created  at  some  location  by  the  same  event,  they  share  a  certain  kind  of  state.%N%NFor  example,  a  stationary  π-meson  decays  into  two  photons  in  opposite  directions,  but  both  members  of  the  photon  pair  are  represented  with  a  single  Schrdinger  equation."
+    },
+    {
+      "site": 70836,
+      "pointer": 131608,
+      "tip": 67,
+      "target_ko": "양자론에서는 관측하지 않는 한%N영원히 하나의 식으로 표현된다.%N그러므로 멀리 날아간 소립자의 정보%N――스핀이나 편광 같은 상태――를 관측하면%N이쪽 소립자의 상태도 알 수 있을 것이다.%N하지만 한쪽을 관측하는 순간 다른 한쪽도%N그에 맞춰 파동함수가 붕괴해,%N마치 관측했다는 정보가 순식간에%N상대편으로 전달되는 것처럼 보이므로%N인과율을 어기는 것이 아니냐는 주장이다.%N",
+      "source_en": "Quantum  theory  states  that  as  long  as  they  aren't  observed,  the  particles  can  be  expressed  by  the  same  equation  forever.  So  even  if  one  of  them  flies  a  long  distance  away,  if  you  observe  some  information  about  it−−such  as  spin  or  polarization−−then  you  should  know  the  state  of  the  particle  that  remained  behind.%NBut  at  the  moment  that  you  observe  one  particle,  the  wave  function  of  the  other  particle  collapses  accordingly,  appearing  as  if  the  measured  information  has  been  instantly  transmitted  from  one  to  the  other."
+    },
+    {
+      "site": 70840,
+      "pointer": 132220,
+      "tip": 67,
+      "target_ko": "그러나 오늘날에는 양자역학 안에서도%N올바른 해석이 이루어졌고,%N이를 뒷받침하는 실험 결과도 잇따라%N발표되고 있다.%N",
+      "source_en": "However,  modern  quantum  mechanics  has  successfully  come  up  with  a  proper  explanation,  and  experimental  results  that  support  it  have  been  published  one  after  another.  "
+    },
+    {
+      "site": 70852,
+      "pointer": 132464,
+      "tip": 68,
+      "target_ko": "구체적인 방법으로는 다음과 같은 것이 있다.%N붕산바륨처럼 광학적으로 비선형인 성질을 가진%N결정에 UV 레이저광을 쏘면%N광자 하나가 파장이 더 긴 두 광자로%N분열하는 경우가 있다.%N분열한 두 광자는 각각 두 개의 원뿔을 따라%N처음의 UV 레이저를 축으로 대칭을 이루며%N날아간다.%N",
+      "source_en": "As  an  example  of  an  established  method,  the  following  procedure  exists.%N%NWhen  a  UV  laser  beam  interacts  with  a  crystal  of  non-linear  optical  material  such  as  barium  borate,  each  single  photon  splits  into  two  other  photons  with  long  wavelengths.  These  split  photons  travel  along  the  contours  of  two  cones  that,  in  turn,  are  symmetric  about  the  initial  beam."
+    },
+    {
+      "site": 70856,
+      "pointer": 132880,
+      "tip": 68,
+      "target_ko": "두 원뿔이 교차하는 곳에서는 두 광자를%N구별할 수 없는 %TS070얽힘 상태%TE가 된다.%N이 얽힌 광자 쌍의 편광이 서로 직교한다는 점은%N알려져 있지만,%N각각의 편광각이 정확히 얼마인지는 알 수 없다.%N이렇게 얽힌 광자를 만든다.%N이 방법을 매개 하향 변환이라고%N부른다.%N",
+      "source_en": "The  points  where  the  contours  of  the  two  cones  intersect  have  photons  in  the  state  of  %TS070entanglement%TE,  i.e.  there  is  no  distinction  as  to  their  origins  there.  What  is  known  about  these  entangled  photons  is  that  their  polarization  is  mutually  orthogonal,  however  it  is  impossible  to  definitely  know  their  respective  deflection  angles.%N%NThis  method  of  creating  entangled  photons  is  called  parametric  down-conversion.  "
+    },
+    {
+      "site": 70868,
+      "pointer": 133396,
+      "tip": 69,
+      "target_ko": "암호 분야에서는%N정보 송신자를 앨리스(Alice),%N수신자를 밥(Bob)이라 부르는 것이%N관례다.%N이 명칭은 1993년에 발표된%N양자 텔레포테이션 논문에서%N사용된 데서 시작되었다.%N%N덧붙여 앨리스와 밥이 주고받는 정보를%N가로채거나 도청하려는 존재를%N이브(Eve)라고 부르는 것도 관례다.%N",
+      "source_en": "In  cryptography,  the  one  conveying  the  information  is  commonly  referred  to  as  Alice,  while  the  recipient  is  referred  to  as  Bob.%N%NThis  naming  convention  originated  from  a  paper  on  quantum  teleportation  published  in  1993.%N%NAdditionally,  a  person  found  to  be  intercepting  communications  (i.e.  through  a  bug  or  wiretap)  between  Alice  and  Bob  is  customarily  referred  to  as  Eve.  "
+    },
+    {
+      "site": 70880,
+      "pointer": 133860,
+      "tip": 70,
+      "target_ko": "양자 중첩 상태를 말한다.%N여러 %TS071큐비트%TE의 상태가%N양자역학 법칙에 따라%N마치 하나의 물체처럼 움직여%N분리할 수 없는 상태를 이루는 것.%N",
+      "source_en": "A  state  of  quantum  superposition.%N%NRefers  to  a  situation  in  which  a  system  of  several  %TS071quantum  bits%TE,  in  accordance  with  the  laws  of  quantum  mechanics,  forms  an  inseparable  state  and  behaves  as  if  it  were  a  single  entity.  "
+    },
+    {
+      "site": 70892,
+      "pointer": 134156,
+      "tip": 71,
+      "target_ko": "2003년 현재 주류인 컴퓨터%N(폰 노이만형 컴퓨터)가 사용하는 고전 비트,%N즉 0과 1――OFF 또는 ON――의 이진수로 표현되는%N정보를 대신할 새로운 정보량의 단위.%N『0』과 『1』을 중첩한 물리 상태%N(양자 중첩 상태)를 연산 단위로 사용한다.%N",
+      "source_en": "Refers  to  a  new  unit  of  information  content,  different  from  the  classical  bit  (information  represented  by  a  binary  digit,  0,  off,  or  1,  on)  used  in  modern  computers  (von  Neumann  machines)  that  have  become  mainstream  by  the  time  of  2003.%N%NA  physical  state  in  which  \"0\"  and  \"1\"  overlap  (a  quantum  superposition)  is  treated  as  an  operational  unit."
+    },
+    {
+      "site": 70896,
+      "pointer": 134560,
+      "tip": 71,
+      "target_ko": "양자 비트라고도 부른다.%N이를 이용한 컴퓨터는%N%TS072양자 컴퓨터%TE라 하며,%N초고속 계산(초병렬 계산)을 할 수 있다.%N",
+      "source_en": "Also  known  as  a  qubit.  Computers  that  use  them  are  called  %TS072quantum  computers%TE,  and  they  are  capable  of  carrying  out  extremely  fast  calculations  (massively  parallel  computation).  "
+    },
+    {
+      "site": 70908,
+      "pointer": 134808,
+      "tip": 72,
+      "target_ko": "소자 하나에 두 상태의 중첩을 만들고%N두 상태를 모두 계산에 사용한다.%N(폰 노이만형 컴퓨터에서는%N⑳소자 하나로 계산 하나만 할 수 있다.)%N따라서 소자가 10개라면 한 번에 할 수 있는 계산이%N2의 10제곱(1,024)가지로 늘어난다.%N소자가 많아질수록 계산 능력이 급격히 향상된다.%N그야말로 경이로운 계산 속도를 자랑하는%N컴퓨터라 할 수 있다.%N",
+      "source_en": "A  computer  which  creates  a  superposition  of  two  states  as  a  single  element  and  performs  calculations  using  both  states.%N(A  von  Neumann  computer  can  only  perform  a  single  calculation  per  element.)%NBecause  of  this,  if  there  are  ten  elements,  the  number  of  calculations  it  can  perform  simultaneously  rises  to  2^10  (1024).  As  more  elements  are  added,  the  computational  power  grows  dramatically.  The  speed  a  computer  like  this  boasts  of  can  truly  be  called  wondrous.  "
+    },
+    {
+      "site": 70920,
+      "pointer": 135384,
+      "tip": 73,
+      "target_ko": "이미 서로 떨어진 두 입자를%N얽힘 상태로 만든 뒤,%N두 입자를 구별할 수 없도록%N(얽힘을 유지한 채) 동시에 관측하는 방법.%N두 입자를 동시에 빔 스플리터%N(하프 미러 등이 쓰인다)에 도달시켜야 하므로%N기술적으로 매우 어렵다.%N",
+      "source_en": "A  method  of  placing  an  isolated  pair  of  particles  in  an  entangled  state  and  then  observing  both  of  them  at  the  same  time  in  a  way  that  doesn't  permit  them  to  be  distinguished  from  each  other  (in  order  to  maintain  the  entanglement).%N%NSince  the  particles  must  be  passed  through  a  beam  splitter  (such  as  a  half-silvered  mirror)  at  exactly  the  same  time,  this  is  extremely  difficult  in  practice.  "
+    },
+    {
+      "site": 70932,
+      "pointer": 135896,
+      "tip": 74,
+      "target_ko": "유니터리 공간의 임의의 두 벡터에 대해%N선형변환 전후의 에르미트 내적값을%N보존하는 변환.%Nn×n 행렬 M의 수반행렬을 M*라 할 때,%NM*M＝MM*＝E를 만족하는%N복소수 성분의 정사각행렬을 유니터리 행렬이라 한다.%N단 E는 n차 단위행렬이다.%N",
+      "source_en": "In  a  unitary  space,  a  linear  transformation  which  preserves  the  value  of  the  Hermitian  inner  product  of  two  arbitrary  vectors  before  and  after  the  transformation.%N%NSuppose  we  denote  the  adjoint  of  an  n-by-n  matrix  M  as  M*.%N%NThen  M  is  unitary  if  it  is  a  complex-valued  square  matrix  fulfilling  the  equation  M*M  =  MM*  =  E,  where  E  is  the  identity  matrix  of  order  n.  "
+    },
+    {
+      "site": 70944,
+      "pointer": 136352,
+      "tip": 75,
+      "target_ko": "일본과 독일의 합작 제약회사.%N본사는 프랑크푸르트에 있고 임원 대부분도%N독일인이다.%N국제적으로 유명한 제약업체이며%N자본은 전 세계에 뻗어 있고%N각국 정부 중추와도 매우 긴밀하다.%N사업은 제약에 그치지 않고%N오락 시설 운영 등 여러 분야에 걸쳐 있다.%N",
+      "source_en": "A  joint  Japanese-German  pharmaceutical  company.%NIts  head  office  is  in  Frankfurt,  and  the  majority  of  its  staff  are  German.%NAn  internationally  renowned  drug  manufacturer,  its  capital  is  generated  worldwide,  and  it  has  very  strong  ties  with  the  governments  of  several  countries.%N%NThe  company's  area  of  expertise  isn't  limited  to  the  pharmaceutical  sector,  but  includes  a  wide  range  of  business  endeavors,  such  as  the  management  of  recreational  facilities  and  so  on."
+    },
+    {
+      "site": 70948,
+      "pointer": 136888,
+      "tip": 75,
+      "target_ko": "예를 들면 해양 테마파크 『LeMU』 운영%N(정확히는 LeMU를 운영하는 『㈜LeMU』에 출자)이%N이에 해당한다.%N세균 연구 분야에서는 세계 1, 2위를 다투는%N연구 시설을 보유했다고 한다.%N하지만 이 기업에는 숨겨진 얼굴이 있다.%N세균 병기를 이용한 군사 사업이다.%N치사율 높은 바이러스와 특효약을 개발해%N각국에서 막대한 부를 얻는다고 한다.%N",
+      "source_en": "An  example  of  this  would  be  an  ocean  theme  park  called  LeMU  which  the  company  manages  (strictly  speaking,  they  provide  funding  to  \"LeMU  Ltd.\",  the  park  management  organization).%N%NAdditionally,  regarding  their  bacterial  research,  it  is  said  that  the  company  owns  one  or  two  of  the  leading  facilities  in  the  field.%N%NHowever,  this  business  enterprise  has  a  hidden  agenda."
+    },
+    {
+      "site": 70952,
+      "pointer": 137316,
+      "tip": 75,
+      "target_ko": "세균 연구에만 어두운 면이 있다고%N생각하기 쉽지만,%N제약회사라는 체제가 보여 주듯%N약품 연구 분야에서도 비인도적 연구가%N이루어진다.%N인권을 무시한 인체 실험, 불법 약품의%N연구·개발·조합·정제, 암시장을 통한%N마약 유통…….%N",
+      "source_en": "They  are,  in  fact,  developing  biological  weapons  for  military  purposes.%NIt  seems  that  the  company  is  amassing  huge  amounts  of  capital  from  several  countries  for  the  purpose  of  developing  highly  lethal  viruses  and  their  respective  cures.%N%NNow,  it  may  seem  they  only  have  a  dark  side  in  bacterial  research,  but  as  the  structure  of  their  pharmaceutical  company  would  demonstrate,  their  medical  research  is  conducted  with  inhumane  practices."
+    },
+    {
+      "site": 70956,
+      "pointer": 137824,
+      "tip": 75,
+      "target_ko": "또 어떤 정보원에 따르면 최근%N한 중화학 기업과 제휴해%N장거리 미사일 연구에도 착수했다고 한다.%N정보공학과 양자물리학 연구·개발에 열심인 것도%N모두 군사 분야로 전용하기 위한%N투자라고 볼 수 있을지 모른다.",
+      "source_en": "Among  their  activities  are  using  human  test  subjects  without  any  regard  to  basic  civil  rights;  the  research,  development,  synthesis,  and  refinement  of  illegal  drugs;  expanding  profit  by  trafficking  their  drugs  on  the  black  market...%N%NFurthermore,  according  to  certain  information,  the  company  has  recently  ventured  into  the  area  of  long-range  missile  development  as  a  result  of  its  ties  with  a  certain  heavy  chemical  company.  One  could  argue  that  all  of  their  devotion  to  "
+    },
+    {
+      "site": 70960,
+      "pointer": 138372,
+      "tip": 75,
+      "target_ko": "즉 이 기업의 악행은%N하나하나 열거하자면 끝이 없다.%N악명 높은 제약회사――%N그러나 그것조차 세계에 존재하는 어둠의%N극히 일부에 지나지 않는다.%N",
+      "source_en": "research  and  development  of  information  engineering  and  quantum  physics  is  an  investment  toward  military  use.%N%NIn  short,  it  would  take  ages  to  even  try  and  enumerate  all  of  their  wrongdoings.%N%NA  pharmaceutical  company  with  a  reputation  this  bad−−and  yet,  this  is  merely  a  glimpse  of  all  the  darkness  the  world  possesses.  "
+    },
+    {
+      "site": 70972,
+      "pointer": 138776,
+      "tip": 76,
+      "target_ko": "스위치블레이드 나이프를 말한다.%N일본에서는 규제되어 만들 수도 없고%N판매되지도 않는다.%N스위치블레이드를 잭나이프라고%N부른 적도 있다고 한다.%N",
+      "source_en": "A  switch-deployed  knife.%NTheir  use  is  highly  restricted  by  law  in  Japan;  none  are  produced  or  sold  within  the  country.%NAlso  called  a  jackknife.  "
+    },
+    {
+      "site": 70984,
+      "pointer": 138996,
+      "tip": 77,
+      "target_ko": "분석 대상은%N『11일 시계탑 추락 시각: 오후 4시 무렵』부터%N『15일 마지막 전이 시각: 오후 10시 53분』까지의%N영상이다.%N정확한 총량은 『103시간에 조금 못 미친다』.%N그 밖의 데이터는 살펴봐도 별 의미가 없다고%N판단해 대상에서 제외했다.%N",
+      "source_en": "The  video  analyzed  runs  from  the  time  of  my  fall  from  the  clock  tower  on  the  11th,  a  bit  past  4  PM,  to  the  time  of  the  final  transfer  on  the  15th,  at  10:53  PM.%N%NThe  exact  total  duration  would  be  a  little  less  than  103  hours.%N%NI've  concluded  that  there  wouldn't  be  much  point  in  examining  data  other  than  that,  so  I've  excluded  it.  "
+    },
+    {
+      "site": 70996,
+      "pointer": 139408,
+      "tip": 78,
+      "target_ko": "날짜와 시각은 영상 한쪽 구석에 표시되어 있었다.%N",
+      "source_en": "The  date  and  time  are  indicated  by  a  timestamp  in  the  corner  of  the  videos.  "
+    },
+    {
+      "site": 71008,
+      "pointer": 139520,
+      "tip": 79,
+      "target_ko": "카메라는 스피아 곳곳에 설치되어 있었고,%N따라서 기록된 데이터 파일도%N카메라 수만큼 존재했다.%N하지만 그것을 모두 확인할 필요는 없다.%N그럴 시간도 없었다.%N그래서 기본적으로%N내 모습이 찍히지 않은 영상은%N분석 대상에서 제외하기로 했다.%N",
+      "source_en": "Cameras  are  set  up  everywhere  in  SPHIA,  so  there  are  as  many  recorded  data  files  as  there  are  cameras.%N%NHowever,  there  is  neither  any  need  to  check  all  of  them  nor  the  time  to  do  so.%N%NBasically,  I've  just  excluded  all  the  files  I  don't  appear  in  from  the  list  of  objects  to  be  analyzed.  "
+    },
+    {
+      "site": 71020,
+      "pointer": 139888,
+      "tip": 80,
+      "target_ko": "『오후 ――시 ――분』은%N측정할 수 없었다는 뜻이다.%N정전으로 캄캄한 가운데%N내가 흉기를 든 사람의 그림자를 보았던 때다.%N손목시계를 확인할 여유 따위 없었다.%N",
+      "source_en": "\"--:--  PM\"  indicates  that  it  was  impossible  for  me  to  check  what  the  time  was.%N%NThis  was  when  I  saw  the  shadow  holding  a  knife  when  the  lights  went  out.%N%NI  had  no  time  to  look  at  my  watch.  "
+    },
+    {
+      "site": 71032,
+      "pointer": 140164,
+      "tip": 81,
+      "target_ko": "실제로 지구상에는 세 점 사이의 거리가%N균형을 이루는 위치가 여섯 곳 있다고 생각된다.%N그 여섯 지점은 다음과 같이 구한다…….%N먼저 『점: 아오사기섬』과 『점: 아카쿠라산』 사이의%N구면 거리를 r이라 한다.%N이어서 두 점을 중심으로 반지름 r인 원을%N똑같이 구면 위에 그린다.%N두 원의 교점을 p1, p2라 한다.%N",
+      "source_en": "In  fact,  there  appear  to  be  six  positions  on  Earth  where  the  respective  distances  between  the  three  points  are  kept  in  close  balance.%NAs  for  where  these  positions  lie  exactly,  it  is  as  follows...%N%NFirst,  let's  designate  the  surface  distance  between  \"point:  Aosagi  Island\"  and  \"point:  Mount  Akakura\"  as  ｒ.%NNext,  draw  two  circles  of  a  radius  ｒ,  centered  on%N\"point:  Aosagi  Island\"  and  \"point:  Mount  Akakura\"  respectively."
+    },
+    {
+      "site": 71036,
+      "pointer": 140656,
+      "tip": 81,
+      "target_ko": "p1과 p2를 지나는 직선을 긋는다.%N또 『점: 아오사기섬』과 『점: 아카쿠라산』을 지나는%N직선도 긋는다.%N여기서 『직선』은 곡면 위의 선을 뜻하므로,%N정확히는 지구를 한 바퀴 도는 원이 된다.%N이로써 작은 원 두 개와%N큰 원 두 개가 생긴다.%N",
+      "source_en": "Let's  designate  the  intersection  points  of  these  two  circles  as  ｐ１  and  ｐ２.%N%NDraw  a  straight  line  passing  through  ｐ１  and  ｐ２.%NAlso,  draw  another  line  passing  through%N\"point:  Aosagi  Island\"  and  \"point:  Mount  Akakura\".%N\"Lines\"  here  should  be  understood  in  the  sense  of  lying  atop  a  curved  surface,  and  thus  forming  two  more  circles  around  the  Earth  when  fully  drawn.%NWith  this,  we  now  have  two  small  circles  and  two  large  ones."
+    },
+    {
+      "site": 71040,
+      "pointer": 141164,
+      "tip": 81,
+      "target_ko": "이때 모든 원의 교점은 모두 여덟 곳――.%N그 가운데 두 곳은%N『점: 아오사기섬』과 『점: 아카쿠라산』이므로 제외한다.%N그러면 여섯 곳이 남는다――.%N이 여섯 지점 중 하나에 제3영역이 있다면%N『세 점은 균형이 유지되는 위치에 있다』고%N할 수 있다.%N",
+      "source_en": "Now,  there  should  be  a  total  of  eight  points  of  intersections  between  all  circles−−%N%NSince  two  of  them  are  \"point:  Aosagi  Island\"  and  \"point:  Mount  Akakura\",  we  exclude  these.  Which  leaves  us  with  six  points−−%N%NIf  any  of  these  six  represents  the  actual  third  area,  that  would  mean  that  the  three  transfer  points  are  located  in  equilibrium  positions.  "
+    },
+    {
+      "site": 71052,
+      "pointer": 141636,
+      "tip": 82,
+      "target_ko": "SF 등에는 『평행세계』가 등장하곤 한다.%N흔한 설정은 우리가 사는 세계와 매우 닮았지만%N어딘가 조금 다른 부분이 있는 세계다.%N주인공의 관점에서 보면 그가 인생에서%N무언가를 선택할 때마다%N선택지 수만큼 세계가 갈라진다는%N식이다.%N",
+      "source_en": "In  science  fiction  literature  and  the  like,  authors  sometimes  include  settings  called  \"parallel  worlds\".%N%NA  common  setup  is  for  the  protagonist  to  see  worlds  that  are  very  similar  to  the  one  we  live  in,  but  are  different  in  subtle  ways.  Every  time  the  protagonist  makes  a  choice  in  life,  several  worlds  diverge  from  that  point  based  on  the  number  of  alternatives.%N%N"
+    },
+    {
+      "site": 71056,
+      "pointer": 142068,
+      "tip": 82,
+      "target_ko": "실은 물리학에도 이와 비슷한 생각이 있다.%N에버렛이 제창한 『다세계 해석』이라는%N세계관이다.%N이는 양자역학의 사고를 확장한 것으로,%N현재 주류인 양자역학 해석과%N경쟁하며 오늘날까지 이어졌다.%N양자역학에서는 물질과 에너지 등을%N일종의 『파동』으로 해석한다.%N",
+      "source_en": "It  turns  out  that  a  similar  way  of  thinking  also  exists  in  physics.%N%NThis  is  the  so-called  \"Many-Worlds  Interpretation\",  proposed  by  a  scholar  named  Everett.  It  elaborates  on  the  quantum  mechanical  way  of  thinking  and  is  competitive  with  the  current  mainstream  interpretation  of  quantum  mechanics."
+    },
+    {
+      "site": 71060,
+      "pointer": 142412,
+      "tip": 82,
+      "target_ko": "오해하지 말아야 할 것은 여기서 말하는 『파동』이%N어디까지나 양자역학 세계의 파동이라는 점이다.%N고전론에서 말하는 것처럼 사방으로 퍼져%N전달되는 그 파동이 아니다.%N양자역학적 파동은%N간단히 말해 『확률의 파동』이다.%N",
+      "source_en": "In  quantum  mechanics,  both  matter  and  energy  are  seen  as  a  certain  kind  of  \"wave\".%N%NTo  avoid  confusion,  the  word  \"wave\"  here  refers  strictly  to  waves  in  the  world  of  quantum  mechanics,  rather  than  the  concept  of  waves  in  classical  theory  which  are  transmitted  and  spread  outward  in  all  directions.%N%NQuantum  mechanical  waves  are  basically  \"waves  of  probability\"."
+    },
+    {
+      "site": 71064,
+      "pointer": 142836,
+      "tip": 82,
+      "target_ko": "무언가가 그곳에 존재한다는 사실을%N존재 확률로 논한다.%N이때 그 『무언가』의 위치와 운동량은%N동시에 특정할 수 없다는 미시 세계의%N요청이 있다(불확정성 원리).%N따라서 양자역학은 그 『무언가』의 존재를%N확률적으로 바라본다.%N그런 상태를 표현하는 도구로 『파동함수』를 쓴다.%N",
+      "source_en": "When  dealing  with  the  world  on  a  microscopic  scale,  there  is  a  restriction  that  prevents  an  object's  position  and  momentum  from  both  being  known  simultaneously  (the  uncertainty  principle),  meaning  that  you  can  only  say  the  object  exists  in  a  particular  place  with  some  probability.%N%NBecause  of  this,  quantum  mechanics  considers  the  existence  of  the  object  from  a  probabilistic  perspective.  The  mathematical  tool  used  to  describe  this  phenomenon  is  called  a  \"wave  function\"."
+    },
+    {
+      "site": 71068,
+      "pointer": 143384,
+      "tip": 82,
+      "target_ko": "다세계 해석을 보기 전에%N먼저 현재 표준적인 양자역학이%N세계를 어떻게 해석하는지 생각해 보자.%N가령 전자 하나가 어떤 곳에 존재할 때,%N관측하기 전에는 불확정성 때문에%N확률적으로 넓게 퍼진 상태로%N존재한다고 본다.%N",
+      "source_en": "Before  looking  at  the  many-worlds  interpretation,  we'll  try  thinking  about  how  standard  quantum  mechanics  currently  explains  the  world.%N%NFor  example,  consider  a  single  electron.  Before  you  perform  the  act  of  observing  that  it  exists  in  a  particular  location,  its  existence  is  spread  out  in  a  probabilistic  way  due  to  uncertainty.%NUntil  it  is  actually  observed,  its  existence  is  described  by  assigning  a  probability  to  all  of  the  places  where  it  could  possibly  exist."
+    },
+    {
+      "site": 71072,
+      "pointer": 143924,
+      "tip": 82,
+      "target_ko": "실제로 보기 전까지는%N전자가 있을 수 있는 위치마다 확률을 구해%N그 퍼짐으로 해석한다.%N이런 상태를 『전자 구름』이라 부른다.%N그리고 어떤 방법으로 그 전자를 관측했다고 하자.%N",
+      "source_en": "In  this  state,  we  call  it  an  \"electron  cloud\".%N%NNow,  suppose  you  were  to  use  some  method  to  observe  the  electron.%N%NAt  that  moment,  assuming  that  the  electron's  position  was  determined,  the  previously  spread-out  cloud  would  immediately  gather  at  that  single  observed  point  (likewise  for  momentum)."
+    },
+    {
+      "site": 71076,
+      "pointer": 144268,
+      "tip": 82,
+      "target_ko": "이때 그 위치가 특정되었다면%N그동안 퍼져 있던 구름은 관측한 한 점으로%N순식간에 모인다(운동량도 마찬가지다).%N이를 『파동 묶음의 붕괴』라고 한다.%N즉 확률분포로 보던 전자를 관측하는 순간%N전자의 존재가 현실의 사건으로 확정되는 것이다.%N이 해석을 『코펜하겐 해석』이라 하며%N현재 양자역학의 주류다.%N",
+      "source_en": "This  is  called  a  \"wave  function  collapse\";  it  basically  means  that  the  act  of  observing  the  electron,  which  was  previously  viewed  as  a  probability  distribution,  renders  its  fixed  existence  as  a  real  phenomenon.%N%NThis  explanation  is  known  as  the  \"Copenhagen  interpretation\"  and  is  considered  mainstream  in  modern  quantum  mechanics.%N%NNow  then,  what  about  the  rivaling  Many-Worlds  Interpretation?"
+    },
+    {
+      "site": 71080,
+      "pointer": 144720,
+      "tip": 82,
+      "target_ko": "그렇다면 경쟁자인 다세계 해석은 어떨까?%N전자의 존재를 확률분포로 보는 데까지는%N코펜하겐 해석과 같다.%N문제는 그것을 관측한 뒤다.%N다세계 해석에서는 관측하든 하지 않든%N그 확률분포가 계속된다고 본다.%N무슨 뜻일까?%N",
+      "source_en": "It  agrees  with  the  Copenhagen  interpretation  on  the  treatment  of  the  electron's  existence  as  a  probability  distribution.%N%NThe  question  is,  what  happens  after  the  moment  the  electron  is  observed?  Under  the  Many-Worlds  Interpretation,  the  probability  distribution  is  considered  to  be  maintained  regardless  of  whether  the  electron  is  observed  or  not.  But  what  does  that  mean?%N%NFor  example,  when  an  observer  confirms  that  the"
+    },
+    {
+      "site": 71084,
+      "pointer": 145208,
+      "tip": 82,
+      "target_ko": "예를 들어 어느 한 점에서 전자의 위치를 특정해도%N다른 가능성이 사라지는 것이 아니라,%N그 관측자가 인식할 수 없는 세계에서%N계속된다고 본다. 말도 안 되는 이야기처럼 들린다.%N우리 세계에서 인식할 수 없다면%N그것은 『없는 것』 아닌가.%N분명 그 관측자의 세계에는 없지만,%N그 밖의 관측자의 세계에는%N『존재한다』는 것이다.%N",
+      "source_en": "electron  is  in  a  particular  position,  the  other  possibilities  don't  just  disappear.%NInstead,  they  actually  persist  in  other  worlds  the  observer  can't  perceive.  It's  not  such  a  ridiculous  idea.  Isn't  it  because  we  can't  perceive  them  in  our  world  that  we  say  \"they  don't  exist\"?%N%NCertainly,  if  an  observer  observes  that  a  possibility  doesn't  exist,  then  it  doesn't  exist  in  his  world.  However,  it  does  exist  in  the  worlds  of  observers  other  than  that  one."
+    },
+    {
+      "site": 71088,
+      "pointer": 145740,
+      "tip": 82,
+      "target_ko": "즉 다세계 해석은 관측자까지 포함해%N확률적으로 해석한다.%N(관측 대상뿐 아니라 관측 대상과%N⑳그것을 관측하는 관측자가 존재하는 시공간 전체도%N⑳파동함수에 포함된다.)%N그렇다면 확률이 0이 아닌 모든 가능성은%N동시에 존재하게 된다.%N가능한 모든 세계가 동시에 진행되는 것이다.%N말 그대로 『다세계』다.%N",
+      "source_en": "In  other  words,  under  the  Many-Worlds  Interpretation,  even  the  observers  are  explained  probabilistically  (the  wave  function  does  not  only  consist  of  the  target  of  observation,  but  also  the  observer's  entire  space-time).%N%NThat  means  that  every  possibility  which  has  a  non-zero  probability  exists  at  the  same  time.%N%NEvery  possible  world  advances  simultaneously,  which  can  be  interpreted  as  truly  \"many-worlds\"."
+    },
+    {
+      "site": 71092,
+      "pointer": 146208,
+      "tip": 82,
+      "target_ko": "생각해 보면 이 관점은 핵심을 찌른다.%N관측 대상도 관측자도%N본래 같은 물질로 이루어진 구조물이다.%N둘을 차별해 해석할 이유는 어디에도 없다.%N",
+      "source_en": "If  you  think  about  it,  the  main  point  is  this:%Nobservers  and  observed  things  are  made  from  the  same  substance  to  begin  with.  There's  no  reason  whatsoever  for  an  interpretation  to  distinguish  between  the  two.%N%NSomeone  who  dislikes  the  idea  of  a  person  receiving  special  treatment  might  find  the  Many-Worlds  Interpretation  easy  to  warm  up  to.%NIt  gives  the  impression  that  it  was  originally  created  for  the  purpose  of  explaining  why  waves  should  suddenly  collapse  at  the  moment  of  observation."
+    },
+    {
+      "site": 71096,
+      "pointer": 146780,
+      "tip": 82,
+      "target_ko": "누군가만 특별 취급받는 것은 납득할 수 없다는%N사람이라면 다세계 해석이 친숙할지도 모른다.%N애초에 다세계 해석은%N왜 관측하는 순간 갑자기 파동이 붕괴하는가라는%N문제를 해결하려고 고안된 듯하다.%N그런 의미에서 현재 표준 양자역학을%N한 걸음 넘어선 선진적인 논리라고%N할 수도 있다.%N",
+      "source_en": "In  that  sense,  perhaps  we  can  say  it  has  advanced  a  step  beyond  current  standard  quantum  mechanics  as  a  theory.  "
+    },
+    {
+      "site": 71108,
+      "pointer": 146936,
+      "tip": 83,
+      "target_ko": "그 존재에게는 과거가 없다.%N그 존재에게는 미래가 없다.%N정확히 말하면 시간이라는 개념 자체가 없다.%N그 존재에게 『과거』도 『현재』도 『미래』도%N단 하나의 점으로 수렴한다.%N점.%N허무.%N0차원.%N%N%N겹쳐진 세 개의 바다.%N아무것도 없는 곳에 그 존재가 있다.%N",
+      "source_en": "For  that  person,  there  is  no  past.%NFor  that  person,  there  is  no  future.%NTo  be  more  accurate,  the  concept  of  time  does  not  exist  for  that  person.%NFor  that  person,  the  past,  the  present,  and  the  future  are  all  condensed  into  a  single  point.%N%NPoint.%NEmptiness.%N0th  dimension.%NThree  concepts  that  overlap."
+    },
+    {
+      "site": 71112,
+      "pointer": 147292,
+      "tip": 83,
+      "target_ko": "그곳에는 절대적인 의지만이 있다.%N절대적인 의지.%N그들에게 있어서는.%N%N%N비유하자면 %TS084다윗%TE.%N그것은 분명 그들 모두를 다스리는 『왕』이었다.%N그리고……%N『그』에게는 증오해야 할 숙적.%N",
+      "source_en": "In  a  place  without  anything  exists  that  person.%NAn  absolute  will  is  the  only  thing  there.%NAn  absolute  will.%NTo  them.%N%NTo  give  an  example,  %TS084David%TE.%NWithout  a  doubt,  that  person  was  a  \"king\"  who  entirely  ruled  them."
+    },
+    {
+      "site": 71116,
+      "pointer": 147552,
+      "tip": 83,
+      "target_ko": "『그』――비유하자면 %TS086사울%TE.%N2012년에서 11년 전으로 거슬러 올라가――.%N시작은 그곳에 있었다.%N%N%N하지만 사토루는……%N당신은……%N그것을 모른다.%N",
+      "source_en": "And...%NTo  \"him\",  a  hateful  enemy.%N\"Him\"−−to  give  an  example,  %TS086Saul%TE.%NEleven  years  before  2012−−%NThat's  where  it  all  began.%N%NBut  Satoru...%NYou...%Nknow  not  of  this.  "
+    },
+    {
+      "site": 71128,
+      "pointer": 147768,
+      "tip": 84,
+      "target_ko": "히브리어로 『사랑받는 자』라는 뜻.%N이 이름의 유래인 다윗은%N고대 이스라엘의 두 번째 왕이다.%N예루살렘을 수도로 정하고 이스라엘을 통일해%N이스라엘의 전성기를 열었다고 전해진다.%N",
+      "source_en": "Means  \"beloved\"  in  Hebrew.%N%NThe  Biblical  David  from  whom  this  name  is  derived  was  the  second  king  of  ancient  Israel  who  established  Jerusalem  as  its  capital,  united  Israel,  and  built  Israel's  era  of  prosperity."
+    },
+    {
+      "site": 71132,
+      "pointer": 148016,
+      "tip": 84,
+      "target_ko": "다윗 왕은 전략에 뛰어났고 너무나 강했기에%N마술적인 힘을 느낀 비술사들은%N다윗 왕의 군기가 『악마 소환의 부적』일 것이라%N생각했다.%N그 다윗이 깃발 문양으로 쓴 것이 『다윗의 별』이다.%N이스라엘에서는 위험으로부터 몸을 지키는%N문장으로 여기며,%N그 정사영이 국기 도안에 쓰였다.%N",
+      "source_en": "King  David  excelled  in  battle  tactics,  and  the  mystics  who  felt  that  sorcery  was  behind  those  tremendous  abilities  thought  that  the  battle  flag  of  David  was  undoubtedly  a  \"demon-summoning  charm\".%N%NThe  symbol  David  used  as  an  emblem  is  known  as  \"the  Star  of  David\".%N%NIn  Israel,  it  is  also  believed  to  be  a  crest  that  protects  oneself  from  danger;  the  symbol  can  be  found  in  the  Israeli  national  flag."
+    },
+    {
+      "site": 71136,
+      "pointer": 148488,
+      "tip": 84,
+      "target_ko": "일본에서도 다윗의 별은 육망성이라 불리며%N이세 신궁의 문장으로도 알려져 있다.%N다윗의 별과 정반대 의미를 지닌 것이%N오망성――『솔로몬의 별』이다.%N%TS085솔로몬%TE의 별이 지닌 주력은%N자신을 향해 풀려난 악마를 무한 루프에%N봉인한다.%N",
+      "source_en": "In  Japan,  the  Star  of  David,  called  the  \"rokubousei\"  (六芒星),  or  hexagram,  is  known  as  the  crest  of  the  Ise  Grand  Shrine.%N%NThe  symbol  that  holds  the  opposite  meaning  to  the  Star  of  David  is  the  \"gobousei\"  (五芒星),  or  pentagram,  also  called  \"the  Star  of  Solomon\".  The  magical  power  of  the  Star  of  %TS085Solomon%TE  seals  the  demons  loosed  at  him  inside  the  infinite  loop.  "
+    },
+    {
+      "site": 71148,
+      "pointer": 148944,
+      "tip": 85,
+      "target_ko": "히브리어로 『평화, 평안』이라는 뜻.%N이 이름의 유래인 솔로몬은%N고대 이스라엘의 세 번째 왕이다.%N처음의 솔로몬은 주에 대한 믿음과 순종으로%N뛰어난 지혜와 슬기를 발휘해%N이스라엘을 황금기로 이끌었다.%N",
+      "source_en": "Means  \"peace\"  or  \"tranquility\"  in  Hebrew.%N%NThe  Biblical  Solomon  from  whom  this  name  is  derived  was  the  third  king  of  ancient  Israel.%NSolomon  excelled  because  of  his  faith  and  obedience  to  God,  and  possessed  great  wisdom  and  intelligence  with  which  he  led  Israel  into  a  Golden  Age."
+    },
+    {
+      "site": 71152,
+      "pointer": 149272,
+      "tip": 85,
+      "target_ko": "또 다윗이 이루지 못한%N신을 위한 황금 신전을 세웠지만, 말년에는%N건축 공사를 남발해 백성에게 무거운 세금을 물렸다.%N그 탓에 그가 죽은 지 얼마 지나지 않아%N이스라엘은 남북으로 분열되었다.%N",
+      "source_en": "However,  in  King  Solomon's  later  years,  he  placed  heavy  taxation  upon  his  people  in  order  to  construct  a  golden  temple  for  the  Lord,  a  task  that  his  father  David  was  unable  to  accomplish.%N%NAs  a  result,  soon  after  his  death,  Israel  split  into  two  northern  and  southern  kingdoms.  "
+    },
+    {
+      "site": 71164,
+      "pointer": 149612,
+      "tip": 86,
+      "target_ko": "히브리어로 『요청받은 자』라는 뜻.%N이 이름의 유래인 사울은%N고대 이스라엘의 첫 번째 왕이다.%N말 그대로 백성이 왕으로 원했고%N그 기대에 응답한 사람이었다.%N왕으로서도 무인으로서도%N뒤지지 않는 인물이었을지 모른다.%N",
+      "source_en": "Means  \"he  who  is  wished  for\"  in  Hebrew.%N%NThe  Biblical  Saul  from  whom  this  name  is  derived  was  the  first  king  of  ancient  Israel.%NHe  was  truly  the  king  whom  the  people  had  wished  for,  and  he  lived  up  to  their  expectations.%NCertainly,  as  a  king  and  as  a  warrior,  he  might  never  have  known  defeat."
+    },
+    {
+      "site": 71168,
+      "pointer": 149964,
+      "tip": 86,
+      "target_ko": "그러나 그는%N신이 세운 『신의 그릇』으로서는%N실격자가 되었다.%N신이 요구한 『신의 그릇』, 즉%N신의 백성을 이끄는 왕이 되지 못했다.%N사울이 신을 거역했기 때문이다…….%N사울은 신에게 버림받고%N비극적인 최후를 맞았다.%N",
+      "source_en": "However,  he  failed  in  his  God-given  mission  to  become  an  instrument  of  the  Lord.%N%NThough  anointed  by  God  to  become  \"an  instrument  of  the  Lord\",  as  the  king  of  God's  people,  he  did  not.  The  reason  is  that  Saul  disobeyed  the  will  of  God...%N%NSaul  was  forsaken  by  God,  and  met  a  tragic  end.  "
+    },
+    {
+      "site": 71180,
+      "pointer": 150340,
+      "tip": 87,
+      "target_ko": "그것은 『그들』이 꾸민 계획을%N최종 형태로 이끄는 행위.%N그것은 『그들』이 추구한 진실로 이끄는%N마지막 한 수.%N그것은 『그들』이 그 녀석을 만나기 위해 필요한%N최후의 수단.%N그것이 실행될 때――%N세계는 크게 변모한다.%N",
+      "source_en": "It  is  the  level  to  which  the  plan  \"they\"  devised  will  move  as  it  transitions  into  its  final  stage.%N%NThe  final  move  that  will  lead  to  the  truth  \"they\"  have  sought.%N%NThe  final  measure  necessary  for  \"them\"  to  meet  \"That  Guy\".%N%NWhen  it  is  executed−−%NThe  world  will  undergo  a  great  transfiguration."
+    },
+    {
+      "site": 71184,
+      "pointer": 150692,
+      "tip": 87,
+      "target_ko": "그것이 실행될 때――%N임시의 세계――⑳『Imaginary』는 사라지고……%N세계를 잇는 다리――⑳『Symbolic』을 지나……%N진리의 세계――⑳『Real』이 모습을 드러낸다.%N『제3의 눈』이 열림과 함께――――.%N",
+      "source_en": "When  it  is  executed−−%N%NThe  transient  world−−\"Imaginary\"  is  lost...%NThe  bridge  of  the  world−−\"Symbolic\"  is  crossed...%NThe  true  world−−\"Real\"  will  reveal  its  shape.%N%NTogether  with  the  opening  of  the  \"Third  Eye\"−−−−  "
+    },
+    {
+      "site": 71196,
+      "pointer": 150972,
+      "tip": 88,
+      "target_ko": "인피니티／infinity%N1⑳:⑳――무한, 무한대.%N⑳⑳　　　끝이 없는 것. 어디까지나 이어지는 것.%N⑳⑳　　　또는 그런 모습.%N%N%N2⑳:⑳인피니티 시리즈%N%N",
+      "source_en": "1.  Limitless,  endless.%N      Something  that  is  without  limit.  Something  that%N      continues  endlessly.  And  so  on."
+    },
+    {
+      "site": 71200,
+      "pointer": 151104,
+      "tip": 88,
+      "target_ko": "2000.3.23　infinity%N2000.11.23　infinity~Cure~%N2000.12.21　Never7-the⑳end⑳of⑳infinity-%N2002.8.29　Ever17-the⑳out⑳of⑳infinity-%N2004.3.18　Remember11-the⑳age⑳of⑳infinity-%N...and%N%N『infinity』 시리즈는 영원히 계속된다.",
+      "source_en": "2.  Infinity  Series%N%N2000．%X0593．23　%X107infinity%N2000．%X05411．23　%X107infinity  〜Cure〜%N2000．%X05412．21　%X107Never7  -the  end  of  infinity-%N2002．%X0598．29  %X107Ever17  -the  out  of  infinity-%N2004．%X0593．18　%X107Remember11  -the  age  of  infinity-%N...and%N%Nthe  \"infinity\"  series  will  go  on  forever."
+    },
+    {
+      "site": 71212,
+      "pointer": 151476,
+      "tip": 89,
+      "target_ko": "『해후』는 뜻밖에 만나거나%N우연히 마주치는 것을 뜻한다.%N덧붙여 이때 우츠미가 무엇을 생각했는지는%N상상하기조차 어렵다.%N1년 전에 죽었어야 할 남편이%N갑자기 눈앞에 나타났기 때문이다.%N게다가 주변은 혹독한 눈 지옥…….%N적어도 이때만큼은 아직%N이곳이 천국이라고 생각하지는%N않았을 것이다.%N",
+      "source_en": "\"Chance  encounter\"  means  to  meet  somebody  unexpectedly.%NIn  relation  to  that,  what  Utsumi  might  have  thought  at  that  time  is  likely  to  be  something  unimaginable.%N%NAfter  all,  it's  not  a  usual  sight  to  see  your  husband  who  has  been  dead  for  a  year  suddenly  appearing  in  front  of  you.  Not  to  mention  it  happened  here  in  this  hellish  world  of  snow...%NAt  least,  at  the  time,  I  wouldn't  have  considered  it  to  be  heaven.  "
+    },
+    {
+      "site": 71224,
+      "pointer": 151992,
+      "tip": 90,
+      "target_ko": "여기서 알람 시계의 오차를%N조금 보충해 설명하자.%N왜 시계가 33분 빠른 것만으로%N나와 코코로는 같은 시각에 서로 바뀐다고%N믿게 되었을까?%N이유는 다음과 같다…….%N%N%N",
+      "source_en": "Let's  reflect  a  bit  on  the  consequences  of  the  alarm  clock  being  wrong.%N%NWhy  is  it  that  just  because  it  was  33  minutes  fast,  Kokoro  and  I  assumed  that  our  minds  were  exchanging  simultaneously?%N%NThe  reason  is  as  follows..."
+    },
+    {
+      "site": 71228,
+      "pointer": 152256,
+      "tip": 90,
+      "target_ko": "먼저 전이 시각을 1시라고 가정하자.%N――⑳1시.%N코코로의 의식이 스피아로 온다.%N이때 그녀는 잘못된 알람 시계를 본다.%N그녀는 『1시 33분』이라는 틀린 시각을%N전이 시각으로 착각한다.%N그 뒤 두 번 전이를 거쳐 66분 후…….%N%N%N――⑳2시 6분.%N",
+      "source_en": "First,  for  example,  let's  suppose  that  a  transfer  occurs  at  1:00.%N%N−−1:00%NKokoro's  mind  comes  to  SPHIA.%NThere,  she  looks  at  the  incorrect  alarm  clock.%NShe  mistakes  the  incorrect  time  it  shows,  which  is  \"1:33\",  for  the  actual  time  of  the  transfer.%N%NThen,  66  minutes  later,  after  two  more  transfers  have  occurred..."
+    },
+    {
+      "site": 71232,
+      "pointer": 152628,
+      "tip": 90,
+      "target_ko": "코코로의 의식은 대피소로 돌아온다.%N이때 그녀는 자기 손목시계를 본다.%N그녀는 『2시 6분』이라는 정확한 시각을 안다.%N스피아로 전이한 것이 1시 33분,%N대피소로 돌아온 것이 2시 6분이므로%N스피아에 있던 시간은 33분이라고 생각한다.%N",
+      "source_en": "−−2:06%NKokoro's  mind  returns  to  the  shelter  cabin.%NThere,  she  looks  at  her  wristwatch.%NShe  sees  the  correct  time  of  the  transfer,  which  is  \"2:06\".%N%NSeeing  as  she  had  transferred  to  SPHIA  at  1:33  and  returned  to  the  shelter  cabin  at  2:06,  she  thinks  that  she  spent  33  minutes  at  SPHIA."
+    },
+    {
+      "site": 71236,
+      "pointer": 152968,
+      "tip": 90,
+      "target_ko": "%N%N머문 시간이 33분이라는 점은 틀리지 않았지만,%N실제로 1시 33분부터 2시 6분 사이에%N그녀의 의식은 제3공간에 있었다.%N그런 의미에서 그녀는%N전이 시각을 오해한 셈이다.%N이제 (그녀가 대피소에서 전이하는 시각은%N⑳무작위로 찾아오므로) 그 뒤 다시%N1시간이 지났다고 하자.%N%N%N",
+      "source_en": "Indeed,  there  is  no  mistake  in  that  the  time  of  her  stay  at  SPHIA  was  33  minutes.%N%NHowever,  from  1:33  until  2:06,  her  mind  was  actually  in  the  third  area.  It  is  from  this  perspective  that  we  could  say  that  she  was  mistaken  about  the  time  of  the  transfer.%N%NWell  then  (since  the  times  of  her  transfers  from  the  shelter  cabin  are  random),  let's  assume  that  one  more  hour  has  passed."
+    },
+    {
+      "site": 71240,
+      "pointer": 153420,
+      "tip": 90,
+      "target_ko": "――⑳3시 6분.%N코코로의 의식이 스피아로…….%N그녀는 알람 시계를 본다.%N『3시 39분』이라는 틀린 시각을%N전이 시각으로 착각한다.%N여기서 중요한 점은 언제나%N『그녀가 전이 직전에는 시각을 확인하지 않는다』는%N사실이다.%N%N%N",
+      "source_en": "−−3:06%NKokoro's  mind  comes  to  SPHIA...%NShe  looks  at  the  alarm  clock.%NShe  mistakes  the  incorrect  time  it  shows,  \"3:39\",  for  the  actual  time  of  the  transfer.%N%NWhat's  important  here  is  the  fact  that  each  and  every  time,  she  cannot  confirm  what  the  time  was  directly  before  the  transfer."
+    },
+    {
+      "site": 71244,
+      "pointer": 153756,
+      "tip": 90,
+      "target_ko": "그래서 이때 그녀는%N대피소에 1시간 33분 동안 있었다고%N믿어 버린다.%N실제로는 1시간뿐이었는데도.%N이후에는 이것이 반복된다…….%N『4시 12분』에 대피소로 돌아와%N정확한 손목시계로 그 시각을 알고,%N스피아에 있던 시간은 33분이라고 생각한다.%N%N%N그렇다면 나는 어떨까?%N――⑳1시.%N",
+      "source_en": "That's  why,  here,  she  is  led  to  think  that  the  time  of  her  stay  at  the  shelter  cabin  is  an  hour  and  33  minutes−−regardless  of  the  fact  that,  in  reality,  no  longer  than  an  hour  actually  passes.%N%NThen  this  process  repeats...%N%NAt  \"4:12\",  she'll  return  to  the  shelter  cabin,  check  the  correct  time  against  her  wristwatch,  and  assume  that  she  was  at  SPHIA  for  33  minutes."
+    },
+    {
+      "site": 71248,
+      "pointer": 154192,
+      "tip": 90,
+      "target_ko": "내 의식이 제3공간으로…….%N이때 내 감각기관은%N정상적으로 작동하지 않아%N나는 전이를 알아차리지 못한다.%N그로부터 33분 뒤…….%N%N%N――⑳1시 33분.%N",
+      "source_en": "So  then,  what  happens  in  my  case?%N%N−−1:00%NMy  mind  goes  to  the  third  area...%NAt  that  time,  my  sensory  organs  don't  function  normally,%Nso  I'm  not  even  aware  that  a  transfer  took  place.%N%NThen,  33  minutes  later..."
+    },
+    {
+      "site": 71252,
+      "pointer": 154444,
+      "tip": 90,
+      "target_ko": "내 의식이 대피소로…….%N그녀의 손목시계를 보고 정확한 시각을 안다.%N『1시 33분』이 전이 시각임을 알게 된다.%N다시 33분 뒤…….%N%N%N――⑳2시 6분.%N내 의식은 스피아로 돌아온다.%N이때 나는 내 손목시계를 본다.%N",
+      "source_en": "−−1:33%NMy  mind  goes  to  the  shelter  cabin...%NI  check  Kokoro's  wristwatch  and  see  the  correct  time.%NI  can  see  that  the  time  of  the  transfer  was  \"1:33\".%N33  more  minutes  pass...%N%N−−2:06%NMy  mind  returns  to  SPHIA.%NThere,  I  look  at  my  wristwatch.%NI  see  the  correct  time  of  the  transfer,  \"2:06\"."
+    },
+    {
+      "site": 71256,
+      "pointer": 154792,
+      "tip": 90,
+      "target_ko": "『2시 6분』이라는 정확한 시각을 안다.%N%N%N스피아에서 전이한 것이 1시 33분,%N대피소에서 돌아온 것이 2시 6분이므로%N나는 대피소에 있던 시간이 33분이라고 생각한다.%N체류 시간이 33분인 것도 맞고,%N1시 33분부터 2시 6분 사이에%N대피소에 있었다는 것도 틀리지 않다.%N",
+      "source_en": "Seeing  as  I  have  transferred  to  the  shelter  cabin  at  1:33  and  returned  to  SPHIA  at  2:06,  I  think  that  the  time  I  have  spent  at  the  shelter  cabin  is  33  minutes.%N%NIn  my  case,  it  is  true  that  the  time  of  my  stay  at  the  shelter  cabin  is  33  minutes  and  that  from  1:33  to  2:06,  I  was  in  the  shelter  cabin.%N%NThus,  I  am  always  aware  of  the  correct  times  of  the  transfers."
+    },
+    {
+      "site": 71260,
+      "pointer": 155232,
+      "tip": 90,
+      "target_ko": "나는 전이 시각을 오해한 적이 없었다.%N%N%N이제 내가 스피아에서 전이하는 시각은%N코코로가 대피소에서 전이하는 시각과%N같으므로, 그 뒤 다시 1시간이 흐른다.%N%N%N――⑳3시 6분.%N내 의식이 제3공간으로…….%N감각기관이 작동하지 않으므로%N나는 전이를 알아차리지 못한다.%N",
+      "source_en": "Well  then,  since  the  moment  when  I  transfer  from  SPHIA%Nis  simultaneous  with  Kokoro's  transfer  from  the  shelter  cabin,  let's  assume  that  one  more  hour  has  passed.%N%N−−3:06%NMy  mind  goes  to  the  third  area...%NMy  sensory  organs  don't  function  normally,  so  I'm  not  even  aware  that  a  transfer  took  place.%NThen,  33  minutes  later..."
+    },
+    {
+      "site": 71264,
+      "pointer": 155612,
+      "tip": 90,
+      "target_ko": "그로부터 33분 뒤…….%N%N%N――⑳3시 39분.%N내 의식은 대피소로…….%N그녀의 손목시계를 보고 정확한 시각을 안다.%N『3시 39분』이 전이 시각임을 알게 된다.%N여기서 중요한 점은 언제나%N",
+      "source_en": "−−3:39%NMy  mind  goes  to  the  shelter  cabin...%NI  check  Kokoro's  wristwatch  and  see  the  correct  time.%NI  can  see  that  the  time  of  the  transfer  was  \"3:39\".%N%NWhat's  important  here  is  the  fact  that  each  and  every  time,  I  cannot  confirm  what  the  time  was  directly  before  the  transfer."
+    },
+    {
+      "site": 71268,
+      "pointer": 155940,
+      "tip": 90,
+      "target_ko": "『내가 전이 직전에는 시각을 확인하지 않는다』는%N사실이다.%N%N%N그래서 이때 나는%N스피아에 1시간 33분 동안 있었다고%N믿어 버린다.%N실제로는 1시간뿐이었는데도.%N이후에는 이것이 반복된다…….%N『4시 12분』에 스피아로 돌아와%N정확한 손목시계로 그 시각을 알고,%N",
+      "source_en": "That's  why,  here,  I'm  led  to  think  that  the  time  of  my  stay  at  SPHIA  is  an  hour  and  33  minutes−−regardless  of  the  fact  that,  in  reality,  no  longer  than  an  hour  actually  passes.%N%NThen  this  process  repeats...%N%NAt  \"4:12\",  I'll  return  to  SPHIA,  check  the  correct  time  on  my  wristwatch,  and  assume  that  I  was  at  the  shelter  cabin  for  33  minutes."
+    },
+    {
+      "site": 71272,
+      "pointer": 156348,
+      "tip": 90,
+      "target_ko": "대피소에 있던 시간은 33분이라고 생각한다.%N%N%N그리하여 코코로는 메모지에%N다음과 같은 전이 시각을 남긴다.%N『1시 33분: 대피소에서 스피아로 전이』%N『2시 06분: 스피아에서 대피소로 전이』%N『3시 39분: 대피소에서 스피아로 전이』%N",
+      "source_en": "Thus,  the  times  of  the  transfers  that  Kokoro  writes  in  the  notepad  would  be  as  follows.%N\"1:33:  Transferred  from  the  shelter  cabin  to  SPHIA\"%N\"2:06:  Transferred  from  SPHIA  to  the  shelter  cabin\"%N\"3:39:  Transferred  from  the  shelter  cabin  to  SPHIA\"%N\"4:12:  Transferred  from  SPHIA  to  the  shelter  cabin\""
+    },
+    {
+      "site": 71276,
+      "pointer": 156692,
+      "tip": 90,
+      "target_ko": "『4시 12분: 스피아에서 대피소로 전이』%N%N%N한편 내가 측정한 시각은 다음과 같다…….%N『1시 33분: 스피아에서 대피소로 전이』%N『2시 06분: 대피소에서 스피아로 전이』%N『3시 39분: 스피아에서 대피소로 전이』%N『4시 12분: 대피소에서 스피아로 전이』%N정확히 정반대의 대칭이 되므로%N나와 코코로 모두 같은 시각에 두 지점 사이를%N전이한다고 믿어 버린 것이다.%N",
+      "source_en": "While  the  times  of  my  own  measurements  would  be  as  follows...%N\"1:33:  Transferred  from  SPHIA  to  the  shelter  cabin\"%N\"2:06:  Transferred  from  the  shelter  cabin  to  SPHIA\"%N\"3:39:  Transferred  from  SPHIA  to  the  shelter  cabin\"%N\"4:12:  Transferred  from  the  shelter  cabin  to  SPHIA\"%N%NTherefore,  since  these  possess  the  perfect  symmetry  of  a  mirror  image,  both  I  and  Kokoro  were  led  to  believe  that  we  were  transferring  simultaneously  between  two  locations.  "
+    },
+    {
+      "site": 71288,
+      "pointer": 157232,
+      "tip": 91,
+      "target_ko": "여기 한 편의 논문이 있다.%N영아의 『산통』은 왜 일어나는가?%N『산통』은 아기가 이유 없이%N기분이 나빠 보채거나 밤에 우는 증상으로,%N영아의 자율신경 이상에서 비롯된%N신경의 비정상적 흥분이라고 여겨지지만%N자세한 원인은 아직 밝혀지지 않았다.%N",
+      "source_en": "Here  is  one  of  the  theories  about  baby  colic.%N%NWhy  does  \"baby  colic\"  occur  in  infants?%N%N\"Baby  colic\"  is  a  condition  in  which  a  baby  becomes  unsettled  and  irritable  for  no  apparent  reason,  and  cries  frequently  (e.g.  at  night).  It  is  normally  categorized  as  abnormal  neuronal  excitability  resulting  from  dysautonomia  in  infants,  but  the  exact  reasons  for  its  occurrence  remain  unclear."
+    },
+    {
+      "site": 71292,
+      "pointer": 157680,
+      "tip": 91,
+      "target_ko": "%N%N한 학설에 따르면%N아기는 선명한 의식을 지니고도%N몸을 뜻대로 움직이지 못하기 때문에%N심한 스트레스와 짜증을 느껴%N울부짖는 것이라고 한다.%N그래서 어른에게는%N아무 이유 없이 우는 것처럼만 보인다.%N",
+      "source_en": "One  explanation  suggests  that  the  contrast  between  the  clear,  vivid  consciousness  of  an  infant  and  the  inability  to  properly  control  its  body  results  in  an  intense  stress  for  the  baby,  which  could  cause  it  to  become  irritated  and  cry.%N%NThat  is  why,  from  the  point  of  view  of  an  adult,  it  seems  that  they  are  just  crying  for  no  reason."
+    },
+    {
+      "site": 71296,
+      "pointer": 158076,
+      "tip": 91,
+      "target_ko": "%N%N아기에게 뜻대로 움직이는 몸을 주면%N냉혹한 살인귀가 될 것이라는 의학자도 있다.%N아기는 인간 사회의 도덕을 배우지 않았기에%N본능대로 살육을 벌일 것이라는 주장이다.%N흔히 어린아이는 잔혹하다.%N조금도 망설이지 않고%N생물을 태연히 죽일 수 있다.%N",
+      "source_en": "There  are  also  medics  professionals  who  suppose  that  if  a  baby  was  given  a  body  which  would  properly  obey  its  will,  it  would  turn  into  a  cold-blooded  killer.%NThey  argue  that  since  babies  have  not  yet  learned  human  morals,  their  instincts  would  cause  them  to  go  on  a  bloody  rampage.%N%NInfants  often  exhibit  cruelty.  They  can  calmly  kill  other  living  beings  with  no  reservation,  thinking  it  nothing  more  than  part  of  a  game."
+    },
+    {
+      "site": 71300,
+      "pointer": 158572,
+      "tip": 91,
+      "target_ko": "그것도 놀이의 일부로 행한다.%N%N%N성장하면서 대략 세 살 무렵부터%N사람은 다른 이의 처지에서 생각할 수 있게 된다.%N공감의 확립이다.%N자기가 당해서 싫은 일은%N다른 사람에게도 절대 해서는 안 된다는 사실을%N이때 처음 배운다.%N영아의 체력이 다른 포유류보다 미숙한 것도%N이 때문이 아닐까.%N%N%N",
+      "source_en": "As  a  person  grows  up,  when  they  reach  the  age  of  about  three,  they  become  to  be  able  to  think  from  the  perspective  of  other  people  and  put  themselves  in  their  shoes;  the  ability  to  empathize  is  established.%NIt  is  at  this  age  that  they  learn  for  the  first  time  that  things  which  one  doesn't  like  being  done  to  them  must  never  be  done  to  others  as  well.%N%NPerhaps  this  is  the  reason  why  human  infants  are  so  underdeveloped  in  physical  strength  compared  with  other  mammals."
+    },
+    {
+      "site": 71304,
+      "pointer": 159128,
+      "tip": 91,
+      "target_ko": "그것은 영아의 생존에 매우 불리하지만,%N실은 그렇지 않다면 오히려%N성인의 생명이 위협받을 수도%N있다.%N%N%N모든 생물 가운데%N비할 데 없이 잔혹한 성향을 지닌 인류는%N진화 과정에서%N내면의 잔혹성으로부터 서로를 지키기 위해%N문화를 세우고 교육으로 정신을 향상시키게%N되었다고 생각할 수도 있다.%N%N%N",
+      "source_en": "This  represents  a  considerable  obstacle  in  the  newborn's  path  to  survival,  but  in  fact,  it  is  actually  not  so  far-fetched  a  thought  that  it  is  rather  the  lives  of  adults  that  would  be  in  danger  if  it  was  the  other  way  around.%N%NIt  is  not  impossible  to  imagine  that,  by  realizing  the  need  to  protect  each  other  from  their  unparalleled  propensity  for  cruelty,  humankind  has  evolved  to  create  the  civilization  in  which  we  live  and  establish  culture  as  a  means  for  spiritual  growth."
+    },
+    {
+      "site": 71308,
+      "pointer": 159692,
+      "tip": 91,
+      "target_ko": "그와 함께 정신이 미숙한 영아에게서는%N자연선택을 통해 체력이 빼앗겨 갔다고도%N생각할 수 있다.%N『산통』은 본능적 욕구가 드러나는 현상이므로%N인간의 본질을 보여 준다.%N그것은 광기의 울부짖음이면서 동시에%N이 세상에 태어난 것에 대한 애절한%N탄식이기도 하다.%N",
+      "source_en": "Additionally,  it  makes  sense  to  think  that  the  fact  that  as-of-yet  mentally  undeveloped  newborns  are  deprived  of  physical  strength  lies  in  accordance  with  the  principle  of  natural  selection.%N%N\"Baby  colic\",  being  a  representation  of  instinctive  desires,  makes  known  the  true  nature  of  man.%N%NIt  is  the  scream  of  madness,  and  at  the  same  time,  the  pathetic  lamentation  of  having  been  given  life  in  this  world.  "
+    },
+    {
+      "site": 71320,
+      "pointer": 160200,
+      "tip": 92,
+      "target_ko": "이름: 후유카와 코코로／Fuyukawa Cocoro%N성별: 여성%N나이: 20세%N생일: 1990년 2월 22일(Pisces)%N혈액형: B형%N",
+      "source_en": "Full  Name:  Fuyukawa  Kokoro%NGender:  Female%NAge:  20%NBirthday:  February  22nd,  1990  (Pisces)%NBlood  Type:  B%NOccupation:%N        Third-year  social  sciences  student  in  the  humanities%N        department  at  Kyumeikan  Women's  University%N        (Major:  anthropology)."
+    },
+    {
+      "site": 71324,
+      "pointer": 160488,
+      "tip": 92,
+      "target_ko": "직업: 규메이칸 여자대학교 인문학부 사회학과 3학년%N⑳(인간학 강좌 소속)%N지력: 평균%N체력: 평균%N협조성: 높음%N%N%N성격: 감을 믿고 자신에게 솔직함%N⑳외향적·호기심이 많음·변덕스러움·문과형%N취미: 들새 관찰·분재%N",
+      "source_en": "Intelligence:  Average%NPhysical  Strength:  Average%NCooperativeness:  High%NPersonality:%N        The  type  that  believes  in  her  emotions.  Honest  with%N        herself.  Extroverted.  Brimming  with  curiosity.%N        Capricious.  Interested  in  the  liberal  arts.%NHobbies:%N        Birdwatching,  bonsai"
+    },
+    {
+      "site": 71328,
+      "pointer": 160808,
+      "tip": 92,
+      "target_ko": "좋아함: 선의의 거짓말·화기애애한 분위기·즐거운 일%N싫어함: 침묵·싸움(반목)·귀찮은 일%N⑳오이%N설정: 왼손잡이%N",
+      "source_en": "Likes:%N        Believing  that  the  end  justifies  the  means,%N        harmonious  moods,  fun  things%NDislikes:%N        Silence,  fighting  or  quarreling,  troublesome  things,%N        cucumbers%NSurface:%N        Left-handed.%N"
+    },
+    {
+      "site": 71332,
+      "pointer": 161048,
+      "tip": 92,
+      "target_ko": "이면 설정: 『아니마(남성에게 내재한 여성상)』를%N⑳상징함(→원형)%N⑳이 설정은 2011년 기준%N%N%N여성 시점의 주인공.%N비행기 사고에 휘말린다. 운 좋게 살아남아%N사고 생존자 중 한 사람이 되지만,%N주변은 눈이 깊은 외딴 산속이다.%N",
+      "source_en": "Beyond  the  Surface:%N        Represents  the  \"Anima  (The  Female  Within  the  Male)\"%N        (→  Archetype)%N        This  is  her  status  as  of  2011.%N%NFuyukawa  Kokoro  is  the  female  protagonist.%NShe  is  involved  in  a  plane  crash.  She  is  fortunately  saved  and  joins  the  other  survivors  of  the  incident,  but  they  are  stranded  on  a  snowy  mountain  in  the  middle  of  nowhere."
+    },
+    {
+      "site": 71336,
+      "pointer": 161468,
+      "tip": 92,
+      "target_ko": "그녀는 함께 살아남은 몇 사람과%N고립된 공간에서 탈출할 방법을%N찾아야 한다.%N%N%N사고 뒤 코코로의 심신에는 이상이 생긴다.%N때때로 정신과 육체가 분리되어%N다른 장소에 있는%N다른 사람(사토루)과 바뀌어 버린다.%N그녀의 기억과 마음은%N설산과 스피아 사이를 오간다.%N",
+      "source_en": "Together  with  the  other  survivors,  she  has  no  choice  but  to  find  a  way  to  escape  that  isolated  place.%N%NAfter  the  accident,  Kokoro's  mind  and  body  experience  abnormalities.  Sometimes,  her  mind  and  body  separate,  exchanging  places  with  those  of  another  person  (Satoru)  in  a  different  location.  Her  mind  and  memory  switch  back  and  forth  between  the  snowy  mountain  and  SPHIA.  "
+    },
+    {
+      "site": 71348,
+      "pointer": 161936,
+      "tip": 93,
+      "target_ko": "이름: 유키도 사토루／Yukidoh Satoru%N성별: 남성%N나이: 21세%N생일: 1990년 2월 22일(Pisces)%N혈액형: A형%N직업: 규메이칸대학교 대학원 공학부 물리공학과%N⑳석사과정 2년(양자물리학 연구실 소속)%N⑳2년 월반함%N⑳라이프리히 제약 공학연구부 연구제3과 근무%N",
+      "source_en": "Full  Name:  Yukidoh  Satoru%NGender:  Male%NAge:  21%NBirthday:  February  22nd,  1990  (Pisces)%NBlood  Type:  A%NOccupation:%N        Kyumeikan  University  Graduate  School,  Department  of%N        Technological  Engineering,  Second-year  master's%N        student  (as  a  member  of  the  quantum  physics  lab).%N        Skipped  two  grade  levels.  Employed  in  the  Third%N        Research  Department  of  Leiblich  Pharmaceuticals."
+    },
+    {
+      "site": 71352,
+      "pointer": 162384,
+      "tip": 93,
+      "target_ko": "%N%N지력: 상당히 높음%N체력: 평균%N협조성: 다소 낮음%N성격: 행동력은 있으나 신중함%N⑳항상 합리적으로 사고함%N⑳남을 쉽게 믿지 않음·이과형%N%N%N취미: 독서%N⑳(장르를 가리지 않으며,%N⑳⑳활자 중독이라 전화번호부도 즐겁게 읽음)%N좋아함: 말한 일은 실행하기·『답』을 도출하기%N",
+      "source_en": "Intelligence:  Very  high%NPhysical  Strength:  Average%NCooperativeness:  Fairly  low%NPersonality:%N        The  type  that  is  willing  to  take  action,  but  does  so%N        with  caution.  Tends  toward  a  more  rational  way  of%N        thinking.  Does  not  trust  others  right  away.%N        Interested  in  the  sciences.%NHobbies:%N        Reading  (Genre  doesn't  matter.  His  reading  addiction%N        is  such  that  even  a  phonebook  can  be  a  fun  read)"
+    },
+    {
+      "site": 71356,
+      "pointer": 162872,
+      "tip": 93,
+      "target_ko": "싫어함: 거짓말(진실을 말할 수 없으면 침묵)%N⑳어중간함·약속을 깨는 일·호박%N설정: 오른손잡이%N⑳원래는 대학 4학년이지만%N⑳2년 월반해 대학원생이 됨%N%N%N이면 설정: 『아니무스(여성에게 내재한 남성상)』를%N",
+      "source_en": "Likes:%N        Being  as  good  as  his  word,  finding  \"answers\"%NDislikes:%N        Lies  (keeps  silent  if  he  can't  tell  the  truth),  leaving%N        things  unfinished,  breaking  promises,  pumpkins%NSurface:%N        Right-handed.%N        Originally  a  four-year  university  student,  but  has%N        skipped  two  grades  and  is  now  in  graduate  studies."
+    },
+    {
+      "site": 71360,
+      "pointer": 163252,
+      "tip": 93,
+      "target_ko": "⑳상징함(→원형)%N⑳사토루와 마유즈미는 과거에 사귀었음%N⑳이 설정은 2012년 기준%N%N%N⑳진짜 그는 독특한 가치관을 지녔다.%N⑳가까운 몇 사람에게는 헌신적이고 다정하지만,%N⑳그 밖의 사람에게는 몸이 얼어붙을 만큼 냉혹하다.%N",
+      "source_en": "Beyond  the  Surface:%N        Represents  the  \"Animus  (The  Male  Within  the%N        Female)\"  (→  Archetype)%N        Satoru  and  Mayuzumi  were  once  going  out.%N        This  is  his  status  as  of  2012.%N%NThe  real  Satoru  has  a  unique  set  of  values.  Although  he  is  kind  and  devoted  to  a  few  people  around  him,  he  is  coldhearted  with  everyone  else.%NSatoru  does  this  to  \"cherish  someone  who  is  very  important\"."
+    },
+    {
+      "site": 71364,
+      "pointer": 163712,
+      "tip": 93,
+      "target_ko": "⑳사토루는 그 이유를 『정말 소중한 누군가를 지키기 위해서』라고 생각한다.%N⑳무언가를 얻으려면 무언가를 잃어야 하기 때문이다.%N%N%N남성 시점의 주인공.%N어느 날 스피아 옥상에서 추락해 의식을 잃는다.%N기억이 혼란스러워%N사고 원인과 직전 상황은 알 수 없다.%N깨어나자…… 어째서인지 눈 덮인 산속이었다.%N",
+      "source_en": "You  have  to  lose  something  to  gain  something.%N%NYukidoh  Satoru  is  the  male  protagonist.%NOne  day,  he  falls  from  the  roof  of  SPHIA  and  loses  consciousness.  As  his  memories  are  in  disorder,  he  cannot  remember  the  details  of  this  accident  such  as  the  reason  for  it  or  what  was  happening  before  the  fall.%N%NWhen  he  awakens...  for  some  reason,  he  finds  himself  on  a  snowy  mountain."
+    },
+    {
+      "site": 71368,
+      "pointer": 164156,
+      "tip": 93,
+      "target_ko": "게다가 자기 몸은 모르는 여성의 모습으로 바뀌어 있었다.%N%N%N추락 사고를 계기로%N사토루의 심신에는 이상이 생겼다.%N때때로 정신과 육체가 분리되어%N다른 장소에 있는 다른 사람(코코로)과%N바뀌어 버린다.%N그의 기억과 마음은%N설산과 스피아 사이를 오간다.%N",
+      "source_en": "On  top  of  that,  his  own  body  has  changed  into  that  of  an  unknown  woman.%N%NAfter  the  accident,  Satoru's  mind  and  body  experience  abnormalities.  Sometimes,  his  mind  and  body  separate,  exchanging  places  with  those  of  another  person  (Kokoro)  in  a  different  location.%N%NHis  mind  and  memory  switch  back  and  forth  between  the  snowy  mountain  and  SPHIA.  "
+    },
+    {
+      "site": 71380,
+      "pointer": 164588,
+      "tip": 94,
+      "target_ko": "이름: 마유즈미 린／Mayuzumi Lin%N성별: 여성%N나이: 23세%N생일: 1987년 4월 30일(Taurus)%N혈액형: A형%N직업: 회사원%N지력: 다소 높음%N체력: 다소 낮음%N협조성: 낮음%N",
+      "source_en": "Full  Name:  Mayuzumi  Lin%NGender:  Female%NAge:  23%NBirthday:  April  30th,  1987  (Taurus)%NBlood  Type:  A%NOccupation:  Office  worker%NIntelligence:  Fairly  high%NPhysical  Strength:  Fairly  low%NCooperativeness:  Low"
+    },
+    {
+      "site": 71384,
+      "pointer": 164816,
+      "tip": 94,
+      "target_ko": "성격: 기가 셈·자존심이 높음%N⑳지나치게 남의 시선을 의식함·가벼운 결벽증%N⑳심한 편식(음식 호불호가 큼)%N⑳배려심이 조금 부족함%N취미: 옷·모자·신발 수집%N좋아함: 일·동물·높은 곳·자신%N싫어함: 잘난 체하는 남자·남자에게 지는 것·음담패설%N",
+      "source_en": "Personality:%N        Strong-willed.  Very  proud.%N        At  times,  she  worries  greatly  about  her  outward%N        appearance.  Slightly  obsessed  with  cleanliness.%N        Eats  a  very  unbalanced  diet  (is  extremely  picky).%N        Seems  to  be  considerably  lacking  in  sympathy.%NHobbies:%N        Collecting  clothes,  hats  and  shoes%NLikes:%N        Her  work,  animals,  high  places,  herself%N"
+    },
+    {
+      "site": 71388,
+      "pointer": 165244,
+      "tip": 94,
+      "target_ko": "이면 설정: 『페르소나(가면)』를 상징함(→원형)%N⑳약혼자가 있음%N⑳사토루와 마유즈미는 과거에 사귀었음%N⑳현재는 서로 소원한 사이지만%N⑳그녀의 마음속에는 숨겨 둔 감정이 있음%N⑳이 설정은 2011년 기준%N",
+      "source_en": "Dislikes:%N        Proud  men,  losing  to  men,  dirty  jokes%NBeyond  the  Surface:%N        Represents  the  \"Persona  (Mask)\"  (→  Archetype)%N        She  has  a  fianc.  Satoru  and  Mayuzumi  were  once  in%N        a  relationship.  They  are  presently  mutually%N        estranged,  but  she  has  feelings  hidden  within%N        her  heart.%N        This  is  her  status  as  of  2011.%NMayuzumi  Lin  mainly  appears  in  the  snowy  mountain  side  of  the  story.%N"
+    },
+    {
+      "site": 71392,
+      "pointer": 165732,
+      "tip": 94,
+      "target_ko": "주로 설산 쪽에 등장.%N출장 중 비행기 사고에 휘말려%N코코로와 마찬가지로 생존자 중 한 사람이 된다.%N비협조적이며 단체 행동을 흐트러뜨리고%N여러모로 일행의 발목을 잡는다.%N남자에게 도전적이고%N남자에게 굴복하는 일을 무엇보다 싫어한다.%N그래서 요모기와는 궁합이 나쁘다.%N그룹의 골칫거리이자 트러블 메이커.%N",
+      "source_en": "During  a  business  trip,  she  becomes  involved  in  the  plane  crash  and,  like  Kokoro,  is  one  of  the  survivors.%N%NUncooperative,  she  makes  a  point  of  standing  in  the  way  of  the  refugees,  disturbing  the  unity  of  the  group.%NShe  is  antagonistic  toward  men  and  hates  yielding  to  them  more  than  anything  else.  Thus,  she  doesn't  get  along  with  Yomogi.%N%NA  burden  to  the  group,  and  a  troublemaker.  "
+    },
+    {
+      "site": 71404,
+      "pointer": 166216,
+      "tip": 95,
+      "target_ko": "이름: 요모기 세이지／Yomogi Seiji%N성별: 남성%N나이: 35세%N생일: 1975년 9월 16일(Virgo)%N혈액형: O형%N직업: 산악인%N지력: 평균%N체력: 매우 높음%N협조성: 높음%N",
+      "source_en": "Full  Name:  Yomogi  Seiji%NGender:  Male%NAge:  35%NBirthday:  September  16th,  1975  (Virgo)%NBlood  Type:  O%NOccupation:  Mountaineer%NIntelligence:  Average%NPhysical  Strength:  Very  high%NCooperativeness:  High"
+    },
+    {
+      "site": 71408,
+      "pointer": 166436,
+      "tip": 95,
+      "target_ko": "성격: 온화함·용감함·인내심이 강함·유머가 있음%N⑳준비가 철저함%N취미: 등산·탐험·각종 스포츠%N좋아함: 술·자기 단련·썰렁한 농담%N싫어함: 화합을 깨는 행동·배신·식품첨가물%N",
+      "source_en": "Personality:%N        Gentle,  brave  and  patient;  has  a  good  sense  of%N        humor;  very  careful  and  is  always  prepared.%NHobbies:%N        Mountain  climbing,  exploring,  all  sports%NLikes:%N        Alcohol,  self-discipline,  stupid  jokes%NDislikes:%N        Things  that  disturb  group  harmony,  betrayal,%N        additives  in  food"
+    },
+    {
+      "site": 71412,
+      "pointer": 166796,
+      "tip": 95,
+      "target_ko": "이면 설정: 『올드 와이즈 맨(노현자)』을%N⑳상징함(→원형)%N⑳우츠미의 남편. 둘 사이에는 아이가 있었지만%N⑳몇 년 전 학살 사건의 희생자가 되어%N⑳사망함%N⑳범인의 이름은 『이누부시 게이코』%N⑳이 설정은 2011년 기준%N",
+      "source_en": "Beyond  the  Surface:%N        Represents  the  \"Old  Wise  Man\"  (→  Archetype)%N        He  is  the  husband  of  Utsumi.  They  had  a  child,%N        but  he  became  one  of  the  victims  of  the  mass%N        murder  incident  several  years  previously,%N        dying  at  the  hand  of  Inubushi  Keiko.%N        This  is  his  status  as  of  2011.%N%NYomogi  Seiji  mainly  appears  in  the  snowy  mountain  side  of  the  story."
+    },
+    {
+      "site": 71416,
+      "pointer": 167244,
+      "tip": 95,
+      "target_ko": "주로 설산 쪽에 등장.%N여행 중 비행기 사고에 휘말려 코코로처럼%N사고 생존자 중 한 사람이 된다.%N생존 지식이 풍부하고 생존술에 능하다.%NGPS 기능이 있는 휴대 단말기를 가지고 있다.%N통찰력이 뛰어나 그룹의 리더가 되지만,%N지나치게 개성적인 일행 때문에%N고생이 끊이지 않는다.%N",
+      "source_en": "While  traveling,  he  becomes  involved  in  the  plane  crash  and,  like  Kokoro,  is  one  of  the  survivors.%N%NHe  possesses  an  abundance  of  emergency  survival  knowledge.  He  is  also  proficient  in  survival  methods  and  possesses  a  portable  device  which  has  GPS  functionality.%N%NDue  to  his  keen  insight,  he  takes  on  the  role  of  group  leader,  but  he  is  continuously  hindered  by  the  actions  of  some  of  its  more  assertively  individualistic  members.  "
+    },
+    {
+      "site": 71428,
+      "pointer": 167772,
+      "tip": 96,
+      "target_ko": "이름: 우츠미 칼리／Utsumi Kali%N성별: 여성%N나이: 27세%N생일: 1984년 9월 16일(Virgo)%N혈액형: O형%N직업: 공립 초등학교 교사(이면 설정: 휴직 중)%N지력: 높음%N",
+      "source_en": "Full  Name:  Utsumi  Kali%NGender:  Female%NAge:  27%NBirthday:  September  16th,  1984  (Virgo)%NBlood  Type:  O%NOccupation:%N        Public  school  teacher%N        (Beyond  the  surface:  temporarily  retired)%NIntelligence:  High%NPhysical  Strength:  Average%NCooperativeness:  Extremely  high%N"
+    },
+    {
+      "site": 71432,
+      "pointer": 168076,
+      "tip": 96,
+      "target_ko": "체력: 평균%N협조성: 매우 높음%N%N%N성격: 누구에게나 다정함%N⑳(때로 지나쳐서 과보호가 됨)%N⑳눈물이 많지만 심지가 굳음%N⑳화가 나면 몹시 무서움%N취미: 요리·텃밭 가꾸기·항아리 수집%N좋아함: 남을 돌보기·남의 이야기 듣기%N⑳대자연·심장 소리·짓궂은 농담%N",
+      "source_en": "Personality:%N        Generally  gentle  and  kind  (sometimes%N        goes  overboard  and  borders  on  pampering).%N        Easily  moved  to  tears,  but  strong  at  heart.%N        Incredibly  scary  when  she  snaps.%NHobbies:%N        Cooking,  kitchen  gardening,  collecting  vases%NLikes:%N        Taking  care  of  others,  listening  to  other  people's%N        stories  and  to  nature,  the  sound  of  the  heartbeat,%N        playful  jokes%N"
+    },
+    {
+      "site": 71436,
+      "pointer": 168540,
+      "tip": 96,
+      "target_ko": "싫어함: 죽음을 연상시키는 언행과 사상%N⑳자연 파괴·사람을 버리는 행동%N설정: 인도계 혼혈%N%N%N이면 설정: 『그레이트 마더(태모)』를%N⑳상징함(→원형)%N⑳요모기의 아내. 둘 사이에는 아이가 있었지만%N",
+      "source_en": "Dislikes:%N        Things  that  make  her  think  of  death,  actions%N        that  are  harmful  to  nature,  forsaking  people%NSurface:%N        Half-Indian%NBeyond  the  Surface:%N        Represents  the  \"Great  Mother\"  (→  Archetype)%N        Yomogi's  wife.  They  had  a  child,  but  he  became  one%N        of  the  victims  of  the  mass  murder  incident  several%N        years  ago,  dying  at  the  hands  of  Inubushi  Keiko.%N"
+    },
+    {
+      "site": 71440,
+      "pointer": 168992,
+      "tip": 96,
+      "target_ko": "⑳몇 년 전 학살 사건의 희생자가 되어 사망함%N⑳범인의 이름은 『이누부시 게이코』%N⑳아이의 죽음으로 정신을 앓아%N⑳몇 달 전까지 정신병원에 입원함%N⑳2011년 8월 출산. 아이는 이란성 쌍둥이%N⑳이 설정은 2012년 기준%N%N%N주로 스피아 쪽에 등장.%N",
+      "source_en": "        The  loss  of  her  child  has  caused  her  great%N        psychological  suffering,  which  is  why,  until  several%N        months  ago,  she  was  institutionalized  in  a%N        psychiatric  hospital.%N        In  August  of  2011,  she  gave  birth.%N        The  newborns  are  (fraternal)  twins.%N        This  is  her  status  as  of  2012.%N%NUtsumi  Kali  mainly  appears  in  the  SPHIA  side  of  the  story."
+    },
+    {
+      "site": 71444,
+      "pointer": 169428,
+      "tip": 96,
+      "target_ko": "사토루처럼 한 스피아에 머무는 중이다.%N박식하며 특히 심리학에 정통하다.%N그룹의 분위기 메이커이자 조정자.%N어째서인지 때때로 언행 사이로%N이해하기 어려운 면이 엿보인다.%N이누부시 게이코를 증오한다.%N",
+      "source_en": "Like  Satoru,  she  is  staying  at  SPHIA.  She  possesses  extensive  knowledge,  especially  in  the  field  of  psychology.%N%NShe  is  the  mood  maker  and  the  mediator  of  the  group.  For  some  reason,  she  says  and  does  some  very  strange  things  from  time  to  time.%N%NShe  bears  a  great  hatred  toward  Inubushi  Keiko."
+    },
+    {
+      "site": 71456,
+      "pointer": 169808,
+      "tip": 97,
+      "target_ko": "이름: 이누부시 게이코／Inubushi Keiko%N성별: 여성%N나이: 20세%N생일: 1991년 4월 30일(Taurus)%N혈액형: AB형%N",
+      "source_en": "Full  Name:  Inubushi  Keiko%NGender:  Female%NAge:  20%NBirthday:  April  30th,  1991  (Taurus)%NBlood  Type:  AB%NOccupation:%N        A  convicted  criminal,  suffering  from  mental%N        disorders;  currently  confined  in  the  medical%N        facility  called  SPHIA."
+    },
+    {
+      "site": 71460,
+      "pointer": 170088,
+      "tip": 97,
+      "target_ko": "직업: 정신 장애가 있는 범죄자로 『SPHIA』라는%N⑳의료 시설에 연금되어 있음%N지력: 평균%N체력: 매우 낮음%N협조성: 매우 낮음%N%N%N성격: 공격적·찰나주의·극단적인 조울 기질%N⑳타인에 대한 평가가 극단적으로 바뀜%N⑳절망을 사랑하고 희망을 두려워함%N⑳(경계성 인격 장애 경향)%N취미: 전화·메일·채팅%N",
+      "source_en": "Intelligence:  Average%NPhysical  Strength:  Extremely  low%NCooperativeness:  Extremely  low%NPersonality:%N        Personality:  Aggressive,  lives  only  for  the  moment,%N        extreme  cyclothymia,  changes  her  evaluation  of  other%N        people  excessively,  loves  despair  and  fears  hope  (has%N        a  tendency  toward  borderline  personality  disorder)%NHobbies:%N        Talking  by  phone,  e-mail,  and  chat%N"
+    },
+    {
+      "site": 71464,
+      "pointer": 170528,
+      "tip": 97,
+      "target_ko": "좋아함: 쾌락·완전한 절망%N⑳사람의 관심을 끄는 일·자해%N⑳자신을 받아 줄 존재%N⑳(매달릴 대상)%N%N%N싫어함: 버림받는 것%N⑳어중간한 꿈·희망·동정%N⑳안이한 말(일반론 등)%N",
+      "source_en": "Likes:%N        Pleasure,  total  despair,  attracting  others'  attention,%N        self-mutilation,  those  who  will  accept  who  she  is%N        (to  whom  she  can  cling)%NDislikes:%N        Being  abandoned,  unreliable  dreams,  half-hearted%N        sympathy  and  hope,  facile  statements  (stemming%N        from  popular  opinion,  etc)%N"
+    },
+    {
+      "site": 71468,
+      "pointer": 170884,
+      "tip": 97,
+      "target_ko": "이면 설정: 『섀도(그림자)』를 상징함(→원형)%N⑳코코로 시점에 등장하는 쪽이%N⑳진짜 스즈카게 호토리%N⑳육체는 같지만 인격은 다름%N⑳DID(해리성 정체감 장애)를 앓음%N⑳이 설정은 2012년 기준%N%N%N주로 스피아 쪽에 등장.%N",
+      "source_en": "Beyond  the  Surface:%N        Represents  the  \"Shadow\"  (→  Archetype)%N        The  one  that  Kokoro  sees  is  the  real%N        Suzukage  Hotori.%N        The  body  is  the  same,  but  they're  different%N        individuals.%N        Has  DID  (Dissociative  Identity  Disorder).%N        This  is  her  status  as  of  2012.%N%NInubushi  Keiko  mainly  appears  in  the  SPHIA  side  of  the  story."
+    },
+    {
+      "site": 71472,
+      "pointer": 171296,
+      "tip": 97,
+      "target_ko": "사토루처럼 한 스피아에 머무는 중이다.%N본인은 특별히 의식하지 않지만%N주변을 농락하는 데 기쁨을 느껴%N자주 문제를 일으킨다.%N우츠미를 성가시게 여긴다.%N사토루의 관심을 끌려 한다.%N삶에 대한 집착이 희박하다.%N그룹의 골칫거리이자 트러블 메이커.%N",
+      "source_en": "Like  Satoru,  she  is  staying  at  SPHIA.%NShe  herself  isn't  particularly  aware  of  it,  but  she  takes  pleasure  in  trifling  with  her  surroundings,  often  causing  problems.%N%NShe  finds  Utsumi  irritating.%NShe  tries  to  draw  Satoru  in.%N%NShe  has  no  particular  attachment  to  life.%NA  burden  to  the  group,  and  a  troublemaker.  "
+    },
+    {
+      "site": 71484,
+      "pointer": 171684,
+      "tip": 98,
+      "target_ko": "이름: 구스다 유니／Kusuda Uni%N성별: 남성%N나이: 11세(사토루 시점에서는 12세)%N생일: 1999년 10월 19일(Libra)%N혈액형: AB형%N직업: 초등학교 5학년(사토루 시점에서는 6학년)%N",
+      "source_en": "Full  Name:  Kusuda  Yuni%NGender:  Male%NAge:  11  (12  as  seen  by  Satoru)%NBirthday:  October  19th,  1999  (Libra)%NBlood  type:  AB%NOccupation:%N        Fifth-grade  student%N        (Sixth-grade,  as  seen  by  Satoru)%NIntelligence:  Very  high%NPhysical  Strength:  Average  (appropriate  for  his  age)%N"
+    },
+    {
+      "site": 71488,
+      "pointer": 172004,
+      "tip": 98,
+      "target_ko": "지력: 매우 높음%N체력: 평균(나이에 걸맞음)%N협조성: 터무니없이 높거나%N⑳⑳터무니없이 낮음%N%N%N성격: 천진난만·겁이 많지만 다정함%N⑳재치가 뛰어남%N취미: 오컬트 의식%N⑳(타로점·분신사바 등)%N",
+      "source_en": "Cooperativeness:%N        Sometimes  ridiculously  high,%N        sometimes  unbelievably  low.%NPersonality:%N        Innocent.  Cowardly  but  kind-hearted.%N        Very  quick-witted.%NHobbies:%N        Occult-related  activities  (tarot,  divination,  etc.)%NLikes:%N        Lively  things,  happy  things,  friends%N"
+    },
+    {
+      "site": 71492,
+      "pointer": 172328,
+      "tip": 98,
+      "target_ko": "좋아함: 떠들썩한 일·즐거운 일·친구%N싫어함: 유물론·고독·라이프리히 제약%N이면 설정: 『트릭스터(광대)』를 상징함(→원형)%N⑳설산의 그는 시공간 전이 현상의 진실을%N⑳잘 알고 있음%N%N%N어째서인지 설산 쪽과 스피아 쪽 모두에 등장.%N한쪽에서는 비행기 사고 생존자이며,%N",
+      "source_en": "Dislikes:%N        Materialism,  loneliness,  Leiblich  Pharmaceuticals%NBeyond  the  Surface:%N        Represents  the  \"Trickster\"  (→  Archetype)%N        The  Yuni  who  exists  on  the  snowy  mountain  knows%N        the  truth  about  the  time-space  transfer  phenomenon.%N%NSomehow,  Kusuda  Yuni  appears  in  both  the  snowy  mountain  and  SPHIA  sides  of  the  story.%NIn  the  former,  he  is  a  survivor  of  the  plane  crash,  and  in  the  latter,  staying  in  SPHIA."
+    },
+    {
+      "site": 71496,
+      "pointer": 172820,
+      "tip": 98,
+      "target_ko": "다른 한쪽에서는 스피아에 머무는 중이다.%N오컬트, 특히 신지학 지식이 풍부하다.%N때때로 예언 같은 말을 해 주변을 놀라게 한다.%N(실제로 맞는다!)%N두 무대에 등장하는 수수께끼 많은 소년.%N과연 그의 진의는……?%N",
+      "source_en": "Has  abundant  knowledge  related  to  the  occult,  especially  theology.%NHe  sometimes  surprises  those  around  him  with  his  predictions  of  the  future  (since  they  often  come  true!).%NAn  enigmatic  boy  who  appears  in  both  places.%N%NWhat  are  his  true  intentions...?"
+    },
+    {
+      "site": 71508,
+      "pointer": 173144,
+      "tip": 99,
+      "target_ko": "이름: 스즈카게 호토리／Suzukage Hotori(본인)%N성별: 여성%N나이: 19세%N생일: 1991년 10월 30일(Scorpio)%N혈액형: A형%N직업: 재수생%N지력: 평균%N체력: 평균%N협조성: 평균%N",
+      "source_en": "Full  Name:  Suzukage  Hotori  (the  true  Hotori)%NGender:  Female%NAge:  19%NBirthday:  October  30th,  1991  (Scorpio)%NBlood  Type:  A%NOccupation:  College  preparatory  school  student%NIntelligence:  Average%NPhysical  Strength:  Average%NCooperativeness:  Average"
+    },
+    {
+      "site": 71512,
+      "pointer": 173416,
+      "tip": 99,
+      "target_ko": "성격: 내향적·조용함·섬세함·낯을 가림%N취미: 영화 감상(특히 여성이 주인공인 작품)%N⑳음악 감상·방 꾸미기·혼자 여행%N좋아함: 멋진 여성(동경함)·정리 정돈%N싫어함: 눈부신 곳·시끄러운 곳%N⑳어질러진 상태%N설정: 급성 실어증에 걸림%N⑳(추락 충격이 원인)%N",
+      "source_en": "Personality:%N        Introverted,  quiet,  shy  around  strangers%NHobbies:%N        Film  (especially  titles  with  female  leads),  music,%N        rearranging  her  room,  traveling  alone%NLikes:%N        Good-looking  women  (she  admires  them),  keeping%N        things  tidy  and  in  order%NDislikes:%N        Overly  bright  or  noisy  places,  messy  rooms"
+    },
+    {
+      "site": 71516,
+      "pointer": 173788,
+      "tip": 99,
+      "target_ko": "이면 설정: 항공기 사고를 당해%N⑳혼자 설산을 헤매다가%N⑳마침내 설원에서 움직일 수 없게 됨%N⑳발생한 시공간 전이 현상으로%N⑳이누부시의 육체와 전이를 반복함%N⑳이 설정은 2011년 기준%N",
+      "source_en": "Surface:%N        Suffers  from  acute  aphasia%N        (due  to  the  shock  from  the  plane  crash)%NBeyond  the  Surface:%N        After  being  caught  in  the  plane  crash,  she  wanders%N        alone  in  the  snowy  mountains  before  eventually%N        collapsing  in  the  middle  of  a  snowfield.%N        Due  to  the  space-time  transfer  phenomenon,  her  mind%N        transfers  in  and  out  of  Inubushi's  body.%N        This  is  her  status  as  of  2011."
+    },
+    {
+      "site": 71520,
+      "pointer": 174272,
+      "tip": 99,
+      "target_ko": "주로 스피아 쪽에 등장.%N하지만 극중에 등장할 때의 육체는%N이누부시 게이코의 것이다.%N본래 육체는 설원에 쓰러져 있다.%N(사토루 시점의 『호토리』는 이누부시)%N",
+      "source_en": "Suzukage  Hotori  mainly  appears  in  the  SPHIA  side  of  the  story.%N%NHowever,  the  body  she  resides  in  is  Inubushi  Keiko's.%NHer  real  body  lies  in  the  middle  of  a  snowfield.%N(The  \"Hotori\"  that  Satoru  sees  is  Inubushi.)  "
+    },
+    {
+      "site": 71532,
+      "pointer": 174556,
+      "tip": 100,
+      "target_ko": "이름: 유키도 사야카／Yukidoh Sayaka%N성별: 여성%N나이: 10세(향년)%N생일: 1990년 2월 22일(Pisces)%N혈액형: AB형%N직업: 초등학교 4학년(11년 전)%N",
+      "source_en": "Full  name:  Yukidoh  Sayaka%NGender:  Female%NAge:  10  years  (at  time  of  death)%NBirthday:  February  22nd,  1990  (Pisces)%NBlood  type:  AB%NOccupation:  Fourth-grade  student  (11  years  ago)%NIntelligence:%N        Changes  according  to  the  personality%N        (dominant  personality  =  average)"
+    },
+    {
+      "site": 71536,
+      "pointer": 174868,
+      "tip": 100,
+      "target_ko": "지력: 인격에 따라 달라짐(주인격=평균)%N체력: 인격에 따라 달라짐(주인격=평균)%N협조성: 인격에 따라 달라짐(주인격=평균)%N%N%N성격: 인격에 따라 달라짐%N⑳(주인격=온화하고 마음이 다정함%N⑳⑳심지가 굳음·영리함)%N",
+      "source_en": "Physical  Strength:%N        Changes  according  to  the  personality%N        (dominant  personality  =  average)%NCooperativeness:%N        Changes  according  to  the  personality%N        (dominant  personality  =  average)%NPersonality:%N        Changes  according  to  the  personality%N        (dominant  personality  =  gentle  and%N        pure-hearted,  strong,  intelligent)"
+    },
+    {
+      "site": 71540,
+      "pointer": 175256,
+      "tip": 100,
+      "target_ko": "취미: 인격에 따라 달라짐(주인격=독서)%N좋아함: 인격에 따라 달라짐%N⑳(주인격=오빠·가족·눈)%N싫어함: 인격에 따라 달라짐%N⑳(주인격=병원·약·나)%N설정: 사토루의 여동생. 이란성 쌍둥이%N",
+      "source_en": "Hobbies:%N        Changes  according  to  the  personality%N        (dominant  personality  =  reading)%NLikes:%N        Changes  according  to  the  personality%N        (dominant  personality  =  her  older  brother,%N        family,  snow)%NDislikes:%N        Changes  according  to  the  personality%N        (dominant  personality  =  hospitals,  medicine,%N        herself)"
+    },
+    {
+      "site": 71544,
+      "pointer": 175636,
+      "tip": 100,
+      "target_ko": "이면 설정: 2012년에서 11년 전 사망함%N%NDID(해리성 정체감 장애)를 앓았던%N사토루의 가장 사랑하는 여동생.%N",
+      "source_en": "Surface:%N        Satoru's  younger  sister  and  fraternal  twin.%NBeyond  the  Surface:%N        Died  11  years  prior  to  2012.%N        Diagnosed  with  DID  (dissociative  identity%N        disorder)."
+    },
+    {
+      "site": 71548,
+      "pointer": 175844,
+      "tip": 100,
+      "target_ko": "이제는 이 세상에 없는 사람…….%N회상 장면에서만 등장한다.%N그녀의 죽음을 계기로 사토루는 이번 『계획』을%N입안하고 실행하게 된다.%N",
+      "source_en": "Yukidoh  Sayaka  is  Satoru's  beloved  sister.  A  person  who  is  no  longer  in  this  world,  she  only  appears  in  a  flashback...%N%NHer  death  is  the  reason  Satoru  ends  up  designing  and  executing  the  current  \"plan\"."
+    },
+    {
+      "site": 71752,
+      "pointer": 194056,
+      "tip": 101,
+      "target_ko": "이름: 에노모토 나오야／Enomoto Naoya%N성별: 남성%N나이: 21세%N생일: 1990년 11월 27일(Sagittarius)%N혈액형: B형%N직업: 라이프리히 제약 공학연구부 연구제3과 근무%N지력: 높음%N체력: 평균%N협조성: 다소 낮음%N",
+      "source_en": "Full  Name:  Enomoto  Naoya%NGender:  Male%NAge:  21%NBirthday:  November  27th,  1990  （Sagittarius）%NBlood  Type:  B%NOccupation：%N        Employed  in  the  Third  Research  Department%N        of  Leiblich  Pharmaceuticals.%NIntelligence：  High%NPhysical  Strength：  Average%NCooperativeness：  Fairly  low%N"
+    },
+    {
+      "site": 71756,
+      "pointer": 194376,
+      "tip": 101,
+      "target_ko": "성격: 냉혹해 보이지만 실제로는 정이 깊음%N⑳이지적·냉정·감정 표현에 서툼%N취미: 일·십자말풀이%N좋아함: 기계%N싫어함: 비문명적인 환경%N설정: 시설 지하에 숨어 있는 남자%N⑳시공간 전이 현상을 속속들이 알고 있음%N",
+      "source_en": "Personality:%N        Seemingly  coldhearted,  but  deeply  emotional.%N        Intellectual.  Calm.  Poor  at  expressing  emotions.%NHobbies:%N        Work,  crossword  puzzles%NLikes:%N        Machines%NDislikes:%N        Uncivilized  environments"
+    },
+    {
+      "site": 71760,
+      "pointer": 194628,
+      "tip": 101,
+      "target_ko": "이면 설정: 사토루가 기억을 잃은 일과%N⑳쌍둥이 태아의 장난으로 문제가%N⑳생긴 일을 못마땅하게 여기지만,%N⑳이제 와서 중지할 수도 없어%N⑳말없이 사태의 추이를 지켜보고 있음%N⑳이 설정은 2012년 기준%N",
+      "source_en": "Surface:%N        The  man  lurking  under  the  facility.  Knows  everything%N        about  the  space-time  transfer  phenomenon.%NBeyond  the  Surface:%N        Displeased  with  the  flaws  born  from  Satoru's  memory%N        loss  as  well  as  the  caprices  of  the  fetal  twins,%N        but  not  being  able  to  stop  them,  he  silently  observes%N        the  course  of  events.%N        This  is  his  status  as  of  2012."
+    },
+    {
+      "site": 71764,
+      "pointer": 195072,
+      "tip": 101,
+      "target_ko": "주로 스피아 쪽에 등장.%N사토루의 동료.%N사토루와 함께 시공간 전이 장치를 만들고%N『계획』을 실행한다.%N스피아 지하에서 계획의 모든 것을%N감시하고 있다.%N",
+      "source_en": "Enomoto  Naoya  mainly  appears  in  the  SPHIA  side  of  the  story.%N%NHe  is  Satoru's  colleague.%NTogether  with  Satoru,  he  created  the  space-time  warping  device  and  executed  the  \"plan\".%N%NHe  continues  to  monitor  the  progress  of  the  plan  from  beneath  SPHIA.  "
+    },
+    {
+      "site": 71776,
+      "pointer": 195396,
+      "tip": 102,
+      "target_ko": "이름: 요모기 준이치／Yomogi Junichi%N성별: 남성%N나이: 9세(향년)%N생일: 1999년 1월 14일(Capricornus)%N혈액형: O형%N직업: 초등학교 4학년%N지력: 평균%N체력: 평균(나이에 걸맞음)%N협조성: 높음%N",
+      "source_en": "Full  Name:  Yomogi  Junichi%NGender:  Male%NAge:  9  (at  time  of  death)%NBirthday:  January  14th,  1999  (Capricorn)%NBlood  Type:  O%NOccupation:  Fourth-grade  student%NIntelligence:  Average%NPhysical  Strength:  Average  (appropriate  for  his  age)%NCooperativeness:  High"
+    },
+    {
+      "site": 71780,
+      "pointer": 195680,
+      "tip": 102,
+      "target_ko": "성격: 명랑함·솔직함·천진난만함%N취미: 스포츠·자전거 타기%N좋아함: 몸을 움직이는 일·부모님이 기뻐하는 얼굴%N싫어함: 외톨이%N설정: 요모기와 우츠미 사이에서 태어난 아이%N이면 설정: 2011년에서 2년 전,%N⑳이누부시에게 살해되어 이미 세상을 떠남%N",
+      "source_en": "Personality:%N        Cheerful,  honest,  innocent%NHobbies:%N        Sports,  cycling%NLikes:%N        Being  physically  active,  making  his  parents  happy%NDislikes:%N        Being  alone%NSurface:%N        The  child  of  Yomogi  and  Utsumi.%N"
+    },
+    {
+      "site": 71784,
+      "pointer": 195932,
+      "tip": 102,
+      "target_ko": "회상 장면에서만 등장한다.%N운동신경이 뛰어나고 솔직하며%N무척 훌륭한 아이였다.%N그의 죽음은 요모기 부부에게 상상을 초월하는 절망과%N증오를 낳았다.%N광기를 불러올 만큼…….%N",
+      "source_en": "Beyond  the  Surface:%N        Two  years  ago  (as  of  2011),  he  was  killed  by  Inubushi%N        and  has  already  passed  away.%N%NYomogi  Junichi  appears  only  in  flashbacks.%N%NOutstandingly  athletic  and  honest,  he  was  an  ideal  child  beloved  by  his  family.%NHis  death  brought  unimaginable  despair  and  hatred  to  his  parents,  enough  to  bring  on  madness...  "
+    },
+    {
+      "site": 71796,
+      "pointer": 196332,
+      "tip": 103,
+      "target_ko": "나는 『나』이지, 『내가』는 아니다.%N이곳에는 두 명의 『나』가 있다.%N그렇다면 『내가』는 누구지?%N그렇다면……%N『나』는 누구지?%N",
+      "source_en": "I  am  I  and  not  %C88FFI%CFFFF.%NThere  are  two  of  \"me\"  here.%NAnd  if  that's  the  case,  who  exactly  is  %C88FFI%CFFFF?%NAnd  if  that's  the  case...%NWho  exactly  am  I?  "
+    },
+    {
+      "site": 71808,
+      "pointer": 196524,
+      "tip": 104,
+      "target_ko": "1⑳:⑳반지름(radius), 비(ratio)를 나타내는 기호.%N⑳⑳　나아가 호(arc)라는 뜻.%N2⑳:⑳영어 알파벳의 열여덟 번째 글자.%N3⑳:⑳오른쪽(right)을 나타내는 기호.%N그리고 본작의 제목(Remember11)의 R.%NR에는 여러 의미가 담겨 있다.%N",
+      "source_en": "1.%X025The  symbol  for  \"radius\"  and  \"ratio\".  Represents  an  arc%N%X025extension.%N2.%X025The  18th  letter  of  the  alphabet.%N3.%X025The  symbol  for  \"right\".%N%NAnd  also,  the  R  from  the  title  of  this  game  (Remember11).%N%NThe  letter  R  is  full  of  significant  meanings.  "
+    },
+    {
+      "site": 71820,
+      "pointer": 196848,
+      "tip": 105,
+      "target_ko": "〔Lucid Dream〕%N꿈속에서 『지금 나는 꿈을 꾸고 있다』고%N자각하며 꾸는 꿈.%N또는 그런 기법.%N자각몽을 꾸는 사람은%N꿈속에서 그것이 꿈임을 깨닫고 있으며,%N그 뒤의 꿈을 자기 의지대로%N결정할 수 있다고 한다.%N",
+      "source_en": "When  one  is  dreaming,  yet  at  the  same  time  conscious  of  the  fact  that  he  or  she  is  currently  dreaming.%NIt  can  also  refer  to  the  technique  of  entering  such  a  dream.%N%NIt  is  said  that  those  who  are  having  lucid  dreams  realize  that  they  are  in  a  dream  and  are  able  to  direct  the  continuation  of  the  dream  according  to  their  own  will.  "
+    },
+    {
+      "site": 71832,
+      "pointer": 197276,
+      "tip": 106,
+      "target_ko": "사람마다 지니고 있는,%N남이 들어오면 불쾌하게 느끼는 범위.%N인간의 『영역』이라고 할 수 있다.%N",
+      "source_en": "The  region  of  space  surrounding  every  person  which  causes  them  discomfort  if  invaded.%N%NCan  be  referred  to  as  a  human's  territory.  "
+    },
+    {
+      "site": 71844,
+      "pointer": 197460,
+      "tip": 107,
+      "target_ko": "아오모리현 남핫코다 산계에 속한 산.%N해발 1298m.%N등산 등을 위해 겨울철에 찾아오는 사람도%N적지 않다.%N",
+      "source_en": "Part  of  Aomori  Prefecture's  Southern  Hakkouda  Mountain  Range.%N%NElevation:  1,298  meters.%N%NIt  draws  a  fair  number  of  people  during  the  winter  climbing  season.  "
+    },
+    {
+      "site": 71856,
+      "pointer": 197716,
+      "tip": 108,
+      "target_ko": "【Chaining】%N행동 연쇄.%N하나하나 절묘하게 교차하는 혼돈스러운 언행의 연쇄.%N%N【Scheme】%NScheming[스키밍]%N계략.%N무기질적인 연구소 벽 뒤에 숨겨진 계획.%N%N",
+      "source_en": "【Chaining】%NA  behavioral  sequence.%NThe  way  that  chaotic  speech  and  actions  are  linked  with  each  other  and  connected  one  by  one.%N%N【Scheme】%NScheming.%NThe  plan  formed  within  the  walls  of  the  inhuman  research  institute."
+    },
+    {
+      "site": 71860,
+      "pointer": 197972,
+      "tip": 108,
+      "target_ko": "【Anima】%N아니마. 내적 자아.%N남성의 여성적인 면(융 심리학).%N%N【Animus】%N아니무스. 의도. 맹렬한 적의.%N여성의 남성적인 면(융 심리학).%N%N【Persona】%N",
+      "source_en": "【Anima】%NThe  inner  self.%NThe  face  of  the  feminine  within  the  masculine  (in  Jungian  psychology).%N%N【Animus】%NIntentions.  Violent  hostility.%NThe  face  of  the  masculine  within  the  feminine  (in  Jungian  psychology)."
+    },
+    {
+      "site": 71864,
+      "pointer": 198216,
+      "tip": 108,
+      "target_ko": "페르소나. 남에게 보이기 위한 (억압된) 성격.%N%N【Old wise man】%N노현자. 『지혜』의 상징. 아버지상(위엄).%N때로는 시련을 주기도 한다.%N%N【Great mother】%N태모. 모든 것을 낳아 감싸고%N길러 낸다.%N그 한편으로는 대상을 붙잡아 놓지 않고 껴안아,%N마침내 『어둠의 깊이』를 지닌 모태 속으로%N",
+      "source_en": "【Persona】%NThe  (restrained)  self  that  one  presents  to  other  people.%N%N【Old  wise  man】%NA  symbol  of  \"wisdom\".  A  father  figure  (dignified).%NAt  times,  one  who  will  put  you  to  the  test.%N%N【Great  mother】%NShe  gives  birth  to  and  envelops  all  things,  raising  them.%NAs  an  aspect  of  that,  she  grasps  her  target  and  doesn't  let  it  go,  embraces  it  tightly,  and  at  last  engulfs  it  into"
+    },
+    {
+      "site": 71868,
+      "pointer": 198660,
+      "tip": 108,
+      "target_ko": "삼켜 버린다.%N%N【Shadow】%N개인적 그림자와 보편적 그림자. 당사자에게는%N불쾌한 것. 정반대의 것.%N원시적이고 어둡다. 억압할수록 강해진다.%N%N【Puer aeternus】%N영원한 소년. 그리스 엘레우시스 밀의의 동자신%N이아코스(Iakchos)에서 이름을 땄다.%N",
+      "source_en": "her  body  which  holds  the  depths  of  darkness.%N%N【Shadow】%NThe  individualistic  shadow  and  the  omnipresent  shadow.  To  the  person  in  question,  their  Shadow  is  something  which  they  hate.  An  entity  which  is  one's  polar  opposite.%NPossessed  of  a  primal  darkness.%NThe  more  it  is  repressed,  the  stronger  it  becomes."
+    },
+    {
+      "site": 71872,
+      "pointer": 199016,
+      "tip": 108,
+      "target_ko": "독창적이고 상상력이 풍부하지만 끈기가 없어%N사회에 적응하지 못한다.[푸에르 아이테르누스]%N%N【Trickstar】%N무질서의 정신, 경계를 무시하는 정신을 지녀%N질서를 깨고 문화적 약속을 어기는 자.%N자기가 원하는 것을%N교활한 속임수로 상대를 꾀어 손에 넣는다.%N이 면모가 고도로 발달하면%N신이나 군주를 속여 얻은 문화와 이익을%N인간과 민중에게 가져다주는 문화영웅이 된다.%N%N",
+      "source_en": "【Puer  aeternus】%NThe  eternal  boy.  Associated  with  the  Eleusinian  Mysteries  of  Greece  and  their  principal  god  or  priest  Iakchos.  Creative  and  possessing  a  vibrant  imagination.  However,  not  well-suited  to  everyday  society.%N%N【Trickster】%NOne  possessing  a  disordered  soul  which  rejects  all  boundaries,  destroys  all  order,  and  defies  all  social  conventions.  He  will  use  cunning  and  trickery  to  get  what  he  wants  from  his  opponent.  At  his  most  extreme,"
+    },
+    {
+      "site": 71876,
+      "pointer": 199532,
+      "tip": 108,
+      "target_ko": "【Self】%N태동／셀프%N%N【Communication】%N소통, 연락.%N%N【Anxiety】%N[앵자이어티] 불안%N%N【Cue】%N단서.%N%N【Paranoia】%N망상증·편집증%N",
+      "source_en": "he  will  deceive  even  monarchs  or  gods  without  a  moment's  hesitation,  and  by  giving  what  he  gains  to  the  mortal  populace,  he  becomes  a  mythical  hero.%N%N【Self】%NFetal  movements/Self.%N%N【Communication】%NContact.%N%N"
+    },
+    {
+      "site": 71880,
+      "pointer": 199780,
+      "tip": 108,
+      "target_ko": "내적 원인에서 발생하며 사고·의지·행동의 질서와%N명료함이 완전히 유지된 채%N서서히 발전하는, 지속적이고 확고한%N망상 체계이다.%N%N【Fear and Insanity】%N공포와 광기[인새니티]%N%N",
+      "source_en": "【Anxiety】%NUneasiness.%N%N【Cue】%NClue.%N%N【Paranoia】%NOriginating  internally,  the  will,  thoughts,  and  actions  all  become  irregular,  gradually  growing  more  and  more  disordered  and  eventually  reaching  the  point  of  a  persistent  set  of  delusions."
+    },
+    {
+      "site": 71884,
+      "pointer": 200056,
+      "tip": 108,
+      "target_ko": "【Thanatos】%N그리스 신화에서 『죽음』을 의인화한 신 『타나토스』.%N프로이트의 용어. 공격과 자기 파괴를 향하는%N죽음의 본능을 가리킨다.%N%N【Delusive consciousness】%N망상적 의식.[딜루시브 컨셔스니스]%N",
+      "source_en": "【Fear  and  Insanity】%NFear  and  Madness  [Insanity].%N%N【Thanatos】%NIn  Greek  mythology,  the  god  who  personifies  \"death\"  is  \"Thanatos\".  A  Freudian  term.  The  internal  instinct  toward  self-destruction.%N%N【Delusive  consciousness】%NA  delusional  consciousness."
+    },
+    {
+      "site": 71888,
+      "pointer": 200340,
+      "tip": 108,
+      "target_ko": "%N【Mantra】%N만트라. 신비한 힘을 지닌 문구. 진언.%N본래는 베다 경전 속 찬가를 말한다.%N%N【Multiple maze】%N다중 미로. 의식상의 착종→곤혹·동요·혼란.%N%N【Dreamy lens】%N",
+      "source_en": "【Mantra】%NA  spoken  phrase  which  holds  a  mysterious  power.%NOriginally  refers  to  hymns  in  the  Vedic  scriptures.%N%N【Multiple  maze】%NThe  complications  of  consciousness  →  bewilderment,%Nagitation,  and  confusion.%N%N【Dreamy  lens】%NImagining  something  which  calms  the  heart."
+    },
+    {
+      "site": 71892,
+      "pointer": 200648,
+      "tip": 108,
+      "target_ko": "몽상적이며 마음을 가라앉힌다.%N%N【Dark Gestalt】%N게슈탈트: 하나의 도형이나 멜로디처럼%N개별 요소의 합을 넘어선 통일된 의미와 구조를%N지니고, 변화·변환 속에서도 유지되는 형상. 형태.%N%N【Will -Theme-】%N의지.%N사고나 행동을 의식적·주체적으로 전개하고%N실행할 때 작용하는 정신 내의 과정.%N의식의 에너지적 측면이라고도 할 수 있다.%N%N%N【Catharsis】%N",
+      "source_en": "【Dark  Gestalt】%NGestalt:  An  appearance  which  is  maintained  through  changes  and  alterations,  and  which  holds  a  coherent  meaning  and  structure  greater  than  the  sum  of  its  individual  elements,  like  a  single  figure  or  melody.%N%N【Will  -Theme-】%NA  process  within  the  mind  which  operates  when  consciously  or  independently  developing  and  carrying  out  thoughts  and  actions.  It  can  also  be  said  to  be  the  energetic  aspect  of  consciousness."
+    },
+    {
+      "site": 71896,
+      "pointer": 201148,
+      "tip": 108,
+      "target_ko": "카타르시스. 아리스토텔레스가 『시학』에서%N전개한 설. 정화·배설이라는 뜻.%N비극을 보며 평소 쌓여 있던 감정을%N해방하고 정신을 정화하는 일.%N옛 의미에서는 치료적 의의를 강조한 듯하다.%N%N【All or None】%N전부 아니면 전무.(All or None Principle, 전부 아니면 전무의 법칙)%N바꾸어 말하면 『삶이냐 죽음이냐』.%N",
+      "source_en": "【Catharsis】%NFirst  referred  to  in  Aristotle's  \"Poetics\".  The  meaning  is  one  of  purification  or  purging.  The  release  of  the  negative  emotions  built  up  by  watching  a  tragedy  in  order  to  purify  the  mind  is  a  catharsis.%NIn  its  old  definition,  it  seems  this  word's  emphasis  was  on  catharsis  as  a  therapeutic  process  or  treatment.%N%N【All  or  None】%NThe  All  or  None  Principle.%NPut  another  way,  \"Life  or  Death\"."
+    },
+    {
+      "site": 71900,
+      "pointer": 201620,
+      "tip": 108,
+      "target_ko": "%N%N【δ Wave】%N·δ(델타)파　0.5~4Hz 미만%N……깊이 잠들었을 때 나타난다.%N⑳⑳　신생아나 성인의 『깊은 잠』에서 출현.%N%N·θ(세타)파　4~8Hz 미만%N……나른하게 잠이 들 때 나타난다.%N",
+      "source_en": "【δ  Wave】%N・δ  (Delta)  Wave  [Between  0.5  and  4  Hz]%N        Appears  during  sound  sleep.%N        In  newborns  as  well  as  adults,  appears  during%N        the  \"deep  sleep\"  stage.%N%N・θ  (Theta)  Wave  [Between  4  and  8  Hz]%N        Appears  when  a  person  has  gotten  sleepy."
+    },
+    {
+      "site": 71904,
+      "pointer": 201928,
+      "tip": 108,
+      "target_ko": "%N·β(베타)파　13~40Hz 미만%N……정신 활동을 하는 부위에 나타난다.%N%N%N·α(알파)파　8~13Hz 미만%N……뇌에서 쉬고 있는 부위에 나타나는 파동이다.%N⑳⑳　건강한 성인이 안정·이완한 상태로%N⑳⑳　눈을 감았을 때 후두부에 나타난다.%N⑳⑳　전두부에서는 잘 보이지 않는다.%N⑳⑳　이 α파는 눈을 뜨면 사라지고,%N⑳⑳　진폭도 작은 β파로 바뀐다. 이는%N⑳⑳　지금까지 쉬던 후두부의 시각야가%N",
+      "source_en": "・α  (Alpha)  Wave　[Between  8  and  13  Hz]%N        A  wave  that  appears  in  parts  of  the  brain  which  are%N        at  rest.  In  a  healthy  adult  who  is  relaxed  and  has%N        their  eyes  closed,  they  appear  in  the  occipital%N        region.  Rarely  observed  in  the  frontal  region.%N        These  alpha  waves  disappear  upon  opening  the  eyes,%N        and  change  to  β  waves  with  small  amplitudes.%N        This  is  because  the  visual  cortex  in  the  occipital%N        region,  which  had  been  at  rest  until  then,  starts%N        actively  working  due  to  the  eyes  being  opened.%N%N"
+    },
+    {
+      "site": 71908,
+      "pointer": 202576,
+      "tip": 108,
+      "target_ko": "⑳⑳　눈을 뜨면서 활발히 작동하기%N⑳⑳　때문이다.%N%N%N【Heuristic】%N휴리스틱.%N문제 해결법의 하나.%N옳다고 여겨지는 선택지를 차례로 시행착오하며%N따라가 정답을 얻으려는 해결법.%N%N【Nucleus】%N핵. 사물의 중심이 되는 것.%N핵심.[뉴클리어스]%N",
+      "source_en": "・β  (Beta)  Wave　[Between  13  and  40  Hz]%N        Appears  during  active  thinking.%N%N【Heuristic】%NOne  method  for  problem  solving.%NA  solution  method  which  tries  to  obtain  the  correct  answer  by  following  choices  in  order  which  seem  correct,  using  trial  and  error.%N%N【Nucleus】%NThe  core.  An  essential  part  of  matter.  "
+    },
+    {
+      "site": 71920,
+      "pointer": 203016,
+      "tip": 109,
+      "target_ko": "【α이자 ω인 것】%N그리스 알파벳에서 α는 첫 번째 글자(맨 처음),%Nω는 스물네 번째 글자(맨 마지막)를 뜻한다.%N이야기의 처음에 종말을 향한 발단이 있음을 나타낸다.%N%N【정신의 『소녀』】%N이누부시 본인을 말한다.%N이누부시 게이코뿐 아니라 후유카와 코코로도 포함한다.%N",
+      "source_en": "【The  α  and  the  ω】%NIn  the  Greek  alphabet,  α  is  the  first  letter  (the  beginning),  while  ω  is  the  last  (the  end).  The  intended  meaning  is  that  there  is  a  closing  resolution  within  the  beginning  of  the  story.%N%N【Ethereal  \"Girl\"】%NRefers  to  the  real  Inubushi.%NOther  than  Inubushi  Keiko,  it  also  refers  to  Fuyukawa  Kokoro."
+    },
+    {
+      "site": 71924,
+      "pointer": 203396,
+      "tip": 109,
+      "target_ko": "%N%N【주여. 위대한 세피로트여】%N『세피로트의 나무』는 유대교에서%N천국에 자라는 생명나무를 뜻한다.%N세피로트의 나무는 지극히 광대한 대우주를 나타내면서%N그 형상으로 인체라는 소우주도 나타낸다.%N나아가 신에게 이르는 정신적 편력도 의미한다.%N여기서는 『주』가 신, 곧 0차원의 존재다.%N※세피로트는 『세피로스』라고 표기하기도%N⑳⑳한다.%N%N%N【아니마 속의 아니무스】%N",
+      "source_en": "【O  Great  Sephirot,  Our  Master】%NIn  Judaism,  the  \"tree  of  Sephirot\"  is  a  tree  of  life  that  grows  in  Heaven.  The  tree  of  Sephirot  itself  represents  the  enormous  macrocosm,  while  its  form  also  represents  the  microcosm  (the  human  body).%N%NFurthermore,  it  also  holds  the  meaning  of  the  path  of  spiritual  pilgrimage  to  God.  In  this  case,  \"Master\"  means  God−that  is,  a  0th-dimensional  being.%N(Note:  Sephirot  has  a  number  of  alternative  spellings,    e.g.  \"Sephiroth.\")"
+    },
+    {
+      "site": 71928,
+      "pointer": 203932,
+      "tip": 109,
+      "target_ko": "유키도 사토루 안에 있는 후유카와 코코로의 의식.%N후유카와 코코로 안에 있는 유키도 사토루라고도 볼 수 있다.%N%N【변하려는 욕구】%N인간에게는 『현상을 유지하려는』 의식과%N『균형을 깨려는(변화시키려는)』 의식이%N존재하며 균형을 이룬다.%N추락 현장으로 가려는 욕구는 조난이라는 현상을 타개하려는 의식이 빚어낸 것이다.%N",
+      "source_en": "【The  Animus  Within  the  Anima】%NThe  consciousness  of  Fuyukawa  Kokoro  within  Yukidoh  Satoru;  can  also  be  understood  as  the  Yukidoh  Satoru  within  Fuyukawa  Kokoro.%N%N【A  Taste  of  the  Primordial  Sea】%N\"Primordial  sea\"  is  a  metaphor  for  the  amniotic  fluid  in  the  mother's  body  which  surrounds  and  cushions  the  fetus,  softening  the  shocks  from  outside."
+    },
+    {
+      "site": 71932,
+      "pointer": 204332,
+      "tip": 109,
+      "target_ko": "%N%N【나는 여기에 있어】%N조난당한 자신들의 상황을 어딘가에 알리고 싶은%N심정. 심리학적 측면에서 보면%N자기의 존재를 타인에게 표현한다는 뜻도 있다.%N%N【태초 바다의 맛】%N『태초의 바다』는 모태 안의 태아 등이%N압박받지 않게 하고 외부 충격을%N완화하는 양막액(양수)을 비유한 말.%N%N【사슬 모양 나선】%N서로 얽힌 두 장소와 두 의식을%N",
+      "source_en": "【I'm  Here】%NThe  desire  of  those  caught  in  the  accident  to  make  their  situation  known  elsewhere.  From  a  psychology  perspective,  it  can  also  refer  to  expressing  one's  existence  to  others.%N%N【The  Desire  to  Change】%NOne  characteristic  of  the  human  psyche  is  the  presence  of  two  opposing  wills,  the  \"will  to  preserve  the  status  quo\"  and  the  \"will  to  break  the  balance  (bring  changes),\"  which  maintain  an  equilibrium."
+    },
+    {
+      "site": 71936,
+      "pointer": 204812,
+      "tip": 109,
+      "target_ko": "『사슬』과 『나선』으로 바꾸어 표현한다.%N생물의 정보를 전하는 유전자의 염기서열도%N『사슬』 모양이자 『나선』 모양이다.%N%N【두려워하는 존재, 두려움의 대상】%N코코로(사토루의 육체)는 누군가에게 노려지고 있다?%N유니는 코코로(사토루의 육체)에게 노려지고 있다?%N과연 무엇이 진실일까?%N――누구나 의심과 두려움에 빠져 간다.%N%N%N【축복의 영접을 받으며】%N",
+      "source_en": "The  desire  to  visit  the  crash  site  arises  from  the  latter  of  the  two  wills,  which  strives  to  break  down  the  present  situation  of  being  stranded  at  the  crash  site.%N%N【Chainlike  Spiral】%NTwo  different  places  and  consciousnesses,  intertwined  and  switching  places  with  each  other  in  \"chain\"  and  \"spiral\"  patterns.  The  helical  base  sequence  of  DNA,  which  holds  all  the  information  about  a  living  being,  also  takes  the  form  of  a  chainlike  spiral."
+    },
+    {
+      "site": 71940,
+      "pointer": 205328,
+      "tip": 109,
+      "target_ko": "기독교에서는 죽음을 『육체』와 『정신』이%N분리되는 때라고 한다.%N죽음을 맞이하면 지친%N『육체』에는 휴식이 주어지고,%N『정신(영혼)』은 성화되어 천국의 축복을%N받는다고 한다.%N%N%N【영원한 소년】·【Puer⑳Aeternus】%N",
+      "source_en": "【Frightens  and  is  Frightened】%N(The  One  That  Frightens,  the  One  That  is  Frightened)%NIs  someone  after  Kokoro  (in  Satoru's  body)'s  life?%NIs  Kokoro  (in  Satoru's  body)  after  Yuni's  life?%NJust  what  is  the  truth?%NEveryone  just  keeps  falling  further  and  further  into  paranoia.%N%N"
+    },
+    {
+      "site": 71944,
+      "pointer": 205648,
+      "tip": 109,
+      "target_ko": "심리학자 융은 인간의 『원형』(아키타입) 가운데%N하나로 『영원한 소년』을 들었다.%N이는 『피터 팬 증후군』이라고도 하며%N독창적이고 상상력이 풍부한 한편,%N성인이어도 마음이 충분히 성숙하지 못해%N사회생활에 지장을 초래하기도 하는 의식을 말한다.%N하지만 여기서 말하는 것은 이와 달리%N젊어서 죽음을 맞은%N『구스다 유니(BAD END에서만)』와 『요모기 준이치』를 뜻한다.%N%N%N【언젠가 돌아갈 약속의 장소로】%N",
+      "source_en": "【While  Receiving  Blessings】%NIn  Christianity,  death  is  regarded  as  the  time  of  separation  of  the  \"body\"  and  the  \"mind\".  It  is  said  that  at  the  time  of  death,  the  exhausted  \"body\"  is  laid  to  rest,  while  the  \"mind  (soul)\"  is  sanctified  and  receives  Heaven's  blessing.%N%N【Eternal  Boy】・【Ｐｕｅｒ　Ａｅｔｅｒｎｕｓ】%NThe  \"Eternal  Boy\"  is  an  example  of  what  Jung,  a  famous  psychologist,  called  human  \"archetypes\".  Also  referred  to  as  \"Peter  Pan  Syndrome\",  this  refers  to  the  mind  of"
+    },
+    {
+      "site": 71948,
+      "pointer": 206204,
+      "tip": 109,
+      "target_ko": "세계 3대 종교에서 『약속의 장소』는%N『예루살렘』을 가리키며,%N신이 내어 준 곳·신이 찾아오는 곳이라고%N한다.%N코코로가 조난 7일째 발견한 X 지점은 그야말로%N신의 가호라고 할 수 있다.%N『돌아감』은 설산에서의 귀환과 더불어 영혼의 환원을%N뜻한다.%N%N%N【신세계에 신이 내려서다】%N",
+      "source_en": "a  person  who  is  highly  creative  and  rich  in  imagination,  but  though  an  adult,  is  immature  at  heart,  which  could  lead  them  to  be  a  source  of  problems  in  regards  to  social  life.%N%NHowever,  the  meaning  is  not  that  of  the  previous  example;  it  is  instead  used  as  an  allusion  to  \"Kusuda  Yuni  (bad  ending  only)\"  and  \"Yomogi  Junichi\",  who  died  while  still  young."
+    },
+    {
+      "site": 71952,
+      "pointer": 206624,
+      "tip": 109,
+      "target_ko": "시공간 전이로 생겨난 『세계』는%N마치 『신』이 창조한 듯한%N『새로운 세계』이다.%N%N【바구니 속의...】%N카고메 노래에서 『카고메(篭目)』……육망성%N테레시코바의 말은 『카모메(鴎)』……갈매기%N코코로는 『카고메(籠女)』……???%N……뒤의 정면은, 누구야?%N%N%N【Prenatal】%N『(태아 등이) 태어나기 전』의 상태.%N모태 안이라는 뜻에 더해 전이의 발생도 포함한다.%N%N【Polyhedron】%N",
+      "source_en": "【The  Promised  Land  to  Return  to】%N(The  Promised  Land  To  Which  We  Must  Someday  Return)%NIn  the  world's  three  primary  religions,  \"The  Promised  Land\"  is  a  term  used  to  refer  to  \"Jerusalem\",  which  is  regarded  as  the  land  bestowed  by  God,  and  one  which  God  visits.%NIt  can  be  argued  that  Kokoro's  discovery  of  Location  X  on  the  seventh  day  after  the  accident  could  only  have  occurred  due  to  an  act  of  the  divine.  \"Return\"  means  both  the  escape  from  the  mountains  and  the  return  of  souls  to  their  respective  origins."
+    },
+    {
+      "site": 71956,
+      "pointer": 207224,
+      "tip": 109,
+      "target_ko": "수학 용어로 『다면체』라는 뜻.%N네 개 이상의 다각형으로 이루어진 면에 둘러싸인 입체.%N많은 사각형으로 구성된%N스피아를 나타내면서,%N동시에 스피아의 동거인들도 가리킨다.%N%N%N【Crucify’s⑳Rat】%N번역하면 『십자가에 못 박힌(고통받는) 쥐』.%NMAO 억제제를 체내에 흡수하여%N빈사 상태에 빠진 쥐를%N",
+      "source_en": "【God  Descends  to  the  New  World】%NThe  \"world\"  brought  forth  by  space-time  transfer  can  be  said  to  resemble  a  \"new  world\"  of  \"God's\"  creation.%N%N【Within  the  Cage...】%NIn  the  Kagome  song  lyrics,  it's  kagome/篭目...  hexagram;%Nin  Tereshkova's  words,  it's  kamome/カモメ...  seagull;%Nin  Kokoro's  case,  it's  kagome/籠女...  sealed  girl???%N%N...Who's  that  behi――ind  you?"
+    },
+    {
+      "site": 71960,
+      "pointer": 207640,
+      "tip": 109,
+      "target_ko": "십자가에 못 박힌 그리스도에 빗대 표현한 것.%N%N%N%N【Isomorphism】%N생물학 용어로 『상동 물질』이라는 뜻.%N2012년에 나타난 산장,%N2011년에 나타난 스피아.%N유키도 사토루 안의 후유카와 코코로,%N후유카와 코코로 안의 유키도 사토루.%N이들을 비유하는 데 쓰였다.%N%N%N%N【Nucleotide】%N뉴클레오타이드.%N",
+      "source_en": "【Ｐｒｅｎａｔａｌ】%NThe  state  of  \"being  or  happening  before  birth  (of  a  fetus,  etc.).\"  In  addition  to  the  meaning  of  being  inside  a  mother's  body,  it  also  covers  the  occurrence  of  the  transfers.%N%N【Ｐｏｌｙｈｅｄｒｏｎ】%NMathematical  terminology.%NA  three-dimensional  object  surrounded  by  a  surface  composed  of  four  or  more  polygons.  Although  it  refers  to  SPHIA,  which  is  formed  of  many  quadrilaterals,  at  the"
+    },
+    {
+      "site": 71964,
+      "pointer": 208112,
+      "tip": 109,
+      "target_ko": "뉴클레오사이드의 당 수산기에 인산이%N에스터 결합한 것.%N핵산의 구성 단위.%N이번 시공간 전이의 수수께끼는 뉴클레오타이드처럼%N복잡하고 사슬처럼 수수께끼와 수수께끼가 얽혀 간다.%N",
+      "source_en": "same  time  it  alludes  to  those  living  together  in  SPHIA.%N%N【Ｃｒｕｃｉｆｉｅｄ⑳Ｒａｔ】%NLikens  what  the  rat  felt  in  its  near-death  state  due  to  ingesting  the  MAO  inhibitor  to  the  image  of  the  crucified  Christ.%N%N"
+    },
+    {
+      "site": 71968,
+      "pointer": 208360,
+      "tip": 109,
+      "target_ko": "%N【Insertion】%N『삽입』한다는 뜻.%N이누부시는 사토루에게 입으로 사탕을 넣게 했다.%N시공간 전이로 코코로의 의식은 사토루에게,%N사토루의 의식은 코코로에게 삽입된다.%N생화학에서는 DNA 배열 안에 다른 DNA가%N",
+      "source_en": "【Ｉｓｏｍｏｒｐｈｉｓｍ】%NA  term  from  biology,  it  means  a  similarity  of  form  or  structure.%NThe  mountain  cabin  that  appeared  in  2012.%NThe  SPHIA  that  appeared  in  2011.%NThe  Fuyukawa  Kokoro  within  Yukidoh  Satoru.%NThe  Yukidoh  Satoru  within  Fuyukawa  Kokoro.%NIt  is  used  as  a  metaphor  for  these.%N%N"
+    },
+    {
+      "site": 71972,
+      "pointer": 208700,
+      "tip": 109,
+      "target_ko": "섞여 드는 일을 뜻한다.%N%N【Miracle⑳Child】%N미라클 차일드.%N융이 말한 『원형』의 하나. 시원아.%N%N【Hekate】%N헤카테. 그리스 신화에 등장하는 신 가운데 하나.%N죽음과 얼음의 여신. 달의 여신이라고도 한다.%N%N【The⑳Third⑳Area】%N",
+      "source_en": "【Ｎｕｃｌｅｏｔｉｄｅ】%NA  nucleotide  is  a  molecule  formed  by  an  ester  bond  between  nucleoside  sugar  hydroxyl  and  phosphoric  acid.%NIt  is  an  element  of  nucleic  acid.%NThe  mysteries  of  the  space-time  transfer  phenomenon  of  this  story  are,  like  nucleotides,  intertwined  in  complex  and  chainlike  ways.%N%N【Ｍｉｒａｃｌｅ⑳Ｃｈｉｌｄ】%NOne  of  the  Jungian  archetypes.%N%N"
+    },
+    {
+      "site": 71976,
+      "pointer": 209116,
+      "tip": 109,
+      "target_ko": "『세 번째 장소』　――그곳은 『호타루비 광산』.%N『세 번째 인격』　――그것은……?%N%N【Apoptosis】%N세포가 자체 프로그램에 따라%N계획적으로 탈락해 죽는 현상.%N에노모토라고 자칭한 인물은 어떤 계획이 실패하여%N불순물인 유키도 사토루를 살해했다.%N",
+      "source_en": "【Ｉｎｓｅｒｔｉｏｎ】%NInubushi  orally  inserts  a  candy  into  Satoru's  mouth  with  her  own.%NKokoro's  mind  is  inserted  into  Satoru's  body  and  vice  versa  due  to  the  space-time  transfer  phenomenon.%NIn  biochemistry,  insertion  is  the  addition  of  foreign  DNA  into  the  existing  DNA  sequence."
+    },
+    {
+      "site": 71980,
+      "pointer": 209440,
+      "tip": 109,
+      "target_ko": "마치 아포토시스처럼 유키도 사토루라는 존재는%N세계에서 소멸했다.%N%N%N【Ambivalence】%N양가감정. 심리학 용어. 같은 대상을 향해%N사랑과 증오처럼 상반된 감정이나 태도가%N",
+      "source_en": "【Ｈｅｋａｔｅ】%NA  deity  from  the  Greek  pantheon.%NThe  goddess  of  death  and  ice.  Also  said  to  be  the  goddess  of  the  moon.%N%N【Ｔｈｅ⑳Ｔｈｉｒｄ⑳Ａｒｅａ】%N\"The  third  area\"−−That  would  be  \"Hotarubi  Mine.\"%N\"The  third  personality\"−−That  would  be...?"
+    },
+    {
+      "site": 71984,
+      "pointer": 209728,
+      "tip": 109,
+      "target_ko": "동시에 존재하는 것. 양가성. 양면 가치.%N사토루 육체의 코코로를 향한 타인들의 감정.%N코코로 육체의 사토루를 향한 타인들의 감정.%N코코로와 사토루가 품은 자신을 향한 감정,%N코코로가 사토루에게 품은 감정,%N사토루가 코코로에게 품은 감정,%N그것들이 마침내 모두 하나가 된다.%N%N%N",
+      "source_en": "【Ａｐｏｐｔｏｓｉｓ】%NApoptosis  is  the  phenomenon  of  the  controlled  death  of  a  cell,  mediated  by  an  intracellular  program.%NAs  a  result  of  a  certain  plan  failing,  the  person  who  calls  himself  Enomoto,  regarding  Yukidoh  Satoru  as  an  impure  foreign  body,  killed  him.%NThe  entity  called  Yukidoh  Satoru  vanished  from  the  world,  as  if  through  apoptosis."
+    },
+    {
+      "site": 71988,
+      "pointer": 210132,
+      "tip": 109,
+      "target_ko": "【Identification】%N동일시.%N동일성의 확인. 일체화, 동일화.%N자기 육체와 영혼을 동일화할 수 있게 된%N코코로와 사토루.%N새삼 파트너를 자기 눈으로 바라봄으로써%N서로를 하나로 받아들일 수 있게 되었다.%N……그것은 『사랑』이라는 것인지도 모른다.%N%N%N【Delta】%Nδ. 그리스 알파벳의 네 번째 글자.%N수나 함수의 변화량을 나타내는 기호.%N",
+      "source_en": "【Ａｍｂｉｖａｌｅｎｃｅ】%NA  psychology  term;  ambivalence  is  a  state  of  having  simultaneous,  conflicting  feelings,  like  love  and  hate,  toward  the  same  object.%N%NThe  feelings  of  others  toward  Kokoro  in  Satoru's  body.%NThe  feelings  of  others  toward  Satoru  in  Kokoro's  body.%NThe  feelings  of  Kokoro  and  Satoru  toward  themselves,%Nthe  feelings  of  Kokoro  toward  Satoru,%Nthe  feelings  of  Satoru  toward  Kokoro;%Neventually,  all  of  these  become  one."
+    },
+    {
+      "site": 71992,
+      "pointer": 210636,
+      "tip": 109,
+      "target_ko": "α와 ω로 시작된 이야기는 δ로 막을 내린다.%N마치 삼각형의 꼭짓점들이 서로 만나는 것처럼.%N%N【Where⑳Is⑳“Self”?】%N직역하면 『셀프는 어디에?』. 본편에서 몇 번이고%N나오는 이 말이 뜻하는 것은?%N『셀프(자기)』라는 존재란?%N",
+      "source_en": "【Ｉｄｅｎｔｉｆｉｃａｔｉｏｎ】%NThe  confirmation  of  sameness.  Unification.%NKokoro  and  Satoru  were  able  to  identify  their  own  bodies  and  souls.%NBy  seeing  their  partner  anew  with  their  own  eyes,  they  became  able  to  unify  with  each  other.%N...Perhaps  that  is  what  is  called  \"love\"."
+    }
+  ],
+  "audit": [
+    {
+      "tip": 0,
+      "title_ko": "소시오로지",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        69856
+      ]
+    },
+    {
+      "tip": 1,
+      "title_ko": "인새니티",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        69868
+      ]
+    },
+    {
+      "tip": 2,
+      "title_ko": "저녁",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        69880
+      ]
+    },
+    {
+      "tip": 3,
+      "title_ko": "SPHIA",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        69892,
+        69896
+      ]
+    },
+    {
+      "tip": 4,
+      "title_ko": "아오사기섬",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        69908
+      ]
+    },
+    {
+      "tip": 5,
+      "title_ko": "비박",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        69920
+      ]
+    },
+    {
+      "tip": 6,
+      "title_ko": "러셀",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        69932
+      ]
+    },
+    {
+      "tip": 7,
+      "title_ko": "GPS",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        69944
+      ]
+    },
+    {
+      "tip": 8,
+      "title_ko": "동결 건조",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        69956
+      ]
+    },
+    {
+      "tip": 9,
+      "title_ko": "라플라스의 악마",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        69968,
+        69972
+      ]
+    },
+    {
+      "tip": 10,
+      "title_ko": "안드로규노스",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        69984
+      ]
+    },
+    {
+      "tip": 11,
+      "title_ko": "성정체성 장애",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        69996
+      ]
+    },
+    {
+      "tip": 12,
+      "title_ko": "클론과 클론법",
+      "japanese_pages": 14,
+      "pc_pages": 14,
+      "sites": [
+        70008,
+        70012,
+        70016,
+        70020,
+        70024,
+        70028,
+        70032,
+        70036,
+        70040,
+        70044,
+        70048,
+        70052,
+        70056,
+        70060
+      ]
+    },
+    {
+      "tip": 13,
+      "title_ko": "LAN",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70072
+      ]
+    },
+    {
+      "tip": 14,
+      "title_ko": "브라우저",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70084
+      ]
+    },
+    {
+      "tip": 15,
+      "title_ko": "주인격·부인격",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70096
+      ]
+    },
+    {
+      "tip": 16,
+      "title_ko": "거부 반응",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70108
+      ]
+    },
+    {
+      "tip": 17,
+      "title_ko": "뉴런",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70120
+      ]
+    },
+    {
+      "tip": 18,
+      "title_ko": "시냅스",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70132
+      ]
+    },
+    {
+      "tip": 19,
+      "title_ko": "호스트 컴퓨터",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70144
+      ]
+    },
+    {
+      "tip": 20,
+      "title_ko": "클라이언트",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70156
+      ]
+    },
+    {
+      "tip": 21,
+      "title_ko": "부부 별성",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70168
+      ]
+    },
+    {
+      "tip": 22,
+      "title_ko": "텔레포테이션",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70180
+      ]
+    },
+    {
+      "tip": 23,
+      "title_ko": "프랑스 외인부대",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        70192,
+        70196
+      ]
+    },
+    {
+      "tip": 24,
+      "title_ko": "나이프 손질",
+      "japanese_pages": 3,
+      "pc_pages": 2,
+      "sites": [
+        70208,
+        70212
+      ]
+    },
+    {
+      "tip": 25,
+      "title_ko": "오쿠시리섬",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70224
+      ]
+    },
+    {
+      "tip": 26,
+      "title_ko": "삼엽충",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70236
+      ]
+    },
+    {
+      "tip": 27,
+      "title_ko": "비행 기록 장치",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70248
+      ]
+    },
+    {
+      "tip": 28,
+      "title_ko": "태양풍",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70260
+      ]
+    },
+    {
+      "tip": 29,
+      "title_ko": "위성 전화",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70272
+      ]
+    },
+    {
+      "tip": 30,
+      "title_ko": "브로켄의 요괴",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70284
+      ]
+    },
+    {
+      "tip": 31,
+      "title_ko": "표본",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70296
+      ]
+    },
+    {
+      "tip": 32,
+      "title_ko": "피켈",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70308
+      ]
+    },
+    {
+      "tip": 33,
+      "title_ko": "롬브로소",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70320
+      ]
+    },
+    {
+      "tip": 34,
+      "title_ko": "관상학",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70332
+      ]
+    },
+    {
+      "tip": 35,
+      "title_ko": "점성술",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70344
+      ]
+    },
+    {
+      "tip": 36,
+      "title_ko": "DSM",
+      "japanese_pages": 2,
+      "pc_pages": 3,
+      "sites": [
+        70356,
+        70360,
+        70364
+      ]
+    },
+    {
+      "tip": 37,
+      "title_ko": "DSM-IV",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70376
+      ]
+    },
+    {
+      "tip": 38,
+      "title_ko": "경계성 인격 장애",
+      "japanese_pages": 6,
+      "pc_pages": 6,
+      "sites": [
+        70388,
+        70392,
+        70396,
+        70400,
+        70404,
+        70408
+      ]
+    },
+    {
+      "tip": 39,
+      "title_ko": "융프라우",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70420
+      ]
+    },
+    {
+      "tip": 40,
+      "title_ko": "국선 변호인",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        70432,
+        70436
+      ]
+    },
+    {
+      "tip": 41,
+      "title_ko": "안드로메다",
+      "japanese_pages": 3,
+      "pc_pages": 3,
+      "sites": [
+        70448,
+        70452,
+        70456
+      ]
+    },
+    {
+      "tip": 42,
+      "title_ko": "저체온증",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70468
+      ]
+    },
+    {
+      "tip": 43,
+      "title_ko": "화이트아웃",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70480
+      ]
+    },
+    {
+      "tip": 44,
+      "title_ko": "설피",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70492
+      ]
+    },
+    {
+      "tip": 45,
+      "title_ko": "데우스 엑스 마키나",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        70504,
+        70508
+      ]
+    },
+    {
+      "tip": 46,
+      "title_ko": "코아세르베이트",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70520
+      ]
+    },
+    {
+      "tip": 47,
+      "title_ko": "콜로이드",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70532
+      ]
+    },
+    {
+      "tip": 48,
+      "title_ko": "물자체",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70544
+      ]
+    },
+    {
+      "tip": 49,
+      "title_ko": "기억 이식",
+      "japanese_pages": 6,
+      "pc_pages": 6,
+      "sites": [
+        70556,
+        70560,
+        70564,
+        70568,
+        70572,
+        70576
+      ]
+    },
+    {
+      "tip": 50,
+      "title_ko": "지금",
+      "japanese_pages": 3,
+      "pc_pages": 3,
+      "sites": [
+        70588,
+        70592,
+        70596
+      ]
+    },
+    {
+      "tip": 51,
+      "title_ko": "로르샤흐 검사",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70608
+      ]
+    },
+    {
+      "tip": 52,
+      "title_ko": "로큰롤",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70620
+      ]
+    },
+    {
+      "tip": 53,
+      "title_ko": "카포에이라",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70632
+      ]
+    },
+    {
+      "tip": 54,
+      "title_ko": "회의론",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70644
+      ]
+    },
+    {
+      "tip": 55,
+      "title_ko": "나는 갈매기",
+      "japanese_pages": 3,
+      "pc_pages": 3,
+      "sites": [
+        70656,
+        70660,
+        70664
+      ]
+    },
+    {
+      "tip": 56,
+      "title_ko": "상자 속에 갇힌 고양이",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        70676,
+        70680
+      ]
+    },
+    {
+      "tip": 57,
+      "title_ko": "렉세닌",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        70692,
+        70696
+      ]
+    },
+    {
+      "tip": 58,
+      "title_ko": "점수: 0-0",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70708
+      ]
+    },
+    {
+      "tip": 59,
+      "title_ko": "슈퍼컴퓨터",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70720
+      ]
+    },
+    {
+      "tip": 60,
+      "title_ko": "해마",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        70732,
+        70736
+      ]
+    },
+    {
+      "tip": 61,
+      "title_ko": "양자",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70748
+      ]
+    },
+    {
+      "tip": 62,
+      "title_ko": "양자역학",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        70760,
+        70764
+      ]
+    },
+    {
+      "tip": 63,
+      "title_ko": "슈뢰딩거 방정식",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70776
+      ]
+    },
+    {
+      "tip": 64,
+      "title_ko": "파동함수",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70788
+      ]
+    },
+    {
+      "tip": 65,
+      "title_ko": "EPR",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        70800,
+        70804
+      ]
+    },
+    {
+      "tip": 66,
+      "title_ko": "불확정성 원리",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70816
+      ]
+    },
+    {
+      "tip": 67,
+      "title_ko": "EPR 논문",
+      "japanese_pages": 4,
+      "pc_pages": 4,
+      "sites": [
+        70828,
+        70832,
+        70836,
+        70840
+      ]
+    },
+    {
+      "tip": 68,
+      "title_ko": "동시에 발생시킨 두 입자",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        70852,
+        70856
+      ]
+    },
+    {
+      "tip": 69,
+      "title_ko": "앨리스와 밥",
+      "japanese_pages": 2,
+      "pc_pages": 1,
+      "sites": [
+        70868
+      ]
+    },
+    {
+      "tip": 70,
+      "title_ko": "얽힘 상태",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70880
+      ]
+    },
+    {
+      "tip": 71,
+      "title_ko": "큐비트",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        70892,
+        70896
+      ]
+    },
+    {
+      "tip": 72,
+      "title_ko": "양자 컴퓨터",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70908
+      ]
+    },
+    {
+      "tip": 73,
+      "title_ko": "벨 측정",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70920
+      ]
+    },
+    {
+      "tip": 74,
+      "title_ko": "유니터리 변환",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70932
+      ]
+    },
+    {
+      "tip": 75,
+      "title_ko": "라이프리히 제약",
+      "japanese_pages": 5,
+      "pc_pages": 5,
+      "sites": [
+        70944,
+        70948,
+        70952,
+        70956,
+        70960
+      ]
+    },
+    {
+      "tip": 76,
+      "title_ko": "튀어나오는 나이프",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70972
+      ]
+    },
+    {
+      "tip": 77,
+      "title_ko": "약 100시간분",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70984
+      ]
+    },
+    {
+      "tip": 78,
+      "title_ko": "시각",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        70996
+      ]
+    },
+    {
+      "tip": 79,
+      "title_ko": "장소",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        71008
+      ]
+    },
+    {
+      "tip": 80,
+      "title_ko": "오후 ――시 ――분",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        71020
+      ]
+    },
+    {
+      "tip": 81,
+      "title_ko": "균형이 유지되는 위치",
+      "japanese_pages": 3,
+      "pc_pages": 3,
+      "sites": [
+        71032,
+        71036,
+        71040
+      ]
+    },
+    {
+      "tip": 82,
+      "title_ko": "다세계 해석",
+      "japanese_pages": 12,
+      "pc_pages": 12,
+      "sites": [
+        71052,
+        71056,
+        71060,
+        71064,
+        71068,
+        71072,
+        71076,
+        71080,
+        71084,
+        71088,
+        71092,
+        71096
+      ]
+    },
+    {
+      "tip": 83,
+      "title_ko": "그 녀석",
+      "japanese_pages": 4,
+      "pc_pages": 3,
+      "sites": [
+        71108,
+        71112,
+        71116
+      ]
+    },
+    {
+      "tip": 84,
+      "title_ko": "다윗",
+      "japanese_pages": 3,
+      "pc_pages": 3,
+      "sites": [
+        71128,
+        71132,
+        71136
+      ]
+    },
+    {
+      "tip": 85,
+      "title_ko": "솔로몬",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        71148,
+        71152
+      ]
+    },
+    {
+      "tip": 86,
+      "title_ko": "사울",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        71164,
+        71168
+      ]
+    },
+    {
+      "tip": 87,
+      "title_ko": "최종 레벨",
+      "japanese_pages": 2,
+      "pc_pages": 2,
+      "sites": [
+        71180,
+        71184
+      ]
+    },
+    {
+      "tip": 88,
+      "title_ko": "infinity",
+      "japanese_pages": 3,
+      "pc_pages": 2,
+      "sites": [
+        71196,
+        71200
+      ]
+    },
+    {
+      "tip": 89,
+      "title_ko": "해후",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        71212
+      ]
+    },
+    {
+      "tip": 90,
+      "title_ko": "알람 시계",
+      "japanese_pages": 16,
+      "pc_pages": 14,
+      "sites": [
+        71224,
+        71228,
+        71232,
+        71236,
+        71240,
+        71244,
+        71248,
+        71252,
+        71256,
+        71260,
+        71264,
+        71268,
+        71272,
+        71276
+      ]
+    },
+    {
+      "tip": 91,
+      "title_ko": "영아 산통",
+      "japanese_pages": 7,
+      "pc_pages": 6,
+      "sites": [
+        71288,
+        71292,
+        71296,
+        71300,
+        71304,
+        71308
+      ]
+    },
+    {
+      "tip": 92,
+      "title_ko": "후유카와 코코로",
+      "japanese_pages": 4,
+      "pc_pages": 5,
+      "sites": [
+        71320,
+        71324,
+        71328,
+        71332,
+        71336
+      ]
+    },
+    {
+      "tip": 93,
+      "title_ko": "유키도 사토루",
+      "japanese_pages": 7,
+      "pc_pages": 6,
+      "sites": [
+        71348,
+        71352,
+        71356,
+        71360,
+        71364,
+        71368
+      ]
+    },
+    {
+      "tip": 94,
+      "title_ko": "마유즈미 린",
+      "japanese_pages": 4,
+      "pc_pages": 4,
+      "sites": [
+        71380,
+        71384,
+        71388,
+        71392
+      ]
+    },
+    {
+      "tip": 95,
+      "title_ko": "요모기 세이지",
+      "japanese_pages": 4,
+      "pc_pages": 4,
+      "sites": [
+        71404,
+        71408,
+        71412,
+        71416
+      ]
+    },
+    {
+      "tip": 96,
+      "title_ko": "우츠미 칼리",
+      "japanese_pages": 4,
+      "pc_pages": 5,
+      "sites": [
+        71428,
+        71432,
+        71436,
+        71440,
+        71444
+      ]
+    },
+    {
+      "tip": 97,
+      "title_ko": "이누부시 게이코",
+      "japanese_pages": 4,
+      "pc_pages": 5,
+      "sites": [
+        71456,
+        71460,
+        71464,
+        71468,
+        71472
+      ]
+    },
+    {
+      "tip": 98,
+      "title_ko": "구스다 유니",
+      "japanese_pages": 3,
+      "pc_pages": 4,
+      "sites": [
+        71484,
+        71488,
+        71492,
+        71496
+      ]
+    },
+    {
+      "tip": 99,
+      "title_ko": "스즈카게 호토리",
+      "japanese_pages": 4,
+      "pc_pages": 4,
+      "sites": [
+        71508,
+        71512,
+        71516,
+        71520
+      ]
+    },
+    {
+      "tip": 100,
+      "title_ko": "유키도 사야카",
+      "japanese_pages": 3,
+      "pc_pages": 5,
+      "sites": [
+        71532,
+        71536,
+        71540,
+        71544,
+        71548
+      ]
+    },
+    {
+      "tip": 101,
+      "title_ko": "에노모토 나오야",
+      "japanese_pages": 4,
+      "pc_pages": 4,
+      "sites": [
+        71752,
+        71756,
+        71760,
+        71764
+      ]
+    },
+    {
+      "tip": 102,
+      "title_ko": "요모기 준이치",
+      "japanese_pages": 3,
+      "pc_pages": 3,
+      "sites": [
+        71776,
+        71780,
+        71784
+      ]
+    },
+    {
+      "tip": 103,
+      "title_ko": "나",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        71796
+      ]
+    },
+    {
+      "tip": 104,
+      "title_ko": "R",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        71808
+      ]
+    },
+    {
+      "tip": 105,
+      "title_ko": "자각몽",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        71820
+      ]
+    },
+    {
+      "tip": 106,
+      "title_ko": "개인 공간",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        71832
+      ]
+    },
+    {
+      "tip": 107,
+      "title_ko": "아카쿠라산",
+      "japanese_pages": 1,
+      "pc_pages": 1,
+      "sites": [
+        71844
+      ]
+    },
+    {
+      "tip": 108,
+      "title_ko": "BGM 제목에 담긴 의미",
+      "japanese_pages": 15,
+      "pc_pages": 14,
+      "sites": [
+        71856,
+        71860,
+        71864,
+        71868,
+        71872,
+        71876,
+        71880,
+        71884,
+        71888,
+        71892,
+        71896,
+        71900,
+        71904,
+        71908
+      ]
+    },
+    {
+      "tip": 109,
+      "title_ko": "장면 제목에 담긴 의미",
+      "japanese_pages": 21,
+      "pc_pages": 19,
+      "sites": [
+        71920,
+        71924,
+        71928,
+        71932,
+        71936,
+        71940,
+        71944,
+        71948,
+        71952,
+        71956,
+        71960,
+        71964,
+        71968,
+        71972,
+        71976,
+        71980,
+        71984,
+        71988,
+        71992
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schema": "contextual-game-localization.language-contract.v1",
+  "source_language": "ja-JP",
+  "semantic_source": {
+    "primary": "FILE/mac.afs and unsuffixed Japanese UI assets",
+    "fallback": "English only when Japanese cannot supply the meaning, including presentation lines stored in English inside the Japanese build and English-only Gestalt Special Mode text."
+  },
+  "replacement_slot": {
+    "slot": "existing English patch slot",
+    "executable_base": "R11-English.exe",
+    "archive_suffix": "-en",
+    "delivery_executable": "R11-Korean-Gestalt.exe"
+  },
+  "target_language": "ko-KR",
+  "preserved_languages": [
+    "ja-JP"
+  ],
+  "source_encoding": "CP932 / Shift-JIS in decompressed scenario bytecode",
+  "target_encoding": "CP932 technical carrier map with custom Hangul glyphs in FNT2626.FOP",
+  "display_exceptions": [
+    {
+      "range": "0x8640-0x86FC",
+      "count": 188,
+      "reason": "Preserved English-slot transient/floating glyph bank; excluded from Hangul carriers"
+    },
+    {
+      "rule": "Only undefined slots and unused CJK ideograph slots may be repurposed; punctuation, kana, Latin, spacing, and technical glyphs are protected"
+    }
+  ],
+  "asset_edit_rule": "Do not paint Korean over source text; remove source glyphs and recreate the affected asset at identical canvas size, aspect ratio, and placement.",
+  "status": "confirmed",
+  "font": "Noto Sans KR variable font, weight 500 at the original 34 px full-width cell; original advance, line height, and placement preserved; raster UI Medium 500",
+  "control_code_policy": "Preserve Japanese-source control sequences. Do not force a dialogue color: retain the PC original's default light glyph body and dark edge pass. Never add color commands to choice records because the choice renderer exposes them literally.",
+  "translator_model": "Codex internal",
+  "provenance": {
+    "agent_model_family": "Codex / GPT-5.5",
+    "codex_task_slug": "f-down-remember11-the-age-of",
+    "translation_method": "Japanese-context semantic translation written by Codex internal; no external translation model or API used.",
+    "translation_inputs": {
+      "gestalt_full_map_sha256": "1d132f21da4b2eb0ddae3eb36b0d38ce8ad72c418cc61aef45329b007e1479a6",
+      "script_pool_tree_sha256": "0ae9f217eca8962aaa7ed21388639b82594e31fde74d929fd451325c1973901a",
+      "manual_overrides_sha256": "0ef4bc2414c34ea35222e427e34ac37488cc6d39941ead21eb515c7544bed53e",
+      "executable_ui_catalog_sha256": "d6939ad2efb8d88ba851c051d6dc9b1105c9165c874a0661829c4a47a960d042",
+      "tips_sha256": "04e8062439974243e163d318b7d1ef1243a52bc65b63216e2c36459b86ab3db4",
+      "chronology_sha256": "fe48e66f642995a0f146f022f99ef40dd278236b65478659ae4e198f06b00f13",
+      "ui_rendered_tree_sha256": "f5c6cfd7b2cba0048418042af9926cd62db645e146e145bb82ecb3a393ae85ba"
+    }
+  }
+}
